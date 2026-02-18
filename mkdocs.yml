@@ -9,4 +9,3 @@ plugins:
 
 nav:
   - Home: index.md
-  - Repositories: repos/
