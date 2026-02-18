@@ -70,12 +70,12 @@ def render_index_page(
 
     lines: List[str] = [
         "---",
-        "title: Open Source Radar AI",
+        "title: Open Source Weekly Radar AI",
         "---",
         "",
-        "# Open Source Radar AI",
+        "# Open Source Weekly Radar AI",
         "",
-        "AI-curated GitHub repositories with architect-level insights.",
+        "AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.",
         "",
         f"_Generated on {generated_on.isoformat()}_",
         "",
