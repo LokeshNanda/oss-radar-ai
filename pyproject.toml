@@ -1,0 +1,25 @@
+[project]
+name = "open-source-radar-ai"
+version = "0.1.0"
+description = "AI-powered GitHub Open Source Radar"
+requires-python = ">=3.11"
+dependencies = [
+    "requests",
+    "python-dotenv",
+    "mkdocs",
+    "mkdocs-material",
+]
+
+[project.scripts]
+radar-fetch = "open_source_radar_ai.cli:main_fetch"
+radar-run = "open_source_radar_ai.cli:main_run"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

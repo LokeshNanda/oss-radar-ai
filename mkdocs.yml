@@ -1,0 +1,12 @@
+site_name: Open Source Radar AI
+site_description: AI-curated GitHub trending repositories with architect-level insights
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Repositories: repos/
