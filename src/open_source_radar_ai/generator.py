@@ -58,6 +58,107 @@ def write_repo_page(
     return atomic_write_text_if_changed(path, content)
 
 
+def weekly_report_path(reference_date: date, *, docs_dir: Path) -> Path:
+    """Return the path for a weekly report page."""
+    return docs_dir / "reports" / f"{reference_date.isoformat()}.md"
+
+
+def render_weekly_report_page(
+    repos: Iterable[Repository],
+    *,
+    generated_on: date,
+    docs_dir: Path,
+) -> str:
+    """Render a weekly report page with links to repo pages."""
+    repo_list = list(repos)
+    repo_list.sort(key=lambda r: (-r.stargazers_count, r.full_name))
+
+    lines: List[str] = [
+        "---",
+        f"title: Week of {generated_on.isoformat()}",
+        "---",
+        "",
+        f"# Week of {generated_on.isoformat()}",
+        "",
+        "AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.",
+        "",
+        f"_Generated on {generated_on.isoformat()}_",
+        "",
+        "## Repositories",
+        "",
+    ]
+
+    for repo in repo_list:
+        rel_path = repo_markdown_path(repo, docs_dir=docs_dir).relative_to(docs_dir)
+        # Report lives in docs/reports/, so link to repos/ needs ../
+        repo_link = "../" + rel_path.as_posix()
+        desc = (repo.description or "").strip()
+        suffix = f" — {desc}" if desc else ""
+        lines.append(f"- [`{repo.full_name}`]({repo_link}){suffix}")
+
+    lines.extend(["", "[← View past weeks](../archive.md)", ""])
+    return "\n".join(lines)
+
+
+def write_weekly_report_page(
+    repos: Iterable[Repository],
+    *,
+    generated_on: date,
+    docs_dir: Path,
+) -> bool:
+    """Write a weekly report page."""
+    path = weekly_report_path(generated_on, docs_dir=docs_dir)
+    ensure_dir(path.parent)
+    content = render_weekly_report_page(
+        repos, generated_on=generated_on, docs_dir=docs_dir
+    )
+    return atomic_write_text_if_changed(path, content)
+
+
+def list_existing_reports(docs_dir: Path) -> List[date]:
+    """List report dates from docs/reports/*.md, sorted newest first."""
+    reports_dir = docs_dir / "reports"
+    if not reports_dir.exists():
+        return []
+    dates: List[date] = []
+    for p in reports_dir.glob("*.md"):
+        stem = p.stem
+        if len(stem) == 10 and stem[4] == "-" and stem[7] == "-":
+            try:
+                dates.append(date.fromisoformat(stem))
+            except ValueError:
+                continue
+    dates.sort(reverse=True)
+    return dates
+
+
+def render_archive_page(docs_dir: Path) -> str:
+    """Render the archive page listing all weekly reports."""
+    report_dates = list_existing_reports(docs_dir)
+    lines: List[str] = [
+        "---",
+        "title: Past Weeks",
+        "---",
+        "",
+        "# Past Weeks",
+        "",
+        "Browse weekly reports by date.",
+        "",
+    ]
+    for d in report_dates:
+        rel = f"reports/{d.isoformat()}.md"
+        lines.append(f"- [Week of {d.isoformat()}]({rel})")
+    lines.extend(["", "[← Back to homepage](index.md)", ""])
+    return "\n".join(lines)
+
+
+def write_archive_page(docs_dir: Path) -> bool:
+    """Write the archive page listing all weekly reports."""
+    path = docs_dir / "archive.md"
+    content = render_archive_page(docs_dir)
+    return atomic_write_text_if_changed(path, content)
+
+
 def render_index_page(
     repos: Iterable[Repository],
     *,
@@ -89,7 +190,7 @@ def render_index_page(
         suffix = f" — {desc}" if desc else ""
         lines.append(f"- [`{repo.full_name}`]({rel_path.as_posix()}){suffix}")
 
-    lines.append("")
+    lines.extend(["", "[View past weeks →](archive.md)", ""])
     return "\n".join(lines)
 
 
@@ -109,6 +210,12 @@ __all__ = [
     "repo_markdown_path",
     "render_repo_page",
     "write_repo_page",
+    "weekly_report_path",
+    "render_weekly_report_page",
+    "write_weekly_report_page",
+    "list_existing_reports",
+    "render_archive_page",
+    "write_archive_page",
     "render_index_page",
     "write_index_page",
 ]

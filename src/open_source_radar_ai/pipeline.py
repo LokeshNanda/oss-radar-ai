@@ -11,7 +11,12 @@ from typing import List
 from .config import AppConfig, load_config
 from .dedupe import load_state, save_state, update_state_with_processed
 from .fetch import fetch_trending_repositories
-from .generator import write_index_page, write_repo_page
+from .generator import (
+    write_archive_page,
+    write_index_page,
+    write_repo_page,
+    write_weekly_report_page,
+)
 from .models import Repository
 from .summarize import SummarizationError, build_default_client, summarize_repository
 
@@ -72,9 +77,14 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
 
     index_written = False
     if summarized:
+        write_weekly_report_page(
+            summarized, generated_on=cfg.reference_date, docs_dir=docs_dir
+        )
         index_written = write_index_page(
             summarized, generated_on=cfg.reference_date, docs_dir=docs_dir
         )
+
+    write_archive_page(docs_dir)
 
     new_state = update_state_with_processed(state, summarized)
     save_state(new_state)

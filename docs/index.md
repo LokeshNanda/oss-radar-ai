@@ -20,3 +20,5 @@ _Generated on 2026-02-23_
 - [`RightNow-AI/picolm`](repos/rightnow-ai--picolm.md) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 - [`Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot`](repos/daniel-dias001--polymarket-rsi-macd-index-trading-bot.md) — Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
 - [`Leonxlnx/taste-skill`](repos/leonxlnx--taste-skill.md) — Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
+
+[View past weeks →](archive.md)

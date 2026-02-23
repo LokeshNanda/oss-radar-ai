@@ -9,3 +9,4 @@ plugins:
 
 nav:
   - Home: index.md
+  - Past weeks: archive.md
