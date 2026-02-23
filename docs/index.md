@@ -6,17 +6,17 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-02-18_
+_Generated on 2026-02-23_
 
 ## Latest repositories
 
-- [`zeroclaw-labs/zeroclaw`](repos/zeroclaw-labs--zeroclaw.md) — Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-- [`bwya77/vscode-dark-islands`](repos/bwya77--vscode-dark-islands.md) — VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [`HKUDS/ClawWork`](repos/hkuds--clawwork.md) — "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-- [`xyzeva/k-id-age-verifier`](repos/xyzeva--k-id-age-verifier.md) — automatically verify your age on discord, twitch, kick, quora and more (k-id)
-- [`millionco/react-doctor`](repos/millionco--react-doctor.md) — Let coding agents diagnose and fix your React code
-- [`RevylAI/greenlight`](repos/revylai--greenlight.md) — Pre-submission compliance scanner for the Apple App Store
-- [`vercel-labs/portless`](repos/vercel-labs--portless.md) — Replace port numbers with stable, named .localhost URLs. For humans and agents.
-- [`mickamy/sql-tap`](repos/mickamy--sql-tap.md) — Watch SQL traffic in real-time with a TUI
-- [`HKUDS/FastCode`](repos/hkuds--fastcode.md) — "FastCode: Accelerating and Streamlining Your Code Understanding"
-- [`Conway-Research/automaton`](repos/conway-research--automaton.md) — The first AI that can earn its own existence, replicate, and evolve — without needing a human
+- [`nicobailon/visual-explainer`](repos/nicobailon--visual-explainer.md) — Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
+- [`nullclaw/nullclaw`](repos/nullclaw--nullclaw.md) — Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+- [`Zaneham/BarraCUDA`](repos/zaneham--barracuda.md) — Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.
+- [`ShinMegamiBoson/OpenPlanter`](repos/shinmegamiboson--openplanter.md)
+- [`tnm/zclaw`](repos/tnm--zclaw.md) — Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
+- [`DataExpert-io/ai-engineer-handbook`](repos/dataexpert-io--ai-engineer-handbook.md) — All the links, books, and creators you need to follow to stay up to date with AI!
+- [`CraftyGeezer/Kalshi-Polymarket-Ai-bot`](repos/craftygeezer--kalshi-polymarket-ai-bot.md)
+- [`RightNow-AI/picolm`](repos/rightnow-ai--picolm.md) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
+- [`Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot`](repos/daniel-dias001--polymarket-rsi-macd-index-trading-bot.md) — Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
+- [`Leonxlnx/taste-skill`](repos/leonxlnx--taste-skill.md) — Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
