@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-02-23_
+_Generated on 2026-03-02_
 
 ## Latest repositories
 
-- [`nicobailon/visual-explainer`](repos/nicobailon--visual-explainer.md) — Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
-- [`nullclaw/nullclaw`](repos/nullclaw--nullclaw.md) — Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [`Zaneham/BarraCUDA`](repos/zaneham--barracuda.md) — Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.
-- [`ShinMegamiBoson/OpenPlanter`](repos/shinmegamiboson--openplanter.md)
-- [`tnm/zclaw`](repos/tnm--zclaw.md) — Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
-- [`DataExpert-io/ai-engineer-handbook`](repos/dataexpert-io--ai-engineer-handbook.md) — All the links, books, and creators you need to follow to stay up to date with AI!
-- [`CraftyGeezer/Kalshi-Polymarket-Ai-bot`](repos/craftygeezer--kalshi-polymarket-ai-bot.md)
-- [`RightNow-AI/picolm`](repos/rightnow-ai--picolm.md) — Run a 1-billion parameter LLM on a $10 board with 256MB RAM
-- [`Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot`](repos/daniel-dias001--polymarket-rsi-macd-index-trading-bot.md) — Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket
-- [`Leonxlnx/taste-skill`](repos/leonxlnx--taste-skill.md) — Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
+- [`RightNow-AI/openfang`](repos/rightnow-ai--openfang.md) — Open-source Agent Operating System
+- [`anthropics/financial-services-plugins`](repos/anthropics--financial-services-plugins.md)
+- [`cloudflare/vinext`](repos/cloudflare--vinext.md) — Vite plugin that reimplements the Next.js API surface — deploy anywhere
+- [`agentscope-ai/CoPaw`](repos/agentscope-ai--copaw.md) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [`Panniantong/Agent-Reach`](repos/panniantong--agent-reach.md) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [`Lakr233/vphone-cli`](repos/lakr233--vphone-cli.md)
+- [`peteromallet/dataclaw`](repos/peteromallet--dataclaw.md)
+- [`mksglu/claude-context-mode`](repos/mksglu--claude-context-mode.md) — Stop losing context to large outputs.
+- [`Polymarket/polymarket-cli`](repos/polymarket--polymarket-cli.md)
+- [`ForLoopCodes/contextplus`](repos/forloopcodes--contextplus.md) — Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 
 [View past weeks →](archive.md)
