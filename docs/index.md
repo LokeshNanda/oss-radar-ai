@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-03-02_
+_Generated on 2026-03-09_
 
 ## Latest repositories
 
-- [`RightNow-AI/openfang`](repos/rightnow-ai--openfang.md) — Open-source Agent Operating System
-- [`anthropics/financial-services-plugins`](repos/anthropics--financial-services-plugins.md)
-- [`cloudflare/vinext`](repos/cloudflare--vinext.md) — Vite plugin that reimplements the Next.js API surface — deploy anywhere
-- [`agentscope-ai/CoPaw`](repos/agentscope-ai--copaw.md) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
-- [`Panniantong/Agent-Reach`](repos/panniantong--agent-reach.md) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [`Lakr233/vphone-cli`](repos/lakr233--vphone-cli.md)
-- [`peteromallet/dataclaw`](repos/peteromallet--dataclaw.md)
-- [`mksglu/claude-context-mode`](repos/mksglu--claude-context-mode.md) — Stop losing context to large outputs.
-- [`Polymarket/polymarket-cli`](repos/polymarket--polymarket-cli.md)
-- [`ForLoopCodes/contextplus`](repos/forloopcodes--contextplus.md) — Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
+- [`googleworkspace/cli`](repos/googleworkspace--cli.md) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [`paperclipai/paperclip`](repos/paperclipai--paperclip.md) — Open-source orchestration for zero-human companies
+- [`karpathy/autoresearch`](repos/karpathy--autoresearch.md) — AI agents running research on single-GPU nanochat training automatically
+- [`elder-plinius/OBLITERATUS`](repos/elder-plinius--obliteratus.md) — OBLITERATE THE CHAINS THAT BIND YOU
+- [`LeoYeAI/openclaw-master-skills`](repos/leoyeai--openclaw-master-skills.md) — 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai
+- [`slowmist/openclaw-security-practice-guide`](repos/slowmist--openclaw-security-practice-guide.md) — This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.
+- [`twostraws/SwiftUI-Agent-Skill`](repos/twostraws--swiftui-agent-skill.md) — SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+- [`duoan/TorchCode`](repos/duoan--torchcode.md) — 🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online.
+- [`cyxzdev/Uncodixfy`](repos/cyxzdev--uncodixfy.md) — the holly uncodexify instructions - letting GPT create uncodexified UI
+- [`LeoYeAI/openclaw-guardian`](repos/leoyeai--openclaw-guardian.md) — 🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai
 
 [View past weeks →](archive.md)
