@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-03-23_
+_Generated on 2026-03-30_
 
 ## Latest repositories
 
-- [`HKUDS/ClawTeam`](repos/hkuds--clawteam.md) — ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
-- [`MiniMax-AI/skills`](repos/minimax-ai--skills.md)
-- [`VoltAgent/awesome-codex-subagents`](repos/voltagent--awesome-codex-subagents.md) — A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
-- [`danveloper/flash-moe`](repos/danveloper--flash-moe.md) — Running a big model on a small laptop
-- [`math-inc/OpenGauss`](repos/math-inc--opengauss.md)
-- [`lcoutodemos/clui-cc`](repos/lcoutodemos--clui-cc.md) — Clui CC — Command Line User Interface for Claude Code
-- [`lxf746/any-auto-register`](repos/lxf746--any-auto-register.md)
-- [`dontbesilent2025/dbskill`](repos/dontbesilent2025--dbskill.md) — dontbesilent 的商业诊断 Skills for Claude Code
-- [`mattprusak/autoresearch-genealogy`](repos/mattprusak--autoresearch-genealogy.md) — Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.
-- [`truongduy2611/app-store-preflight-skills`](repos/truongduy2611--app-store-preflight-skills.md) — AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission
+- [`slavingia/skills`](repos/slavingia--skills.md) — Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+- [`larksuite/cli`](repos/larksuite--cli.md) — A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+- [`HKUDS/OpenSpace`](repos/hkuds--openspace.md) — "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+- [`magnum6actual/flipoff`](repos/magnum6actual--flipoff.md) — Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
+- [`elder-plinius/G0DM0D3`](repos/elder-plinius--g0dm0d3.md) — LIBERATED AI CHAT
+- [`alvinunreal/awesome-opensource-ai`](repos/alvinunreal--awesome-opensource-ai.md) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+- [`opa334/darksword-kexploit`](repos/opa334--darksword-kexploit.md) — iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
+- [`nashsu/opencli-rs`](repos/nashsu--opencli-rs.md) — Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
+- [`facebookresearch/tribev2`](repos/facebookresearch--tribev2.md) — This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction
+- [`jxnxts/mcp-brasil`](repos/jxnxts--mcp-brasil.md) — MCP Server para 41 APIs públicas brasileiras
 
 [View past weeks →](archive.md)
