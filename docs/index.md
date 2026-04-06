@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-03-30_
+_Generated on 2026-04-06_
 
 ## Latest repositories
 
-- [`slavingia/skills`](repos/slavingia--skills.md) — Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
-- [`larksuite/cli`](repos/larksuite--cli.md) — A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-- [`HKUDS/OpenSpace`](repos/hkuds--openspace.md) — "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
-- [`magnum6actual/flipoff`](repos/magnum6actual--flipoff.md) — Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
-- [`elder-plinius/G0DM0D3`](repos/elder-plinius--g0dm0d3.md) — LIBERATED AI CHAT
-- [`alvinunreal/awesome-opensource-ai`](repos/alvinunreal--awesome-opensource-ai.md) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
-- [`opa334/darksword-kexploit`](repos/opa334--darksword-kexploit.md) — iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
-- [`nashsu/opencli-rs`](repos/nashsu--opencli-rs.md) — Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)
-- [`facebookresearch/tribev2`](repos/facebookresearch--tribev2.md) — This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction
-- [`jxnxts/mcp-brasil`](repos/jxnxts--mcp-brasil.md) — MCP Server para 41 APIs públicas brasileiras
+- [`ultraworkers/claw-code`](repos/ultraworkers--claw-code.md) — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [`Gitlawb/openclaude`](repos/gitlawb--openclaude.md) — Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+- [`VoltAgent/awesome-design-md`](repos/voltagent--awesome-design-md.md) — Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+- [`claude-code-best/claude-code`](repos/claude-code-best--claude-code.md) — 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
+- [`openai/codex-plugin-cc`](repos/openai--codex-plugin-cc.md) — Use Codex from Claude Code to review code or delegate tasks.
+- [`sanbuphy/learn-coding-agent`](repos/sanbuphy--learn-coding-agent.md) — Research on Coding Agents
+- [`ChinaSiro/claude-code-sourcemap`](repos/chinasiro--claude-code-sourcemap.md)
+- [`Kuberwastaken/claurst`](repos/kuberwastaken--claurst.md) — Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
+- [`titanwings/colleague-skill`](repos/titanwings--colleague-skill.md) — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- [`emdash-cms/emdash`](repos/emdash-cms--emdash.md) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 [View past weeks →](archive.md)
