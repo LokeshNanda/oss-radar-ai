@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-04-06_
+_Generated on 2026-04-13_
 
 ## Latest repositories
 
-- [`ultraworkers/claw-code`](repos/ultraworkers--claw-code.md) — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-- [`Gitlawb/openclaude`](repos/gitlawb--openclaude.md) — Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
-- [`VoltAgent/awesome-design-md`](repos/voltagent--awesome-design-md.md) — Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
-- [`claude-code-best/claude-code`](repos/claude-code-best--claude-code.md) — 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
-- [`openai/codex-plugin-cc`](repos/openai--codex-plugin-cc.md) — Use Codex from Claude Code to review code or delegate tasks.
-- [`sanbuphy/learn-coding-agent`](repos/sanbuphy--learn-coding-agent.md) — Research on Coding Agents
-- [`ChinaSiro/claude-code-sourcemap`](repos/chinasiro--claude-code-sourcemap.md)
-- [`Kuberwastaken/claurst`](repos/kuberwastaken--claurst.md) — Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
-- [`titanwings/colleague-skill`](repos/titanwings--colleague-skill.md) — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
-- [`emdash-cms/emdash`](repos/emdash-cms--emdash.md) — EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+- [`farzaa/clicky`](repos/farzaa--clicky.md)
+- [`xixu-me/awesome-persona-distill-skills`](repos/xixu-me--awesome-persona-distill-skills.md) — 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
+- [`KKKKhazix/khazix-skills`](repos/kkkkhazix--khazix-skills.md) — 数字生命卡兹克开源的 AI Skills 合集
+- [`alchaincyf/hermes-agent-orange-book`](repos/alchaincyf--hermes-agent-orange-book.md) — Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+- [`yizhiyanhua-ai/fireworks-tech-graph`](repos/yizhiyanhua-ai--fireworks-tech-graph.md) — Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+- [`mattmireles/gemma-tuner-multimodal`](repos/mattmireles--gemma-tuner-multimodal.md) — Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
+- [`QLHazyCoder/codex-oauth-automation-extension`](repos/qlhazycoder--codex-oauth-automation-extension.md) — Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+- [`nashsu/llm_wiki`](repos/nashsu--llm-wiki.md) — LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+- [`wxtsky/CodeIsland`](repos/wxtsky--codeisland.md)
+- [`phuryn/claude-usage`](repos/phuryn--claude-usage.md) — A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 
 [View past weeks →](archive.md)
