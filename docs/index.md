@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-04-20_
+_Generated on 2026-04-27_
 
 ## Latest repositories
 
-- [`getagentseal/codeburn`](repos/getagentseal--codeburn.md) — See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
-- [`Robbyant/lingbot-map`](repos/robbyant--lingbot-map.md) — A feed-forward 3D foundation model for reconstructing scenes from streaming data
-- [`browser-use/browser-harness`](repos/browser-use--browser-harness.md) — Self-healing browser harness that enables LLMs to complete any task.
-- [`vercel-labs/wterm`](repos/vercel-labs--wterm.md) — A terminal emulator for the web
-- [`kyegomez/OpenMythos`](repos/kyegomez--openmythos.md) — A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-- [`Nightmare-Eclipse/RedSun`](repos/nightmare-eclipse--redsun.md) — The Red Sun vulnerability repository
-- [`lewislulu/html-ppt-skill`](repos/lewislulu--html-ppt-skill.md) — HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-- [`alchaincyf/darwin-skill`](repos/alchaincyf--darwin-skill.md) — 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
-- [`Manavarya09/design-extract`](repos/manavarya09--design-extract.md) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
-- [`BuilderPulse/BuilderPulse`](repos/builderpulse--builderpulse.md) — AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.
+- [`tw93/Kami`](repos/tw93--kami.md) — 👩‍🚒 Good content deserves good paper.
+- [`op7418/guizang-ppt-skill`](repos/op7418--guizang-ppt-skill.md) — A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+- [`Einsia/OpenChronicle`](repos/einsia--openchronicle.md)
+- [`cosmicstack-labs/mercury-agent`](repos/cosmicstack-labs--mercury-agent.md) — Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
+- [`ConardLi/garden-skills`](repos/conardli--garden-skills.md) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- [`masterking32/MasterHttpRelayVPN`](repos/masterking32--masterhttprelayvpn.md) — Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.
+- [`leigest519/OpenGame`](repos/leigest519--opengame.md) — OpenGame: Open Agentic Coding for Games
+- [`deepseek-ai/TileKernels`](repos/deepseek-ai--tilekernels.md) — A kernel library written in tilelang
+- [`victorchen96/deepseek_v4_rolepaly_instruct`](repos/victorchen96--deepseek-v4-rolepaly-instruct.md) — 对于DeepSeek-V4角色扮演的特殊控制指令的说明
+- [`openclaw/clawsweeper`](repos/openclaw--clawsweeper.md) — ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 
 [View past weeks →](archive.md)
