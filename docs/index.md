@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-04-27_
+_Generated on 2026-05-04_
 
 ## Latest repositories
 
-- [`tw93/Kami`](repos/tw93--kami.md) — 👩‍🚒 Good content deserves good paper.
-- [`op7418/guizang-ppt-skill`](repos/op7418--guizang-ppt-skill.md) — A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
-- [`Einsia/OpenChronicle`](repos/einsia--openchronicle.md)
-- [`cosmicstack-labs/mercury-agent`](repos/cosmicstack-labs--mercury-agent.md) — Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
-- [`ConardLi/garden-skills`](repos/conardli--garden-skills.md) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-- [`masterking32/MasterHttpRelayVPN`](repos/masterking32--masterhttprelayvpn.md) — Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.
-- [`leigest519/OpenGame`](repos/leigest519--opengame.md) — OpenGame: Open Agentic Coding for Games
-- [`deepseek-ai/TileKernels`](repos/deepseek-ai--tilekernels.md) — A kernel library written in tilelang
-- [`victorchen96/deepseek_v4_rolepaly_instruct`](repos/victorchen96--deepseek-v4-rolepaly-instruct.md) — 对于DeepSeek-V4角色扮演的特殊控制指令的说明
-- [`openclaw/clawsweeper`](repos/openclaw--clawsweeper.md) — ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
+- [`nexu-io/open-design`](repos/nexu-io--open-design.md) — 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+- [`cursor/cookbook`](repos/cursor--cookbook.md)
+- [`theori-io/copy-fail-CVE-2026-31431`](repos/theori-io--copy-fail-cve-2026-31431.md)
+- [`denuitt1/mhr-cfw`](repos/denuitt1--mhr-cfw.md) — A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
+- [`willchen96/mike`](repos/willchen96--mike.md) — OSS AI Legal Platform
+- [`darrylmorley/whatcable`](repos/darrylmorley--whatcable.md) — macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
+- [`DanOps-1/Gpt-Agreement-Payment`](repos/danops-1--gpt-agreement-payment.md) — ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
+- [`b-nnett/codex-plusplus`](repos/b-nnett--codex-plusplus.md) — Codex++ tweak system for the Codex desktop app
+- [`mattpocock/dictionary-of-ai-coding`](repos/mattpocock--dictionary-of-ai-coding.md) — AI coding jargon, explained in plain English.
+- [`wrongly-cuddly-obsession/NTSB_FOIA_MU5735`](repos/wrongly-cuddly-obsession--ntsb-foia-mu5735.md)
 
 [View past weeks →](archive.md)
