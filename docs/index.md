@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-05-11_
+_Generated on 2026-05-18_
 
 ## Latest repositories
 
-- [`antirez/ds4`](repos/antirez--ds4.md) — DeepSeek 4 Flash local inference engine for Metal
-- [`V4bel/dirtyfrag`](repos/v4bel--dirtyfrag.md)
-- [`vercel-labs/zero-native`](repos/vercel-labs--zero-native.md) — Build desktop + mobile apps with Zig and web UI
-- [`strukto-ai/mirage`](repos/strukto-ai--mirage.md) — A Unified Virtual Filesystem For AI Agents
-- [`XBuilderLAB/cheat-on-content`](repos/xbuilderlab--cheat-on-content.md) — You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.
-- [`yaojingang/yao-open-prompts`](repos/yaojingang--yao-open-prompts.md) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
-- [`lightseekorg/tokenspeed`](repos/lightseekorg--tokenspeed.md) — TokenSpeed is a speed-of-light LLM inference engine.
-- [`huangserva/3DCellForge`](repos/huangserva--3dcellforge.md) — AI-powered interactive 3D cell generation and exploration studio.
-- [`BigPizzaV3/CodexPlusPlus`](repos/bigpizzav3--codexplusplus.md) — 一个CodexApp的增强工具
-- [`WenyuChiou/awesome-agentic-ai-zh`](repos/wenyuchiou--awesome-agentic-ai-zh.md) — AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。
+- [`FULU-Foundation/OrcaSlicer-bambulab`](repos/fulu-foundation--orcaslicer-bambulab.md)
+- [`Nightmare-Eclipse/YellowKey`](repos/nightmare-eclipse--yellowkey.md) — YellowKey Bitlocker Bypass Vulnerability
+- [`nexu-io/html-anything`](repos/nexu-io--html-anything.md) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+- [`vercel-labs/zero`](repos/vercel-labs--zero.md) — The programming language for agents
+- [`yetone/native-feel-skill`](repos/yetone--native-feel-skill.md) — An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
+- [`HermannBjorgvin/Clawdmeter`](repos/hermannbjorgvin--clawdmeter.md) — ESP32 desk dashboard that shows Claude Code usage
+- [`simonlin1212/a-stock-data`](repos/simonlin1212--a-stock-data.md) — A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
+- [`ywnd1144/Gopay_plus_automatic`](repos/ywnd1144--gopay-plus-automatic.md)
+- [`facebookresearch/vggt-omega`](repos/facebookresearch--vggt-omega.md) — [CVPR 2026 Oral] VGGT Omega
+- [`DenisSergeevitch/agents-best-practices`](repos/denissergeevitch--agents-best-practices.md) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 
 [View past weeks →](archive.md)
