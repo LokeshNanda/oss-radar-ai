@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-05-18_
+_Generated on 2026-05-25_
 
 ## Latest repositories
 
-- [`FULU-Foundation/OrcaSlicer-bambulab`](repos/fulu-foundation--orcaslicer-bambulab.md)
-- [`Nightmare-Eclipse/YellowKey`](repos/nightmare-eclipse--yellowkey.md) — YellowKey Bitlocker Bypass Vulnerability
-- [`nexu-io/html-anything`](repos/nexu-io--html-anything.md) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-- [`vercel-labs/zero`](repos/vercel-labs--zero.md) — The programming language for agents
-- [`yetone/native-feel-skill`](repos/yetone--native-feel-skill.md) — An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
-- [`HermannBjorgvin/Clawdmeter`](repos/hermannbjorgvin--clawdmeter.md) — ESP32 desk dashboard that shows Claude Code usage
-- [`simonlin1212/a-stock-data`](repos/simonlin1212--a-stock-data.md) — A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
-- [`ywnd1144/Gopay_plus_automatic`](repos/ywnd1144--gopay-plus-automatic.md)
-- [`facebookresearch/vggt-omega`](repos/facebookresearch--vggt-omega.md) — [CVPR 2026 Oral] VGGT Omega
-- [`DenisSergeevitch/agents-best-practices`](repos/denissergeevitch--agents-best-practices.md) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
+- [`FoundZiGu/GuJumpgate`](repos/foundzigu--gujumpgate.md)
+- [`perplexityai/bumblebee`](repos/perplexityai--bumblebee.md) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+- [`thananon/9arm-skills`](repos/thananon--9arm-skills.md)
+- [`Doorman11991/smallcode`](repos/doorman11991--smallcode.md) — AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+- [`lynote-ai/humanize-text`](repos/lynote-ai--humanize-text.md) — Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
+- [`sapientinc/HRM-Text`](repos/sapientinc--hrm-text.md) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
+- [`kageroumado/phosphene`](repos/kageroumado--phosphene.md) — A video wallpaper engine for macOS Tahoe
+- [`open-gsd/get-shit-done-redux`](repos/open-gsd--get-shit-done-redux.md) — Getting Shit Done, the Aftermath
+- [`Tong89/smartNode`](repos/tong89--smartnode.md)
+- [`0xSero/codex-shim`](repos/0xsero--codex-shim.md) — Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
 
 [View past weeks →](archive.md)
