@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-05-25_
+_Generated on 2026-06-01_
 
 ## Latest repositories
 
-- [`FoundZiGu/GuJumpgate`](repos/foundzigu--gujumpgate.md)
-- [`perplexityai/bumblebee`](repos/perplexityai--bumblebee.md) — Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
-- [`thananon/9arm-skills`](repos/thananon--9arm-skills.md)
-- [`Doorman11991/smallcode`](repos/doorman11991--smallcode.md) — AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-- [`lynote-ai/humanize-text`](repos/lynote-ai--humanize-text.md) — Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
-- [`sapientinc/HRM-Text`](repos/sapientinc--hrm-text.md) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-- [`kageroumado/phosphene`](repos/kageroumado--phosphene.md) — A video wallpaper engine for macOS Tahoe
-- [`open-gsd/get-shit-done-redux`](repos/open-gsd--get-shit-done-redux.md) — Getting Shit Done, the Aftermath
-- [`Tong89/smartNode`](repos/tong89--smartnode.md)
-- [`0xSero/codex-shim`](repos/0xsero--codex-shim.md) — Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
+- [`pewdiepie-archdaemon/odysseus`](repos/pewdiepie-archdaemon--odysseus.md) — Self-hosted AI workspace.
+- [`op7418/guizang-social-card-skill`](repos/op7418--guizang-social-card-skill.md) — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+- [`helloianneo/ian-xiaohei-illustrations`](repos/helloianneo--ian-xiaohei-illustrations.md) — 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+- [`GordenSun/GordenPPTSkill`](repos/gordensun--gordenpptskill.md) — AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
+- [`Sophomoresty/gemini-web2api`](repos/sophomoresty--gemini-web2api.md) — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
+- [`MatinSenPai/SenPaiScanner`](repos/matinsenpai--senpaiscanner.md) — A light-weight scanner for Cloudflare IPs, written in Golang
+- [`withkynam/vibecode-pro-max-kit`](repos/withkynam--vibecode-pro-max-kit.md) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
+- [`baoweise-bot/aimili-vpngate`](repos/baoweise-bot--aimili-vpngate.md) — aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
+- [`UditAkhourii/adhd`](repos/uditakhourii--adhd.md) — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+- [`Michaelliv/pi-dynamic-workflows`](repos/michaelliv--pi-dynamic-workflows.md)
 
 [View past weeks →](archive.md)
