@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-06-01_
+_Generated on 2026-06-08_
 
 ## Latest repositories
 
-- [`pewdiepie-archdaemon/odysseus`](repos/pewdiepie-archdaemon--odysseus.md) — Self-hosted AI workspace.
-- [`op7418/guizang-social-card-skill`](repos/op7418--guizang-social-card-skill.md) — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
-- [`helloianneo/ian-xiaohei-illustrations`](repos/helloianneo--ian-xiaohei-illustrations.md) — 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
-- [`GordenSun/GordenPPTSkill`](repos/gordensun--gordenpptskill.md) — AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
-- [`Sophomoresty/gemini-web2api`](repos/sophomoresty--gemini-web2api.md) — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.
-- [`MatinSenPai/SenPaiScanner`](repos/matinsenpai--senpaiscanner.md) — A light-weight scanner for Cloudflare IPs, written in Golang
-- [`withkynam/vibecode-pro-max-kit`](repos/withkynam--vibecode-pro-max-kit.md) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
-- [`baoweise-bot/aimili-vpngate`](repos/baoweise-bot--aimili-vpngate.md) — aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。
-- [`UditAkhourii/adhd`](repos/uditakhourii--adhd.md) — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-- [`Michaelliv/pi-dynamic-workflows`](repos/michaelliv--pi-dynamic-workflows.md)
+- [`cpaczek/skylight`](repos/cpaczek--skylight.md) — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
+- [`b-nnett/goose`](repos/b-nnett--goose.md) — Goose Swift proof-of-concept README
+- [`jd-opensource/JoyAI-Echo`](repos/jd-opensource--joyai-echo.md) — JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+- [`qiuqiubuchongle-cloud/chokepoint-atlas`](repos/qiuqiubuchongle-cloud--chokepoint-atlas.md)
+- [`VAST-AI-Research/TripoSplat`](repos/vast-ai-research--triposplat.md) — TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
+- [`tastyeffectco/sandboxd`](repos/tastyeffectco--sandboxd.md) — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+- [`tiantianGPU/reg-factory`](repos/tiantiangpu--reg-factory.md)
+- [`Jane-xiaoer/xiaoer-videolab`](repos/jane-xiaoer--xiaoer-videolab.md) — One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+- [`zenhosta/9drive`](repos/zenhosta--9drive.md) — 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.
+- [`S-Sigdel/vimhjkl`](repos/s-sigdel--vimhjkl.md) — learn vim from your terminal with spaced repetition
 
 [View past weeks →](archive.md)
