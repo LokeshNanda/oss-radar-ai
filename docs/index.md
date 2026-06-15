@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-06-08_
+_Generated on 2026-06-15_
 
 ## Latest repositories
 
-- [`cpaczek/skylight`](repos/cpaczek--skylight.md) — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
-- [`b-nnett/goose`](repos/b-nnett--goose.md) — Goose Swift proof-of-concept README
-- [`jd-opensource/JoyAI-Echo`](repos/jd-opensource--joyai-echo.md) — JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
-- [`qiuqiubuchongle-cloud/chokepoint-atlas`](repos/qiuqiubuchongle-cloud--chokepoint-atlas.md)
-- [`VAST-AI-Research/TripoSplat`](repos/vast-ai-research--triposplat.md) — TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
-- [`tastyeffectco/sandboxd`](repos/tastyeffectco--sandboxd.md) — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
-- [`tiantianGPU/reg-factory`](repos/tiantiangpu--reg-factory.md)
-- [`Jane-xiaoer/xiaoer-videolab`](repos/jane-xiaoer--xiaoer-videolab.md) — One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
-- [`zenhosta/9drive`](repos/zenhosta--9drive.md) — 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.
-- [`S-Sigdel/vimhjkl`](repos/s-sigdel--vimhjkl.md) — learn vim from your terminal with spaced repetition
+- [`DietrichGebert/ponytail`](repos/dietrichgebert--ponytail.md) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [`XiaomiMiMo/MiMo-Code`](repos/xiaomimimo--mimo-code.md)
+- [`shadcn/improve`](repos/shadcn--improve.md) — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+- [`omnigent-ai/omnigent`](repos/omnigent-ai--omnigent.md) — A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
+- [`MSNightmare/RoguePlanet`](repos/msnightmare--rogueplanet.md) — RoguePlanet Windows Defender Vulnerability
+- [`SkyBlue997/enableMacosAI`](repos/skyblue997--enablemacosai.md) — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+- [`lenucksi/aur-malware-check`](repos/lenucksi--aur-malware-check.md) — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
+- [`apple/coreai-models`](repos/apple--coreai-models.md) — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+- [`tamnd/kage`](repos/tamnd--kage.md) — Shadow any website for offline viewing, with the JavaScript stripped out
+- [`plannotator/effective-html`](repos/plannotator--effective-html.md) — Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
 
 [View past weeks →](archive.md)
