@@ -6,19 +6,19 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-06-15_
+_Generated on 2026-06-22_
 
 ## Latest repositories
 
-- [`DietrichGebert/ponytail`](repos/dietrichgebert--ponytail.md) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [`XiaomiMiMo/MiMo-Code`](repos/xiaomimimo--mimo-code.md)
-- [`shadcn/improve`](repos/shadcn--improve.md) — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-- [`omnigent-ai/omnigent`](repos/omnigent-ai--omnigent.md) — A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
-- [`MSNightmare/RoguePlanet`](repos/msnightmare--rogueplanet.md) — RoguePlanet Windows Defender Vulnerability
-- [`SkyBlue997/enableMacosAI`](repos/skyblue997--enablemacosai.md) — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
-- [`lenucksi/aur-malware-check`](repos/lenucksi--aur-malware-check.md) — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
-- [`apple/coreai-models`](repos/apple--coreai-models.md) — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-- [`tamnd/kage`](repos/tamnd--kage.md) — Shadow any website for offline viewing, with the JavaScript stripped out
-- [`plannotator/effective-html`](repos/plannotator--effective-html.md) — Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
+- [`vercel/eve`](repos/vercel--eve.md) — The Framework for Building Agents
+- [`zhongerxin/Cowart`](repos/zhongerxin--cowart.md)
+- [`alchaincyf/loop-engineering-orange-book`](repos/alchaincyf--loop-engineering-orange-book.md) — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
+- [`rebel0789/codexpro`](repos/rebel0789--codexpro.md) — Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
+- [`Forsy-AI/agent-apprenticeship`](repos/forsy-ai--agent-apprenticeship.md) — The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.
+- [`Plaer1/junction`](repos/plaer1--junction.md) — VS Code chat sidebar for local AI coding agents
+- [`ngrok/webernetes`](repos/ngrok--webernetes.md) — Kubernetes in the browser.
+- [`dongshuyan/compass-skills`](repos/dongshuyan--compass-skills.md) — 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
+- [`aidenybai/cnfast`](repos/aidenybai--cnfast.md) — Fast drop in replacement for `cn`
+- [`boogu-project/Boogu-Image`](repos/boogu-project--boogu-image.md) — Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.
 
 [View past weeks →](archive.md)
