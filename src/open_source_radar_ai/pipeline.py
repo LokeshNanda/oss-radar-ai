@@ -11,6 +11,7 @@ from typing import List
 from .catalog import CatalogEntry, load_catalog, save_catalog, upsert_entries
 from .category_pages import write_category_pages
 from .feeds import write_feeds
+from .hall_of_fame import write_hall_of_fame
 from .readme_updater import update_readme_radar_section
 from .trends import write_trends_page
 from .config import AppConfig, load_config
@@ -136,6 +137,7 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
             record_snapshot(history, refreshed, cfg.reference_date)
     save_star_history(history)
     risers = compute_risers(history)
+    write_hall_of_fame(history, docs_dir=docs_dir)
 
     index_written = False
     if summarized:
