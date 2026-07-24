@@ -25,20 +25,26 @@ def repo_markdown_path(repo: Repository, *, docs_dir: Path) -> Path:
     return docs_dir / "repos" / filename
 
 
-def render_repo_page(repo: Repository, analysis_markdown: str) -> str:
+def render_repo_page(
+    repo: Repository, analysis_markdown: str, *, category: str | None = None
+) -> str:
     """Render a repository report page."""
+    category_fm = f"category: {category}\n" if category else ""
     frontmatter = (
         "---\n"
         f"title: {repo.full_name}\n"
         f"source: {repo.html_url}\n"
         f"stars: {repo.stargazers_count}\n"
+        f"{category_fm}"
         "---\n\n"
     )
     header = f"# {repo.full_name}\n\n"
+    category_line = f"- **Category**: {category}\n" if category else ""
     meta = (
         f"- **URL**: {repo.html_url}\n"
         f"- **Stars**: {repo.stargazers_count}\n"
         f"- **Language**: {repo.language or 'Unknown'}\n"
+        f"{category_line}"
         f"- **Topics**: {', '.join(repo.topics) if repo.topics else 'None'}\n\n"
     )
     body = analysis_markdown.strip() + "\n"
@@ -50,11 +56,12 @@ def write_repo_page(
     *,
     analysis_markdown: str,
     docs_dir: Path,
+    category: str | None = None,
 ) -> bool:
     """Write a repository report page deterministically."""
     path = repo_markdown_path(repo, docs_dir=docs_dir)
     ensure_dir(path.parent)
-    content = render_repo_page(repo, analysis_markdown)
+    content = render_repo_page(repo, analysis_markdown, category=category)
     return atomic_write_text_if_changed(path, content)
 
 
