@@ -204,7 +204,12 @@ def render_archive_page(docs_dir: Path) -> str:
         "Browse weekly reports by date.",
         "",
     ]
+    current_month: tuple[int, int] | None = None
     for d in report_dates:
+        month = (d.year, d.month)
+        if month != current_month:
+            current_month = month
+            lines.extend([f"## {d.strftime('%B %Y')}", ""])
         rel = f"reports/{d.isoformat()}.md"
         lines.append(f"- [Week of {d.isoformat()}]({rel})")
     lines.extend(["", "[← Back to homepage](index.md)", ""])

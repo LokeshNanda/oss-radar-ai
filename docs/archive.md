@@ -6,27 +6,39 @@ title: Past Weeks
 
 Browse weekly reports by date.
 
+## July 2026
+
 - [Week of 2026-07-20](reports/2026-07-20.md)
 - [Week of 2026-07-13](reports/2026-07-13.md)
 - [Week of 2026-07-06](reports/2026-07-06.md)
+## June 2026
+
 - [Week of 2026-06-29](reports/2026-06-29.md)
 - [Week of 2026-06-22](reports/2026-06-22.md)
 - [Week of 2026-06-15](reports/2026-06-15.md)
 - [Week of 2026-06-08](reports/2026-06-08.md)
 - [Week of 2026-06-01](reports/2026-06-01.md)
+## May 2026
+
 - [Week of 2026-05-25](reports/2026-05-25.md)
 - [Week of 2026-05-18](reports/2026-05-18.md)
 - [Week of 2026-05-11](reports/2026-05-11.md)
 - [Week of 2026-05-04](reports/2026-05-04.md)
+## April 2026
+
 - [Week of 2026-04-27](reports/2026-04-27.md)
 - [Week of 2026-04-20](reports/2026-04-20.md)
 - [Week of 2026-04-13](reports/2026-04-13.md)
 - [Week of 2026-04-06](reports/2026-04-06.md)
+## March 2026
+
 - [Week of 2026-03-30](reports/2026-03-30.md)
 - [Week of 2026-03-23](reports/2026-03-23.md)
 - [Week of 2026-03-16](reports/2026-03-16.md)
 - [Week of 2026-03-09](reports/2026-03-09.md)
 - [Week of 2026-03-02](reports/2026-03-02.md)
+## February 2026
+
 - [Week of 2026-02-23](reports/2026-02-23.md)
 
 [← Back to homepage](index.md)

@@ -34,6 +34,18 @@ def test_render_repo_page_without_category_unchanged():
     assert "category:" not in page
 
 
+def test_archive_groups_by_month(tmp_path: Path):
+    from open_source_radar_ai.generator import render_archive_page
+
+    reports = tmp_path / "reports"
+    reports.mkdir(parents=True)
+    for d in ("2026-07-20", "2026-07-13", "2026-06-01"):
+        (reports / f"{d}.md").write_text("x", encoding="utf-8")
+    text = render_archive_page(tmp_path)
+    assert "## July 2026" in text and "## June 2026" in text
+    assert text.index("## July 2026") < text.index("## June 2026")
+
+
 def test_social_draft_in_weekly_report():
     from datetime import date
 
