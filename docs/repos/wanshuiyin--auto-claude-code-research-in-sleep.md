@@ -2,6 +2,7 @@
 title: wanshuiyin/Auto-claude-code-research-in-sleep
 source: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
 stars: 1363
+category: Other
 ---
 
 # wanshuiyin/Auto-claude-code-research-in-sleep

@@ -2,6 +2,7 @@
 title: mattprusak/autoresearch-genealogy
 source: https://github.com/mattprusak/autoresearch-genealogy
 stars: 879
+category: Other
 ---
 
 # mattprusak/autoresearch-genealogy

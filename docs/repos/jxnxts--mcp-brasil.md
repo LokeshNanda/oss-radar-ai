@@ -2,6 +2,7 @@
 title: jxnxts/mcp-brasil
 source: https://github.com/jxnxts/mcp-brasil
 stars: 879
+category: Other
 ---
 
 # jxnxts/mcp-brasil

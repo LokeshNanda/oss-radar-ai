@@ -2,6 +2,7 @@
 title: yizhiyanhua-ai/fireworks-tech-graph
 source: https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 stars: 1668
+category: Other
 ---
 
 # yizhiyanhua-ai/fireworks-tech-graph

@@ -2,6 +2,7 @@
 title: aiming-lab/MetaClaw
 source: https://github.com/aiming-lab/MetaClaw
 stars: 1342
+category: Other
 ---
 
 # aiming-lab/MetaClaw

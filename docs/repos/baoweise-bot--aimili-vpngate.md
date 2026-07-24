@@ -2,6 +2,7 @@
 title: baoweise-bot/aimili-vpngate
 source: https://github.com/baoweise-bot/aimili-vpngate
 stars: 671
+category: Other
 ---
 
 # baoweise-bot/aimili-vpngate

@@ -2,6 +2,7 @@
 title: denuitt1/mhr-cfw
 source: https://github.com/denuitt1/mhr-cfw
 stars: 1968
+category: Other
 ---
 
 # denuitt1/mhr-cfw

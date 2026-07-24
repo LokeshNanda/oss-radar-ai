@@ -2,6 +2,7 @@
 title: nicobailon/visual-explainer
 source: https://github.com/nicobailon/visual-explainer
 stars: 2383
+category: Other
 ---
 
 # nicobailon/visual-explainer

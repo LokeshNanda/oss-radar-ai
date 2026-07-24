@@ -2,6 +2,7 @@
 title: HUANGCHIHHUNGLeo/claude-real-video
 source: https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 stars: 1029
+category: Other
 ---
 
 # HUANGCHIHHUNGLeo/claude-real-video

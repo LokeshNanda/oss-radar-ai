@@ -2,6 +2,7 @@
 title: jamesob/local-llm
 source: https://github.com/jamesob/local-llm
 stars: 932
+category: Other
 ---
 
 # jamesob/local-llm

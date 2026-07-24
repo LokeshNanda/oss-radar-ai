@@ -2,6 +2,7 @@
 title: simonlin1212/a-stock-data
 source: https://github.com/simonlin1212/a-stock-data
 stars: 1128
+category: Other
 ---
 
 # simonlin1212/a-stock-data

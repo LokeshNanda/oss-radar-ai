@@ -2,6 +2,7 @@
 title: millionco/react-doctor
 source: https://github.com/millionco/react-doctor
 stars: 1592
+category: Other
 ---
 
 # millionco/react-doctor

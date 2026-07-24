@@ -2,6 +2,7 @@
 title: pewdiepie-archdaemon/odysseus
 source: https://github.com/pewdiepie-archdaemon/odysseus
 stars: 9920
+category: Other
 ---
 
 # pewdiepie-archdaemon/odysseus

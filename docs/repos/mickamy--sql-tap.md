@@ -2,6 +2,7 @@
 title: mickamy/sql-tap
 source: https://github.com/mickamy/sql-tap
 stars: 892
+category: Other
 ---
 
 # mickamy/sql-tap

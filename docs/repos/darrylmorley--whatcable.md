@@ -2,6 +2,7 @@
 title: darrylmorley/whatcable
 source: https://github.com/darrylmorley/whatcable
 stars: 1487
+category: Other
 ---
 
 # darrylmorley/whatcable

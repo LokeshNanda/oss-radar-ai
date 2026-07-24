@@ -2,6 +2,7 @@
 title: dongshuyan/compass-skills
 source: https://github.com/dongshuyan/compass-skills
 stars: 445
+category: Other
 ---
 
 # dongshuyan/compass-skills

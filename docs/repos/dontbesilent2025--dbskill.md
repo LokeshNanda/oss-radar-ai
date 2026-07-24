@@ -2,6 +2,7 @@
 title: dontbesilent2025/dbskill
 source: https://github.com/dontbesilent2025/dbskill
 stars: 968
+category: Other
 ---
 
 # dontbesilent2025/dbskill

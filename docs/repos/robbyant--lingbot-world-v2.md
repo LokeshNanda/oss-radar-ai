@@ -2,6 +2,7 @@
 title: Robbyant/lingbot-world-v2
 source: https://github.com/Robbyant/lingbot-world-v2
 stars: 950
+category: Other
 ---
 
 # Robbyant/lingbot-world-v2

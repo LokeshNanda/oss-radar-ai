@@ -2,6 +2,7 @@
 title: nexu-io/html-anything
 source: https://github.com/nexu-io/html-anything
 stars: 2907
+category: Other
 ---
 
 # nexu-io/html-anything

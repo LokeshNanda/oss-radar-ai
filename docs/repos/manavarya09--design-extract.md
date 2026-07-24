@@ -2,6 +2,7 @@
 title: Manavarya09/design-extract
 source: https://github.com/Manavarya09/design-extract
 stars: 1093
+category: Other
 ---
 
 # Manavarya09/design-extract

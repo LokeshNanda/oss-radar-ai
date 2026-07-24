@@ -2,6 +2,7 @@
 title: zeroclaw-labs/zeroclaw
 source: https://github.com/zeroclaw-labs/zeroclaw
 stars: 12494
+category: Other
 ---
 
 # zeroclaw-labs/zeroclaw

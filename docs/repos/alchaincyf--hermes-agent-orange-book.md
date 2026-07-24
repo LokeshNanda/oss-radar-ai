@@ -2,6 +2,7 @@
 title: alchaincyf/hermes-agent-orange-book
 source: https://github.com/alchaincyf/hermes-agent-orange-book
 stars: 2144
+category: Other
 ---
 
 # alchaincyf/hermes-agent-orange-book

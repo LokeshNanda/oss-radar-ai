@@ -2,6 +2,7 @@
 title: alchaincyf/darwin-skill
 source: https://github.com/alchaincyf/darwin-skill
 stars: 1319
+category: Other
 ---
 
 # alchaincyf/darwin-skill

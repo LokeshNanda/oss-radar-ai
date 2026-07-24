@@ -2,6 +2,7 @@
 title: 0xSero/codex-shim
 source: https://github.com/0xSero/codex-shim
 stars: 490
+category: Other
 ---
 
 # 0xSero/codex-shim

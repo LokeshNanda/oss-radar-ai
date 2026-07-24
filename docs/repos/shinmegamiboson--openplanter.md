@@ -2,6 +2,7 @@
 title: ShinMegamiBoson/OpenPlanter
 source: https://github.com/ShinMegamiBoson/OpenPlanter
 stars: 1090
+category: Other
 ---
 
 # ShinMegamiBoson/OpenPlanter

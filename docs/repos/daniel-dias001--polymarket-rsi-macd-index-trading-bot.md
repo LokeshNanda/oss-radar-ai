@@ -2,6 +2,7 @@
 title: Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot
 source: https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot
 stars: 610
+category: Other
 ---
 
 # Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot

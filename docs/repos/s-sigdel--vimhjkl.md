@@ -2,6 +2,7 @@
 title: S-Sigdel/vimhjkl
 source: https://github.com/S-Sigdel/vimhjkl
 stars: 410
+category: Other
 ---
 
 # S-Sigdel/vimhjkl

@@ -2,6 +2,7 @@
 title: xixu-me/awesome-persona-distill-skills
 source: https://github.com/xixu-me/awesome-persona-distill-skills
 stars: 3497
+category: Other
 ---
 
 # xixu-me/awesome-persona-distill-skills

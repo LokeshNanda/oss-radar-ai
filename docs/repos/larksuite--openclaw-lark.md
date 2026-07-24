@@ -2,6 +2,7 @@
 title: larksuite/openclaw-lark
 source: https://github.com/larksuite/openclaw-lark
 stars: 1021
+category: Other
 ---
 
 # larksuite/openclaw-lark

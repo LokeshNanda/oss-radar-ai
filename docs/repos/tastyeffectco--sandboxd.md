@@ -2,6 +2,7 @@
 title: tastyeffectco/sandboxd
 source: https://github.com/tastyeffectco/sandboxd
 stars: 500
+category: Other
 ---
 
 # tastyeffectco/sandboxd

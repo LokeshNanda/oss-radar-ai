@@ -2,6 +2,7 @@
 title: QwenLM/Qwen-AgentWorld
 source: https://github.com/QwenLM/Qwen-AgentWorld
 stars: 638
+category: Other
 ---
 
 # QwenLM/Qwen-AgentWorld

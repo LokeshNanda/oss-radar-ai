@@ -2,6 +2,7 @@
 title: RightNow-AI/openfang
 source: https://github.com/RightNow-AI/openfang
 stars: 7939
+category: Other
 ---
 
 # RightNow-AI/openfang

@@ -2,6 +2,7 @@
 title: yaojingang/yao-open-prompts
 source: https://github.com/yaojingang/yao-open-prompts
 stars: 1583
+category: Other
 ---
 
 # yaojingang/yao-open-prompts

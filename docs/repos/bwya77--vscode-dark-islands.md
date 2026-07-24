@@ -2,6 +2,7 @@
 title: bwya77/vscode-dark-islands
 source: https://github.com/bwya77/vscode-dark-islands
 stars: 3592
+category: Other
 ---
 
 # bwya77/vscode-dark-islands

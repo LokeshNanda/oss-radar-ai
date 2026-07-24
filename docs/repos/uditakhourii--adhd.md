@@ -2,6 +2,7 @@
 title: UditAkhourii/adhd
 source: https://github.com/UditAkhourii/adhd
 stars: 664
+category: Other
 ---
 
 # UditAkhourii/adhd

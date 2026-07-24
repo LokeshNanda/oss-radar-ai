@@ -2,6 +2,7 @@
 title: wxtsky/CodeIsland
 source: https://github.com/wxtsky/CodeIsland
 stars: 880
+category: Other
 ---
 
 # wxtsky/CodeIsland

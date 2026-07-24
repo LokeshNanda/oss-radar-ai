@@ -2,6 +2,7 @@
 title: ammaarreshi/Generals-Mac-iOS-iPad
 source: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad
 stars: 853
+category: Other
 ---
 
 # ammaarreshi/Generals-Mac-iOS-iPad

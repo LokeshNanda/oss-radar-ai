@@ -2,6 +2,7 @@
 title: nashsu/llm_wiki
 source: https://github.com/nashsu/llm_wiki
 stars: 963
+category: Other
 ---
 
 # nashsu/llm_wiki

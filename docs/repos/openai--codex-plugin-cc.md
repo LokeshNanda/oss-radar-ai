@@ -2,6 +2,7 @@
 title: openai/codex-plugin-cc
 source: https://github.com/openai/codex-plugin-cc
 stars: 11954
+category: Other
 ---
 
 # openai/codex-plugin-cc

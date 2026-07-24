@@ -2,6 +2,7 @@
 title: boogu-project/Boogu-Image
 source: https://github.com/boogu-project/Boogu-Image
 stars: 409
+category: Other
 ---
 
 # boogu-project/Boogu-Image

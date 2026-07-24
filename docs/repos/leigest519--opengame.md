@@ -2,6 +2,7 @@
 title: leigest519/OpenGame
 source: https://github.com/leigest519/OpenGame
 stars: 1281
+category: Other
 ---
 
 # leigest519/OpenGame

@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import os
 import sys
+from pathlib import Path
 from typing import Iterable
 
 from .config import load_config
@@ -43,6 +45,25 @@ def main_run(argv: Iterable[str] | None = None) -> int:
         return 1
 
     LOGGER.info("Pipeline complete: %s", result)
+    return 0
+
+
+def main_backfill(argv: Iterable[str] | None = None) -> int:
+    """Entry point for the ``radar-backfill`` console script."""
+    args = list(argv if argv is not None else sys.argv[1:])
+    configure_logging()
+
+    categorize = "--no-llm" not in args
+    try:
+        from .backfill import run_backfill
+
+        docs_dir = Path(os.getenv("RADAR_DOCS_DIR", "docs"))
+        count = run_backfill(docs_dir, categorize=categorize)
+    except Exception as exc:  # noqa: BLE001
+        LOGGER.exception("Backfill failed: %s", exc)
+        return 1
+
+    LOGGER.info("Backfill complete: %d pages added to catalog.", count)
     return 0
 
 

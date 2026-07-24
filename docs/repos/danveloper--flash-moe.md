@@ -2,6 +2,7 @@
 title: danveloper/flash-moe
 source: https://github.com/danveloper/flash-moe
 stars: 1287
+category: Other
 ---
 
 # danveloper/flash-moe

@@ -2,6 +2,7 @@
 title: mereyabdenbekuly-ctrl/clodex-ide
 source: https://github.com/mereyabdenbekuly-ctrl/clodex-ide
 stars: 641
+category: Other
 ---
 
 # mereyabdenbekuly-ctrl/clodex-ide

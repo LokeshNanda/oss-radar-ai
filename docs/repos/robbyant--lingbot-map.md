@@ -2,6 +2,7 @@
 title: Robbyant/lingbot-map
 source: https://github.com/Robbyant/lingbot-map
 stars: 2703
+category: Other
 ---
 
 # Robbyant/lingbot-map

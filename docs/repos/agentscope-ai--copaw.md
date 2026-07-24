@@ -2,6 +2,7 @@
 title: agentscope-ai/CoPaw
 source: https://github.com/agentscope-ai/CoPaw
 stars: 3788
+category: Other
 ---
 
 # agentscope-ai/CoPaw

@@ -2,6 +2,7 @@
 title: Robbyant/lingbot-vision
 source: https://github.com/Robbyant/lingbot-vision
 stars: 689
+category: Other
 ---
 
 # Robbyant/lingbot-vision

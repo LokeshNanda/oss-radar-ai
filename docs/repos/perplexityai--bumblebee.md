@@ -2,6 +2,7 @@
 title: perplexityai/bumblebee
 source: https://github.com/perplexityai/bumblebee
 stars: 2239
+category: Other
 ---
 
 # perplexityai/bumblebee

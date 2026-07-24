@@ -2,6 +2,7 @@
 title: b-nnett/codex-plusplus
 source: https://github.com/b-nnett/codex-plusplus
 stars: 859
+category: Other
 ---
 
 # b-nnett/codex-plusplus

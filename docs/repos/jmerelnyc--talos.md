@@ -2,6 +2,7 @@
 title: jmerelnyc/Talos
 source: https://github.com/jmerelnyc/Talos
 stars: 683
+category: Other
 ---
 
 # jmerelnyc/Talos

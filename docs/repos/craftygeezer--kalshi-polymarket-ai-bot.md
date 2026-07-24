@@ -2,6 +2,7 @@
 title: CraftyGeezer/Kalshi-Polymarket-Ai-bot
 source: https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot
 stars: 681
+category: Other
 ---
 
 # CraftyGeezer/Kalshi-Polymarket-Ai-bot

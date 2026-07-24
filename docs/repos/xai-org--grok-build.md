@@ -2,6 +2,7 @@
 title: xai-org/grok-build
 source: https://github.com/xai-org/grok-build
 stars: 20258
+category: Other
 ---
 
 # xai-org/grok-build

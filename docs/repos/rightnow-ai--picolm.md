@@ -2,6 +2,7 @@
 title: RightNow-AI/picolm
 source: https://github.com/RightNow-AI/picolm
 stars: 671
+category: Other
 ---
 
 # RightNow-AI/picolm

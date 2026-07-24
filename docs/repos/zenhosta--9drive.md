@@ -2,6 +2,7 @@
 title: zenhosta/9drive
 source: https://github.com/zenhosta/9drive
 stars: 414
+category: Other
 ---
 
 # zenhosta/9drive

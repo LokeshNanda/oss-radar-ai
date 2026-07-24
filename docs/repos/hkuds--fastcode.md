@@ -2,6 +2,7 @@
 title: HKUDS/FastCode
 source: https://github.com/HKUDS/FastCode
 stars: 834
+category: Other
 ---
 
 # HKUDS/FastCode

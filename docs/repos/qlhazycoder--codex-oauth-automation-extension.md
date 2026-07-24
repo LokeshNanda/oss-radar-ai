@@ -2,6 +2,7 @@
 title: QLHazyCoder/codex-oauth-automation-extension
 source: https://github.com/QLHazyCoder/codex-oauth-automation-extension
 stars: 989
+category: Other
 ---
 
 # QLHazyCoder/codex-oauth-automation-extension

@@ -2,6 +2,7 @@
 title: HKUDS/AgentSpace
 source: https://github.com/HKUDS/AgentSpace
 stars: 532
+category: Other
 ---
 
 # HKUDS/AgentSpace

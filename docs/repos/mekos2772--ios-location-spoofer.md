@@ -2,6 +2,7 @@
 title: mekos2772/ios-location-spoofer
 source: https://github.com/mekos2772/ios-location-spoofer
 stars: 1342
+category: Other
 ---
 
 # mekos2772/ios-location-spoofer

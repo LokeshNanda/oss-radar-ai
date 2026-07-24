@@ -2,6 +2,7 @@
 title: cosmicstack-labs/mercury-agent
 source: https://github.com/cosmicstack-labs/mercury-agent
 stars: 1439
+category: Other
 ---
 
 # cosmicstack-labs/mercury-agent

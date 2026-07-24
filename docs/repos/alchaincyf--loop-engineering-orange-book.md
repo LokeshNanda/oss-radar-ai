@@ -2,6 +2,7 @@
 title: alchaincyf/loop-engineering-orange-book
 source: https://github.com/alchaincyf/loop-engineering-orange-book
 stars: 731
+category: Other
 ---
 
 # alchaincyf/loop-engineering-orange-book

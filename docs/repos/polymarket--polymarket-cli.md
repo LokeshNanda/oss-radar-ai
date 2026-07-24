@@ -2,6 +2,7 @@
 title: Polymarket/polymarket-cli
 source: https://github.com/Polymarket/polymarket-cli
 stars: 1415
+category: Other
 ---
 
 # Polymarket/polymarket-cli

@@ -2,6 +2,7 @@
 title: Robbyant/lingbot-video
 source: https://github.com/Robbyant/lingbot-video
 stars: 717
+category: Other
 ---
 
 # Robbyant/lingbot-video

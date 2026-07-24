@@ -2,6 +2,7 @@
 title: Kuberwastaken/claurst
 source: https://github.com/Kuberwastaken/claurst
 stars: 8332
+category: Other
 ---
 
 # Kuberwastaken/claurst

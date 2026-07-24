@@ -2,6 +2,7 @@
 title: vercel-labs/zero
 source: https://github.com/vercel-labs/zero
 stars: 1791
+category: Other
 ---
 
 # vercel-labs/zero

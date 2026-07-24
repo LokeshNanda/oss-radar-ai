@@ -2,6 +2,7 @@
 title: twostraws/SwiftUI-Agent-Skill
 source: https://github.com/twostraws/SwiftUI-Agent-Skill
 stars: 1403
+category: Other
 ---
 
 # twostraws/SwiftUI-Agent-Skill

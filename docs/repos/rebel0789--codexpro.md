@@ -2,6 +2,7 @@
 title: rebel0789/codexpro
 source: https://github.com/rebel0789/codexpro
 stars: 641
+category: Other
 ---
 
 # rebel0789/codexpro

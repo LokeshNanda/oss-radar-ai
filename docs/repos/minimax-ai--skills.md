@@ -2,6 +2,7 @@
 title: MiniMax-AI/skills
 source: https://github.com/MiniMax-AI/skills
 stars: 2129
+category: Other
 ---
 
 # MiniMax-AI/skills

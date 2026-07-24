@@ -2,6 +2,7 @@
 title: pasky/chrome-cdp-skill
 source: https://github.com/pasky/chrome-cdp-skill
 stars: 1575
+category: Other
 ---
 
 # pasky/chrome-cdp-skill

@@ -2,6 +2,7 @@
 title: Kulaxyz/token-diet
 source: https://github.com/Kulaxyz/token-diet
 stars: 590
+category: Other
 ---
 
 # Kulaxyz/token-diet

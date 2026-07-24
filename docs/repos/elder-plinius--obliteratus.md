@@ -2,6 +2,7 @@
 title: elder-plinius/OBLITERATUS
 source: https://github.com/elder-plinius/OBLITERATUS
 stars: 2419
+category: Other
 ---
 
 # elder-plinius/OBLITERATUS

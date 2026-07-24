@@ -2,6 +2,7 @@
 title: LinXiaoTao/FuckClaude
 source: https://github.com/LinXiaoTao/FuckClaude
 stars: 536
+category: Other
 ---
 
 # LinXiaoTao/FuckClaude

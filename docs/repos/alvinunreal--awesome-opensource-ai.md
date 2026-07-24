@@ -2,6 +2,7 @@
 title: alvinunreal/awesome-opensource-ai
 source: https://github.com/alvinunreal/awesome-opensource-ai
 stars: 1942
+category: Other
 ---
 
 # alvinunreal/awesome-opensource-ai

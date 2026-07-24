@@ -2,6 +2,7 @@
 title: plannotator/effective-html
 source: https://github.com/plannotator/effective-html
 stars: 855
+category: Other
 ---
 
 # plannotator/effective-html

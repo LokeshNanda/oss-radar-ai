@@ -2,6 +2,7 @@
 title: Michaelliv/pi-dynamic-workflows
 source: https://github.com/Michaelliv/pi-dynamic-workflows
 stars: 643
+category: Other
 ---
 
 # Michaelliv/pi-dynamic-workflows

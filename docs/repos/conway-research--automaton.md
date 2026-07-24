@@ -2,6 +2,7 @@
 title: Conway-Research/automaton
 source: https://github.com/Conway-Research/automaton
 stars: 823
+category: Other
 ---
 
 # Conway-Research/automaton

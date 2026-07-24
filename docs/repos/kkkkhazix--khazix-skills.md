@@ -2,6 +2,7 @@
 title: KKKKhazix/khazix-skills
 source: https://github.com/KKKKhazix/khazix-skills
 stars: 2359
+category: Other
 ---
 
 # KKKKhazix/khazix-skills

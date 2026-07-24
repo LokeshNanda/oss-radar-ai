@@ -2,6 +2,7 @@
 title: withkynam/vibecode-pro-max-kit
 source: https://github.com/withkynam/vibecode-pro-max-kit
 stars: 678
+category: Other
 ---
 
 # withkynam/vibecode-pro-max-kit

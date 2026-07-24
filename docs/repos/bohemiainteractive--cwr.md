@@ -2,6 +2,7 @@
 title: BohemiaInteractive/CWR
 source: https://github.com/BohemiaInteractive/CWR
 stars: 691
+category: Other
 ---
 
 # BohemiaInteractive/CWR

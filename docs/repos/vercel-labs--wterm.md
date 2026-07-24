@@ -2,6 +2,7 @@
 title: vercel-labs/wterm
 source: https://github.com/vercel-labs/wterm
 stars: 2112
+category: Other
 ---
 
 # vercel-labs/wterm

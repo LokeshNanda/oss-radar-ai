@@ -2,6 +2,7 @@
 title: LeoYeAI/openclaw-master-skills
 source: https://github.com/LeoYeAI/openclaw-master-skills
 stars: 1518
+category: Other
 ---
 
 # LeoYeAI/openclaw-master-skills

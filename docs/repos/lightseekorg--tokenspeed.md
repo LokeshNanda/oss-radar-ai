@@ -2,6 +2,7 @@
 title: lightseekorg/tokenspeed
 source: https://github.com/lightseekorg/tokenspeed
 stars: 922
+category: Other
 ---
 
 # lightseekorg/tokenspeed

@@ -2,6 +2,7 @@
 title: ChinaSiro/claude-code-sourcemap
 source: https://github.com/ChinaSiro/claude-code-sourcemap
 stars: 8462
+category: Other
 ---
 
 # ChinaSiro/claude-code-sourcemap

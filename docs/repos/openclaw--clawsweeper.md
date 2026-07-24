@@ -2,6 +2,7 @@
 title: openclaw/clawsweeper
 source: https://github.com/openclaw/clawsweeper
 stars: 1040
+category: Other
 ---
 
 # openclaw/clawsweeper

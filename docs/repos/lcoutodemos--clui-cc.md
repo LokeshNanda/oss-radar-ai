@@ -2,6 +2,7 @@
 title: lcoutodemos/clui-cc
 source: https://github.com/lcoutodemos/clui-cc
 stars: 1013
+category: Other
 ---
 
 # lcoutodemos/clui-cc

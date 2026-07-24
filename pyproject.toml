@@ -17,6 +17,7 @@ dev = ["pytest"]
 [project.scripts]
 radar-fetch = "open_source_radar_ai.cli:main_fetch"
 radar-run = "open_source_radar_ai.cli:main_run"
+radar-backfill = "open_source_radar_ai.cli:main_backfill"
 
 [build-system]
 requires = ["setuptools"]

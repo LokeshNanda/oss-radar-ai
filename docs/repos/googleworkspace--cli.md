@@ -2,6 +2,7 @@
 title: googleworkspace/cli
 source: https://github.com/googleworkspace/cli
 stars: 16483
+category: Other
 ---
 
 # googleworkspace/cli

@@ -2,6 +2,7 @@
 title: op7418/guizang-ppt-skill
 source: https://github.com/op7418/guizang-ppt-skill
 stars: 3108
+category: Other
 ---
 
 # op7418/guizang-ppt-skill

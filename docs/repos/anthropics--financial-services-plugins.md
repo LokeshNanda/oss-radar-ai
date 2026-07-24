@@ -2,6 +2,7 @@
 title: anthropics/financial-services-plugins
 source: https://github.com/anthropics/financial-services-plugins
 stars: 5091
+category: Other
 ---
 
 # anthropics/financial-services-plugins

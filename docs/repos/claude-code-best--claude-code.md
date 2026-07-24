@@ -2,6 +2,7 @@
 title: claude-code-best/claude-code
 source: https://github.com/claude-code-best/claude-code
 stars: 13952
+category: Other
 ---
 
 # claude-code-best/claude-code

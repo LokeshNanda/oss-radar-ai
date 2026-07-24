@@ -2,6 +2,7 @@
 title: phuryn/claude-usage
 source: https://github.com/phuryn/claude-usage
 stars: 879
+category: Other
 ---
 
 # phuryn/claude-usage

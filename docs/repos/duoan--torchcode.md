@@ -2,6 +2,7 @@
 title: duoan/TorchCode
 source: https://github.com/duoan/TorchCode
 stars: 1238
+category: Other
 ---
 
 # duoan/TorchCode

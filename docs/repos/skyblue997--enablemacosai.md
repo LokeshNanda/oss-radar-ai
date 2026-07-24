@@ -2,6 +2,7 @@
 title: SkyBlue997/enableMacosAI
 source: https://github.com/SkyBlue997/enableMacosAI
 stars: 1228
+category: Other
 ---
 
 # SkyBlue997/enableMacosAI

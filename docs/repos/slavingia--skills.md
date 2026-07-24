@@ -2,6 +2,7 @@
 title: slavingia/skills
 source: https://github.com/slavingia/skills
 stars: 5462
+category: Other
 ---
 
 # slavingia/skills

@@ -2,6 +2,7 @@
 title: shadcn/improve
 source: https://github.com/shadcn/improve
 stars: 4486
+category: Other
 ---
 
 # shadcn/improve

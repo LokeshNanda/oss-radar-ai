@@ -2,6 +2,7 @@
 title: tiantianGPU/reg-factory
 source: https://github.com/tiantianGPU/reg-factory
 stars: 480
+category: Other
 ---
 
 # tiantianGPU/reg-factory
