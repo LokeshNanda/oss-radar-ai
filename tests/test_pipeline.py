@@ -31,6 +31,9 @@ def test_pipeline_writes_pages_and_catalog(tmp_path: Path, monkeypatch):
     monkeypatch.setenv("RADAR_DOCS_DIR", str(docs))
     monkeypatch.setenv("RADAR_STATE_DIR", str(state))
     monkeypatch.setenv("RADAR_REFERENCE_DATE", "2026-07-20")
+    readme = tmp_path / "README.md"
+    readme.write_text("<!-- RADAR:START -->\n<!-- RADAR:END -->\n", encoding="utf-8")
+    monkeypatch.setenv("RADAR_README_PATH", str(readme))
 
     monkeypatch.setattr(
         pipeline_mod,
@@ -68,3 +71,4 @@ def test_pipeline_writes_pages_and_catalog(tmp_path: Path, monkeypatch):
     assert {e.id for e in entries} == {1, 2}
     ids = json.loads((state / "processed_repos.json").read_text())["processed_repo_ids"]
     assert ids == [1, 2]
+    assert "o/r1" in readme.read_text(encoding="utf-8")

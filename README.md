@@ -18,16 +18,16 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 <!-- RADAR:START -->
 _Week of 2026-07-20_
 
-- [`xai-org/grok-build`](https://github.com/xai-org/grok-build) — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [`Fei-Away/Codex-Dream-Skin`](https://github.com/Fei-Away/Codex-Dream-Skin) — Codex Dream Skin
-- [`CluvexStudio/Aether`](https://github.com/CluvexStudio/Aether)
-- [`pixel-point/aval`](https://github.com/pixel-point/aval) — A new open-source format for interactive video on the web.
-- [`littledivy/mimic`](https://github.com/littledivy/mimic) — Intercept any app, then call it from Python like a library
-- [`tandpfun/wardrobe`](https://github.com/tandpfun/wardrobe) — Your clothes, extracted and organized with gpt-image.
-- [`oil-oil/beautify-github-readme`](https://github.com/oil-oil/beautify-github-readme) — Design clear, theme-specific GitHub README homepages
-- [`nethical6/conversation-steganography`](https://github.com/nethical6/conversation-steganography) — Use LLMs to hide messages inside normal looking conversations
-- [`pablostanley/yoinks`](https://github.com/pablostanley/yoinks) — yoink any video from your terminal. no shady ads.
-- [`KubeezMedia/kubeez-scroll-world-video`](https://github.com/KubeezMedia/kubeez-scroll-world-video) — Scroll-scrubbed 'fly through the world' demo
+- [`xai-org/grok-build`](https://github.com/xai-org/grok-build) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xai-org--grok-build/))
+- [`Fei-Away/Codex-Dream-Skin`](https://github.com/Fei-Away/Codex-Dream-Skin) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/fei-away--codex-dream-skin/))
+- [`CluvexStudio/Aether`](https://github.com/CluvexStudio/Aether) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/cluvexstudio--aether/))
+- [`pixel-point/aval`](https://github.com/pixel-point/aval) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pixel-point--aval/))
+- [`littledivy/mimic`](https://github.com/littledivy/mimic) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/littledivy--mimic/))
+- [`tandpfun/wardrobe`](https://github.com/tandpfun/wardrobe) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tandpfun--wardrobe/))
+- [`oil-oil/beautify-github-readme`](https://github.com/oil-oil/beautify-github-readme) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/oil-oil--beautify-github-readme/))
+- [`nethical6/conversation-steganography`](https://github.com/nethical6/conversation-steganography) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nethical6--conversation-steganography/))
+- [`pablostanley/yoinks`](https://github.com/pablostanley/yoinks) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pablostanley--yoinks/))
+- [`KubeezMedia/kubeez-scroll-world-video`](https://github.com/KubeezMedia/kubeez-scroll-world-video) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kubeezmedia--kubeez-scroll-world-video/))
 <!-- RADAR:END -->
 
 ---
