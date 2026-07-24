@@ -22,6 +22,7 @@ from .generator import (
 )
 from .github_client import GitHubClient
 from .models import Repository
+from .stars import compute_risers, load_star_history, record_snapshot, save_star_history
 from .summarize import SummarizationError, build_default_client, summarize_repository
 
 
@@ -112,10 +113,29 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
     save_catalog(full_catalog)
     write_category_pages(full_catalog, docs_dir=docs_dir)
 
+    history = load_star_history()
+    for repo in summarized:
+        record_snapshot(history, repo, cfg.reference_date)
+    refresh_limit = int(os.getenv("RADAR_STAR_REFRESH_LIMIT", "50"))
+    current_ids = {repo.id for repo in summarized}
+    # Negative ids are backfilled entries whose real GitHub id is unknown.
+    tracked_ids = [
+        e.id for e in full_catalog if e.id > 0 and e.id not in current_ids
+    ][:refresh_limit]
+    for repo_id in tracked_ids:
+        refreshed = gh_client.get_repository_by_id(repo_id)
+        if refreshed is not None:
+            record_snapshot(history, refreshed, cfg.reference_date)
+    save_star_history(history)
+    risers = compute_risers(history)
+
     index_written = False
     if summarized:
         write_weekly_report_page(
-            summarized, generated_on=cfg.reference_date, docs_dir=docs_dir
+            summarized,
+            generated_on=cfg.reference_date,
+            docs_dir=docs_dir,
+            risers=risers,
         )
         index_written = write_index_page(
             summarized, generated_on=cfg.reference_date, docs_dir=docs_dir

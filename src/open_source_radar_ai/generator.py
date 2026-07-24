@@ -75,6 +75,7 @@ def render_weekly_report_page(
     *,
     generated_on: date,
     docs_dir: Path,
+    risers: List[dict] | None = None,
 ) -> str:
     """Render a weekly report page with links to repo pages."""
     repo_list = list(repos)
@@ -101,7 +102,21 @@ def render_weekly_report_page(
         repo_link = "../" + rel_path.as_posix()
         desc = (repo.description or "").strip()
         suffix = f" — {desc}" if desc else ""
-        lines.append(f"- [`{repo.full_name}`]({repo_link}){suffix}")
+        age_days = max(1, (generated_on - repo.created_at.date()).days)
+        velocity = round(repo.stargazers_count / age_days, 1)
+        lines.append(
+            f"- [`{repo.full_name}`]({repo_link}){suffix} "
+            f"(⭐ {repo.stargazers_count}, ≈{velocity}/day)"
+        )
+
+    if risers:
+        lines.extend(
+            ["", "## 📈 Biggest risers", "", "Previously featured repos still gaining stars:", ""]
+        )
+        for r in risers:
+            lines.append(
+                f"- [`{r['full_name']}`]({r['html_url']}) — +{r['delta']} stars (now ⭐ {r['stars']})"
+            )
 
     lines.extend(["", "[← View past weeks](../archive.md)", ""])
     return "\n".join(lines)
@@ -112,12 +127,13 @@ def write_weekly_report_page(
     *,
     generated_on: date,
     docs_dir: Path,
+    risers: List[dict] | None = None,
 ) -> bool:
     """Write a weekly report page."""
     path = weekly_report_path(generated_on, docs_dir=docs_dir)
     ensure_dir(path.parent)
     content = render_weekly_report_page(
-        repos, generated_on=generated_on, docs_dir=docs_dir
+        repos, generated_on=generated_on, docs_dir=docs_dir, risers=risers
     )
     return atomic_write_text_if_changed(path, content)
 
