@@ -1,14 +1,18 @@
 [project]
 name = "open-source-radar-ai"
-version = "0.1.0"
+version = "0.2.0"
 description = "AI-powered GitHub Open Source Radar"
 requires-python = ">=3.11"
+license = { file = "LICENSE" }
 dependencies = [
     "requests",
     "python-dotenv",
     "mkdocs",
     "mkdocs-material",
 ]
+
+[project.optional-dependencies]
+dev = ["pytest"]
 
 [project.scripts]
 radar-fetch = "open_source_radar_ai.cli:main_fetch"
