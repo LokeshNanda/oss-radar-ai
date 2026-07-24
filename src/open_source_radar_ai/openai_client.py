@@ -93,6 +93,14 @@ def load_openai_config() -> OpenAIConfig:
     )
 
 
+def build_chat_completions_url(base_url: str) -> str:
+    """Build the chat-completions endpoint for OpenAI-compatible providers."""
+    base = base_url.rstrip("/")
+    if base.endswith("/v1"):
+        return f"{base}/chat/completions"
+    return f"{base}/v1/chat/completions"
+
+
 def _should_retry(status_code: int) -> bool:
     return status_code == 429 or 500 <= status_code <= 599
 
@@ -124,7 +132,7 @@ class OpenAIClient:
         response_format: Optional[Dict[str, Any]] = None,
     ) -> str:
         """Create a chat completion and return the assistant content."""
-        url = f"{self._config.base_url}/v1/chat/completions"
+        url = build_chat_completions_url(self._config.base_url)
         payload: Dict[str, Any] = {
             "model": self._config.model,
             "temperature": self._config.temperature,
@@ -171,5 +179,11 @@ class OpenAIClient:
         raise OpenAIAPIError(f"OpenAI API request failed after retries: {last_error}")
 
 
-__all__ = ["OpenAIClient", "OpenAIConfig", "OpenAIAPIError", "load_openai_config"]
+__all__ = [
+    "OpenAIClient",
+    "OpenAIConfig",
+    "OpenAIAPIError",
+    "load_openai_config",
+    "build_chat_completions_url",
+]
 
