@@ -16,18 +16,17 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-07-20_
+_Week of 2026-07-24_
 
-- [`xai-org/grok-build`](https://github.com/xai-org/grok-build) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xai-org--grok-build/))
-- [`Fei-Away/Codex-Dream-Skin`](https://github.com/Fei-Away/Codex-Dream-Skin) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/fei-away--codex-dream-skin/))
-- [`CluvexStudio/Aether`](https://github.com/CluvexStudio/Aether) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/cluvexstudio--aether/))
-- [`pixel-point/aval`](https://github.com/pixel-point/aval) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pixel-point--aval/))
-- [`littledivy/mimic`](https://github.com/littledivy/mimic) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/littledivy--mimic/))
-- [`tandpfun/wardrobe`](https://github.com/tandpfun/wardrobe) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tandpfun--wardrobe/))
-- [`oil-oil/beautify-github-readme`](https://github.com/oil-oil/beautify-github-readme) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/oil-oil--beautify-github-readme/))
-- [`nethical6/conversation-steganography`](https://github.com/nethical6/conversation-steganography) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nethical6--conversation-steganography/))
-- [`pablostanley/yoinks`](https://github.com/pablostanley/yoinks) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pablostanley--yoinks/))
-- [`KubeezMedia/kubeez-scroll-world-video`](https://github.com/KubeezMedia/kubeez-scroll-world-video) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kubeezmedia--kubeez-scroll-world-video/))
+- [`andrewyng/openworker`](https://github.com/andrewyng/openworker) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/andrewyng--openworker/))
+- [`lopopolo/harness-engineering`](https://github.com/lopopolo/harness-engineering) — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/lopopolo--harness-engineering/))
+- [`MIgHTy-alIeN/MEV-Arbitrage-Bot`](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) — An arbitrage bot is a smart contract connected to an external automation script that controls its operation. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mighty-alien--mev-arbitrage-bot/))
+- [`nyblnet/bento`](https://github.com/nyblnet/bento) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nyblnet--bento/))
+- [`Vincentwei1021/video-shotcraft`](https://github.com/Vincentwei1021/video-shotcraft) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/vincentwei1021--video-shotcraft/))
+- [`Jakubantalik/thinking-orbs`](https://github.com/Jakubantalik/thinking-orbs) — Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jakubantalik--thinking-orbs/))
+- [`Blaizzy/nativ`](https://github.com/Blaizzy/nativ) — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/blaizzy--nativ/))
+- [`powerycy/goutoujunshi`](https://github.com/powerycy/goutoujunshi) — 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/powerycy--goutoujunshi/))
+- [`pireel/pireel`](https://github.com/pireel/pireel) — Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pireel--pireel/))
 <!-- RADAR:END -->
 
 ---
