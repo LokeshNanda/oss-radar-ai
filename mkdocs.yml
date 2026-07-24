@@ -1,5 +1,5 @@
-site_name: Open Source Radar AI
-site_description: AI-curated GitHub trending repositories with developer-focused insights, updated weekly.
+site_name: !ENV [RADAR_SITE_NAME, "Open Source Radar AI"]
+site_description: !ENV [RADAR_SITE_DESCRIPTION, "AI-curated GitHub trending repositories with developer-focused insights, updated weekly."]
 site_url: https://lokeshnanda.github.io/oss-radar-ai/
 repo_url: https://github.com/LokeshNanda/oss-radar-ai
 repo_name: LokeshNanda/oss-radar-ai

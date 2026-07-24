@@ -58,6 +58,8 @@ class GitHubClient:
         - Maps the results into ``Repository`` domain objects.
         """
         query = f"created:>={params.created_since.isoformat()}"
+        if self.github_config.extra_query:
+            query += f" {self.github_config.extra_query}"
 
         url = f"{self.github_config.api_base_url}/search/repositories"
         request_params = {

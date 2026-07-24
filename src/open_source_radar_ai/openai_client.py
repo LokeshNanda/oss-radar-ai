@@ -73,7 +73,8 @@ def load_openai_config() -> OpenAIConfig:
     if not api_key:
         raise OpenAIAPIError("OPENAI_API_KEY is not set.")
 
-    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com").rstrip("/")
+    # `or` guards against an empty value from a templated .env file.
+    base_url = (os.getenv("OPENAI_BASE_URL") or "https://api.openai.com").rstrip("/")
     model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
     temperature = _load_float_env("OPENAI_TEMPERATURE", 0.2)
