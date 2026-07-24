@@ -56,7 +56,7 @@ Everything runs in a single scheduled GitHub Actions workflow ([`trending.yml`](
 
 ## 🍴 Run your own radar
 
-This project is designed to be forked. Point it at your favorite niche — a **Rust radar**, an **AI-agents radar**, a **security radar** — by changing a couple of environment variables, adding an API key, and enabling GitHub Pages. See the [roadmap](ROADMAP.md) for the full template guide (in progress).
+This project is designed to be forked. Point it at your favorite niche — a **Rust radar**, an **AI-agents radar**, a **security radar** — by changing a couple of environment variables, adding an API key, and enabling GitHub Pages. Follow the [10-minute setup guide](https://lokeshnanda.github.io/oss-radar-ai/run-your-own/).
 
 ## 🚀 Local development
 

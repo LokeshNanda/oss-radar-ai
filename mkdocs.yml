@@ -40,3 +40,4 @@ nav:
   - Home: index.md
   - Categories: categories/index.md
   - Past weeks: archive.md
+  - Run your own: run-your-own.md
