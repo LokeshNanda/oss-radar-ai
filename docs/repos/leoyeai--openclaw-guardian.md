@@ -2,6 +2,7 @@
 title: LeoYeAI/openclaw-guardian
 source: https://github.com/LeoYeAI/openclaw-guardian
 stars: 1080
+category: Other
 ---
 
 # LeoYeAI/openclaw-guardian

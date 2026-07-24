@@ -2,6 +2,7 @@
 title: truongduy2611/app-store-preflight-skills
 source: https://github.com/truongduy2611/app-store-preflight-skills
 stars: 856
+category: Other
 ---
 
 # truongduy2611/app-store-preflight-skills

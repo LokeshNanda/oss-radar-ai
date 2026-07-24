@@ -2,6 +2,7 @@
 title: mksglu/claude-context-mode
 source: https://github.com/mksglu/claude-context-mode
 stars: 1494
+category: Other
 ---
 
 # mksglu/claude-context-mode

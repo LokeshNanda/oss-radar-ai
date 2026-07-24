@@ -2,6 +2,7 @@
 title: MatinSenPai/SenPaiScanner
 source: https://github.com/MatinSenPai/SenPaiScanner
 stars: 808
+category: Other
 ---
 
 # MatinSenPai/SenPaiScanner

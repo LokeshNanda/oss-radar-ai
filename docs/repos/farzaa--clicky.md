@@ -2,6 +2,7 @@
 title: farzaa/clicky
 source: https://github.com/farzaa/clicky
 stars: 3964
+category: Other
 ---
 
 # farzaa/clicky

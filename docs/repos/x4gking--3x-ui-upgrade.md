@@ -2,6 +2,7 @@
 title: x4gKing/3x-ui-Upgrade
 source: https://github.com/x4gKing/3x-ui-Upgrade
 stars: 894
+category: Other
 ---
 
 # x4gKing/3x-ui-Upgrade

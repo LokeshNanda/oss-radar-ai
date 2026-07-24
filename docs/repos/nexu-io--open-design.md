@@ -2,6 +2,7 @@
 title: nexu-io/open-design
 source: https://github.com/nexu-io/open-design
 stars: 20087
+category: Other
 ---
 
 # nexu-io/open-design

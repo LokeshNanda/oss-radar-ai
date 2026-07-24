@@ -2,6 +2,7 @@
 title: cpaczek/skylight
 source: https://github.com/cpaczek/skylight
 stars: 2290
+category: Other
 ---
 
 # cpaczek/skylight

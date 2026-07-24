@@ -8,16 +8,25 @@ import os
 from pathlib import Path
 from typing import List
 
+from .catalog import CatalogEntry, load_catalog, save_catalog, upsert_entries
+from .category_pages import write_category_pages
+from .feeds import write_feeds
+from .hall_of_fame import write_hall_of_fame
+from .readme_updater import update_readme_radar_section
+from .trends import write_trends_page
 from .config import AppConfig, load_config
 from .dedupe import load_state, save_state, update_state_with_processed
 from .fetch import fetch_trending_repositories
 from .generator import (
+    repo_markdown_path,
     write_archive_page,
     write_index_page,
     write_repo_page,
     write_weekly_report_page,
 )
+from .github_client import GitHubClient
 from .models import Repository
+from .stars import compute_risers, load_star_history, record_snapshot, save_star_history
 from .summarize import SummarizationError, build_default_client, summarize_repository
 
 
@@ -54,7 +63,10 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
     docs_dir = _docs_dir()
 
     state = load_state()
-    repos = fetch_trending_repositories(cfg, exclude_ids=state.processed_repo_ids)
+    gh_client = GitHubClient(cfg)
+    repos = fetch_trending_repositories(
+        cfg, exclude_ids=state.processed_repo_ids, client=gh_client
+    )
     fetched_count = len(repos)
 
     limit = _max_repos_per_run()
@@ -64,21 +76,77 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
     summarized: List[Repository] = []
     pages_written = 0
 
+    readme_max = int(os.getenv("RADAR_README_MAX_CHARS", "16000"))
+    new_entries: List[CatalogEntry] = []
     for repo in repos:
+        readme_excerpt = gh_client.get_repository_readme(
+            repo.full_name, max_chars=readme_max
+        )
         try:
-            analysis = summarize_repository(repo, client=client)
+            analysis = summarize_repository(
+                repo, client=client, readme_excerpt=readme_excerpt
+            )
         except SummarizationError as exc:
             LOGGER.error("%s", exc)
             continue
 
-        if write_repo_page(repo, analysis_markdown=analysis, docs_dir=docs_dir):
+        if write_repo_page(
+            repo,
+            analysis_markdown=analysis.markdown,
+            docs_dir=docs_dir,
+            category=analysis.category,
+        ):
             pages_written += 1
         summarized.append(repo)
+        page_rel = repo_markdown_path(repo, docs_dir=docs_dir).relative_to(docs_dir).as_posix()
+        new_entries.append(
+            CatalogEntry(
+                id=repo.id,
+                full_name=repo.full_name,
+                html_url=repo.html_url,
+                description=repo.description,
+                language=repo.language,
+                category=analysis.category,
+                stars_at_feature=repo.stargazers_count,
+                date_featured=cfg.reference_date.isoformat(),
+                page=page_rel,
+            )
+        )
+
+    full_catalog = upsert_entries(load_catalog(), new_entries)
+    save_catalog(full_catalog)
+    write_category_pages(full_catalog, docs_dir=docs_dir)
+    site_url = os.getenv("RADAR_SITE_URL", "https://lokeshnanda.github.io/oss-radar-ai/")
+    write_feeds(full_catalog, docs_dir=docs_dir, site_url=site_url)
+    readme_path = Path(os.getenv("RADAR_README_PATH", "README.md"))
+    update_readme_radar_section(readme_path, full_catalog, site_url=site_url)
+    write_trends_page(full_catalog, docs_dir=docs_dir)
+
+    history = load_star_history()
+    for repo in summarized:
+        record_snapshot(history, repo, cfg.reference_date)
+    refresh_limit = int(os.getenv("RADAR_STAR_REFRESH_LIMIT", "50"))
+    current_ids = {repo.id for repo in summarized}
+    # Negative ids are backfilled entries whose real GitHub id is unknown.
+    tracked_ids = [
+        e.id for e in full_catalog if e.id > 0 and e.id not in current_ids
+    ][:refresh_limit]
+    for repo_id in tracked_ids:
+        refreshed = gh_client.get_repository_by_id(repo_id)
+        if refreshed is not None:
+            record_snapshot(history, refreshed, cfg.reference_date)
+    save_star_history(history)
+    risers = compute_risers(history)
+    write_hall_of_fame(history, docs_dir=docs_dir)
 
     index_written = False
     if summarized:
         write_weekly_report_page(
-            summarized, generated_on=cfg.reference_date, docs_dir=docs_dir
+            summarized,
+            generated_on=cfg.reference_date,
+            docs_dir=docs_dir,
+            risers=risers,
+            site_url=site_url,
         )
         index_written = write_index_page(
             summarized, generated_on=cfg.reference_date, docs_dir=docs_dir

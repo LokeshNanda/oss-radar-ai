@@ -2,6 +2,7 @@
 title: lynote-ai/humanize-text
 source: https://github.com/lynote-ai/humanize-text
 stars: 724
+category: Other
 ---
 
 # lynote-ai/humanize-text

@@ -2,6 +2,7 @@
 title: Forsy-AI/agent-apprenticeship
 source: https://github.com/Forsy-AI/agent-apprenticeship
 stars: 620
+category: Other
 ---
 
 # Forsy-AI/agent-apprenticeship

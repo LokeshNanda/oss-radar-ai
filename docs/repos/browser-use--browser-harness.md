@@ -2,6 +2,7 @@
 title: browser-use/browser-harness
 source: https://github.com/browser-use/browser-harness
 stars: 2469
+category: Other
 ---
 
 # browser-use/browser-harness

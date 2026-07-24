@@ -2,6 +2,7 @@
 title: FoundZiGu/GuJumpgate
 source: https://github.com/FoundZiGu/GuJumpgate
 stars: 2384
+category: Other
 ---
 
 # FoundZiGu/GuJumpgate

@@ -2,6 +2,7 @@
 title: HermannBjorgvin/Clawdmeter
 source: https://github.com/HermannBjorgvin/Clawdmeter
 stars: 1148
+category: Other
 ---
 
 # HermannBjorgvin/Clawdmeter

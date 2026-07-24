@@ -2,6 +2,7 @@
 title: deepseek-ai/DeepSpec
 source: https://github.com/deepseek-ai/DeepSpec
 stars: 2478
+category: Other
 ---
 
 # deepseek-ai/DeepSpec

@@ -2,6 +2,7 @@
 title: tandpfun/wardrobe
 source: https://github.com/tandpfun/wardrobe
 stars: 1164
+category: Other
 ---
 
 # tandpfun/wardrobe

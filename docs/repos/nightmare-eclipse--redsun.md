@@ -2,6 +2,7 @@
 title: Nightmare-Eclipse/RedSun
 source: https://github.com/Nightmare-Eclipse/RedSun
 stars: 1581
+category: Other
 ---
 
 # Nightmare-Eclipse/RedSun

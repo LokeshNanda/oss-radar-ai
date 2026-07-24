@@ -2,6 +2,7 @@
 title: Gitlawb/openclaude
 source: https://github.com/Gitlawb/openclaude
 stars: 16605
+category: Other
 ---
 
 # Gitlawb/openclaude

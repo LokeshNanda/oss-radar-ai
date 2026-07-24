@@ -73,11 +73,12 @@ def load_openai_config() -> OpenAIConfig:
     if not api_key:
         raise OpenAIAPIError("OPENAI_API_KEY is not set.")
 
-    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com").rstrip("/")
+    # `or` guards against an empty value from a templated .env file.
+    base_url = (os.getenv("OPENAI_BASE_URL") or "https://api.openai.com").rstrip("/")
     model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
     temperature = _load_float_env("OPENAI_TEMPERATURE", 0.2)
-    max_tokens = _load_int_env("OPENAI_MAX_TOKENS", 900)
+    max_tokens = _load_int_env("OPENAI_MAX_TOKENS", 1400)
     timeout_seconds = _load_int_env("OPENAI_TIMEOUT_SECONDS", 45)
     max_retries = _load_int_env("OPENAI_MAX_RETRIES", 5)
 
@@ -90,6 +91,14 @@ def load_openai_config() -> OpenAIConfig:
         timeout_seconds=timeout_seconds,
         max_retries=max_retries,
     )
+
+
+def build_chat_completions_url(base_url: str) -> str:
+    """Build the chat-completions endpoint for OpenAI-compatible providers."""
+    base = base_url.rstrip("/")
+    if base.endswith("/v1"):
+        return f"{base}/chat/completions"
+    return f"{base}/v1/chat/completions"
 
 
 def _should_retry(status_code: int) -> bool:
@@ -115,9 +124,15 @@ class OpenAIClient:
             }
         )
 
-    def chat_completion(self, *, system: str, user: str) -> str:
+    def chat_completion(
+        self,
+        *,
+        system: str,
+        user: str,
+        response_format: Optional[Dict[str, Any]] = None,
+    ) -> str:
         """Create a chat completion and return the assistant content."""
-        url = f"{self._config.base_url}/v1/chat/completions"
+        url = build_chat_completions_url(self._config.base_url)
         payload: Dict[str, Any] = {
             "model": self._config.model,
             "temperature": self._config.temperature,
@@ -127,6 +142,8 @@ class OpenAIClient:
                 {"role": "user", "content": user},
             ],
         }
+        if response_format is not None:
+            payload["response_format"] = response_format
 
         last_error: Optional[str] = None
         for attempt in range(self._config.max_retries + 1):
@@ -162,5 +179,11 @@ class OpenAIClient:
         raise OpenAIAPIError(f"OpenAI API request failed after retries: {last_error}")
 
 
-__all__ = ["OpenAIClient", "OpenAIConfig", "OpenAIAPIError", "load_openai_config"]
+__all__ = [
+    "OpenAIClient",
+    "OpenAIConfig",
+    "OpenAIAPIError",
+    "load_openai_config",
+    "build_chat_completions_url",
+]
 

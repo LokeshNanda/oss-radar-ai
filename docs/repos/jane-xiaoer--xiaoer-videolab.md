@@ -2,6 +2,7 @@
 title: Jane-xiaoer/xiaoer-videolab
 source: https://github.com/Jane-xiaoer/xiaoer-videolab
 stars: 471
+category: Other
 ---
 
 # Jane-xiaoer/xiaoer-videolab

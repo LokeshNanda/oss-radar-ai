@@ -2,6 +2,7 @@
 title: DataExpert-io/ai-engineer-handbook
 source: https://github.com/DataExpert-io/ai-engineer-handbook
 stars: 797
+category: Other
 ---
 
 # DataExpert-io/ai-engineer-handbook

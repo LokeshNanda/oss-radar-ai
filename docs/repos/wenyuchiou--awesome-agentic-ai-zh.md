@@ -2,6 +2,7 @@
 title: WenyuChiou/awesome-agentic-ai-zh
 source: https://github.com/WenyuChiou/awesome-agentic-ai-zh
 stars: 765
+category: Other
 ---
 
 # WenyuChiou/awesome-agentic-ai-zh

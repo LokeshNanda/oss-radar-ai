@@ -2,6 +2,7 @@
 title: ConardLi/garden-skills
 source: https://github.com/ConardLi/garden-skills
 stars: 1414
+category: Other
 ---
 
 # ConardLi/garden-skills

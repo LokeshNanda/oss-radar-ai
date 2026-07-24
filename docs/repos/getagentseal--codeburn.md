@@ -2,6 +2,7 @@
 title: getagentseal/codeburn
 source: https://github.com/getagentseal/codeburn
 stars: 2890
+category: Other
 ---
 
 # getagentseal/codeburn

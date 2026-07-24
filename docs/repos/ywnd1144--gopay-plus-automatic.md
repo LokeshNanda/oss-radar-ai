@@ -2,6 +2,7 @@
 title: ywnd1144/Gopay_plus_automatic
 source: https://github.com/ywnd1144/Gopay_plus_automatic
 stars: 923
+category: Other
 ---
 
 # ywnd1144/Gopay_plus_automatic

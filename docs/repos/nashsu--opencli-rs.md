@@ -2,6 +2,7 @@
 title: nashsu/opencli-rs
 source: https://github.com/nashsu/opencli-rs
 stars: 988
+category: Other
 ---
 
 # nashsu/opencli-rs

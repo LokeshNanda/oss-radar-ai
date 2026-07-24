@@ -2,6 +2,7 @@
 title: victorchen96/deepseek_v4_rolepaly_instruct
 source: https://github.com/victorchen96/deepseek_v4_rolepaly_instruct
 stars: 1131
+category: Other
 ---
 
 # victorchen96/deepseek_v4_rolepaly_instruct

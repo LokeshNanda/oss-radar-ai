@@ -2,6 +2,7 @@
 title: jd-opensource/JoyAI-Echo
 source: https://github.com/jd-opensource/JoyAI-Echo
 stars: 888
+category: Other
 ---
 
 # jd-opensource/JoyAI-Echo

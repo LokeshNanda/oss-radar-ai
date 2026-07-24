@@ -2,6 +2,7 @@
 title: sanbuphy/learn-coding-agent
 source: https://github.com/sanbuphy/learn-coding-agent
 stars: 11341
+category: Other
 ---
 
 # sanbuphy/learn-coding-agent

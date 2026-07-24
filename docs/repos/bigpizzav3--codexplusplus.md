@@ -2,6 +2,7 @@
 title: BigPizzaV3/CodexPlusPlus
 source: https://github.com/BigPizzaV3/CodexPlusPlus
 stars: 786
+category: Other
 ---
 
 # BigPizzaV3/CodexPlusPlus

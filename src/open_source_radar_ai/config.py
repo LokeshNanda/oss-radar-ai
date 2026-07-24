@@ -49,6 +49,7 @@ class GitHubConfig:
     api_base_url: str
     per_page: int
     days_back: int
+    extra_query: str = ""
 
 
 @dataclass(frozen=True)
@@ -129,6 +130,7 @@ def load_config() -> AppConfig:
         api_base_url=api_base_url.rstrip("/"),
         per_page=per_page,
         days_back=days_back,
+        extra_query=os.getenv("RADAR_SEARCH_QUERY", "").strip(),
     )
 
     return AppConfig(github=github_cfg, reference_date=reference)

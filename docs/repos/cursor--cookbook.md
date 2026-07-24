@@ -2,6 +2,7 @@
 title: cursor/cookbook
 source: https://github.com/cursor/cookbook
 stars: 3290
+category: Other
 ---
 
 # cursor/cookbook

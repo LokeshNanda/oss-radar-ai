@@ -2,6 +2,7 @@
 title: GordenSun/GordenPPTSkill
 source: https://github.com/GordenSun/GordenPPTSkill
 stars: 1125
+category: Other
 ---
 
 # GordenSun/GordenPPTSkill

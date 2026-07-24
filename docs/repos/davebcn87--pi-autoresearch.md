@@ -2,6 +2,7 @@
 title: davebcn87/pi-autoresearch
 source: https://github.com/davebcn87/pi-autoresearch
 stars: 1870
+category: Other
 ---
 
 # davebcn87/pi-autoresearch

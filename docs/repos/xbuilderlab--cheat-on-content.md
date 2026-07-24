@@ -2,6 +2,7 @@
 title: XBuilderLAB/cheat-on-content
 source: https://github.com/XBuilderLAB/cheat-on-content
 stars: 1584
+category: Other
 ---
 
 # XBuilderLAB/cheat-on-content

@@ -2,6 +2,7 @@
 title: oso95/scroll-world
 source: https://github.com/oso95/scroll-world
 stars: 1316
+category: Other
 ---
 
 # oso95/scroll-world

@@ -2,6 +2,7 @@
 title: novatic14/MANPADS-System-Launcher-and-Rocket
 source: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket
 stars: 1038
+category: Other
 ---
 
 # novatic14/MANPADS-System-Launcher-and-Rocket

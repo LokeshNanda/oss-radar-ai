@@ -2,6 +2,7 @@
 title: omnigent-ai/omnigent
 source: https://github.com/omnigent-ai/omnigent
 stars: 1327
+category: Other
 ---
 
 # omnigent-ai/omnigent

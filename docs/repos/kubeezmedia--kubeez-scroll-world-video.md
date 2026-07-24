@@ -2,6 +2,7 @@
 title: KubeezMedia/kubeez-scroll-world-video
 source: https://github.com/KubeezMedia/kubeez-scroll-world-video
 stars: 660
+category: Other
 ---
 
 # KubeezMedia/kubeez-scroll-world-video

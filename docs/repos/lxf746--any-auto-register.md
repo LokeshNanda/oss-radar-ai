@@ -2,6 +2,7 @@
 title: lxf746/any-auto-register
 source: https://github.com/lxf746/any-auto-register
 stars: 998
+category: Other
 ---
 
 # lxf746/any-auto-register

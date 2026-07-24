@@ -2,6 +2,7 @@
 title: lewislulu/html-ppt-skill
 source: https://github.com/lewislulu/html-ppt-skill
 stars: 1488
+category: Other
 ---
 
 # lewislulu/html-ppt-skill

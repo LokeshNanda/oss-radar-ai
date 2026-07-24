@@ -2,6 +2,7 @@
 title: DenisSergeevitch/agents-best-practices
 source: https://github.com/DenisSergeevitch/agents-best-practices
 stars: 730
+category: Other
 ---
 
 # DenisSergeevitch/agents-best-practices

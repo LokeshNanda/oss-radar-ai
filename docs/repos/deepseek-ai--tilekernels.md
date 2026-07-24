@@ -2,6 +2,7 @@
 title: deepseek-ai/TileKernels
 source: https://github.com/deepseek-ai/TileKernels
 stars: 1226
+category: Other
 ---
 
 # deepseek-ai/TileKernels

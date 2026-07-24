@@ -2,6 +2,7 @@
 title: benchflow-ai/awesome-evals
 source: https://github.com/benchflow-ai/awesome-evals
 stars: 569
+category: Other
 ---
 
 # benchflow-ai/awesome-evals

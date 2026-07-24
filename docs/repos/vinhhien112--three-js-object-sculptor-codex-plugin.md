@@ -2,6 +2,7 @@
 title: vinhhien112/Three.js-Object-Sculptor-Codex-Plugin
 source: https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin
 stars: 671
+category: Other
 ---
 
 # vinhhien112/Three.js-Object-Sculptor-Codex-Plugin

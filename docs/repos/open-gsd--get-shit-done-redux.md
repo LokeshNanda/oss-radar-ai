@@ -2,6 +2,7 @@
 title: open-gsd/get-shit-done-redux
 source: https://github.com/open-gsd/get-shit-done-redux
 stars: 608
+category: Other
 ---
 
 # open-gsd/get-shit-done-redux

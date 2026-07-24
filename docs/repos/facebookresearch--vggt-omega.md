@@ -2,6 +2,7 @@
 title: facebookresearch/vggt-omega
 source: https://github.com/facebookresearch/vggt-omega
 stars: 748
+category: Other
 ---
 
 # facebookresearch/vggt-omega

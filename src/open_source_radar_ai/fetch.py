@@ -17,6 +17,7 @@ def fetch_trending_repositories(
     config: AppConfig,
     *,
     exclude_ids: Iterable[int] | None = None,
+    client: GitHubClient | None = None,
 ) -> List[Repository]:
     """Fetch trending repositories from GitHub.
 
@@ -29,7 +30,7 @@ def fetch_trending_repositories(
     Returns:
         A list of ``Repository`` instances sorted by star count descending.
     """
-    client = GitHubClient(config)
+    client = client or GitHubClient(config)
     search_params: GitHubSearchParams = build_search_params(config)
 
     excluded: Set[int] = set(exclude_ids or [])

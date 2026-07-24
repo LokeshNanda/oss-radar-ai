@@ -25,20 +25,26 @@ def repo_markdown_path(repo: Repository, *, docs_dir: Path) -> Path:
     return docs_dir / "repos" / filename
 
 
-def render_repo_page(repo: Repository, analysis_markdown: str) -> str:
+def render_repo_page(
+    repo: Repository, analysis_markdown: str, *, category: str | None = None
+) -> str:
     """Render a repository report page."""
+    category_fm = f"category: {category}\n" if category else ""
     frontmatter = (
         "---\n"
         f"title: {repo.full_name}\n"
         f"source: {repo.html_url}\n"
         f"stars: {repo.stargazers_count}\n"
+        f"{category_fm}"
         "---\n\n"
     )
     header = f"# {repo.full_name}\n\n"
+    category_line = f"- **Category**: {category}\n" if category else ""
     meta = (
         f"- **URL**: {repo.html_url}\n"
         f"- **Stars**: {repo.stargazers_count}\n"
         f"- **Language**: {repo.language or 'Unknown'}\n"
+        f"{category_line}"
         f"- **Topics**: {', '.join(repo.topics) if repo.topics else 'None'}\n\n"
     )
     body = analysis_markdown.strip() + "\n"
@@ -50,11 +56,12 @@ def write_repo_page(
     *,
     analysis_markdown: str,
     docs_dir: Path,
+    category: str | None = None,
 ) -> bool:
     """Write a repository report page deterministically."""
     path = repo_markdown_path(repo, docs_dir=docs_dir)
     ensure_dir(path.parent)
-    content = render_repo_page(repo, analysis_markdown)
+    content = render_repo_page(repo, analysis_markdown, category=category)
     return atomic_write_text_if_changed(path, content)
 
 
@@ -63,11 +70,37 @@ def weekly_report_path(reference_date: date, *, docs_dir: Path) -> Path:
     return docs_dir / "reports" / f"{reference_date.isoformat()}.md"
 
 
+def render_social_draft(
+    repos: List[Repository], *, generated_on: date, site_url: str
+) -> List[str]:
+    """Render a collapsible copy-paste social post block for a weekly report."""
+    top = sorted(repos, key=lambda r: (-r.stargazers_count, r.full_name))[:3]
+    lines = ['??? note "📣 Share this week\'s radar"', "", "    ```text"]
+    lines.append("    This week's most interesting new GitHub repos:")
+    lines.append("")
+    for i, repo in enumerate(top, start=1):
+        desc = (repo.description or "").strip()
+        suffix = f" — {desc}" if desc else ""
+        lines.append(f"    {i}. {repo.full_name} (⭐ {repo.stargazers_count}){suffix}")
+    lines.extend(
+        [
+            "",
+            "    Full AI-generated breakdowns of all featured repos:",
+            f"    {site_url}reports/{generated_on.isoformat()}/",
+            "    #opensource #github #developers",
+            "    ```",
+        ]
+    )
+    return lines
+
+
 def render_weekly_report_page(
     repos: Iterable[Repository],
     *,
     generated_on: date,
     docs_dir: Path,
+    risers: List[dict] | None = None,
+    site_url: str | None = None,
 ) -> str:
     """Render a weekly report page with links to repo pages."""
     repo_list = list(repos)
@@ -94,7 +127,27 @@ def render_weekly_report_page(
         repo_link = "../" + rel_path.as_posix()
         desc = (repo.description or "").strip()
         suffix = f" — {desc}" if desc else ""
-        lines.append(f"- [`{repo.full_name}`]({repo_link}){suffix}")
+        age_days = max(1, (generated_on - repo.created_at.date()).days)
+        velocity = round(repo.stargazers_count / age_days, 1)
+        lines.append(
+            f"- [`{repo.full_name}`]({repo_link}){suffix} "
+            f"(⭐ {repo.stargazers_count}, ≈{velocity}/day)"
+        )
+
+    if risers:
+        lines.extend(
+            ["", "## 📈 Biggest risers", "", "Previously featured repos still gaining stars:", ""]
+        )
+        for r in risers:
+            lines.append(
+                f"- [`{r['full_name']}`]({r['html_url']}) — +{r['delta']} stars (now ⭐ {r['stars']})"
+            )
+
+    if site_url:
+        lines.append("")
+        lines.extend(
+            render_social_draft(repo_list, generated_on=generated_on, site_url=site_url)
+        )
 
     lines.extend(["", "[← View past weeks](../archive.md)", ""])
     return "\n".join(lines)
@@ -105,12 +158,18 @@ def write_weekly_report_page(
     *,
     generated_on: date,
     docs_dir: Path,
+    risers: List[dict] | None = None,
+    site_url: str | None = None,
 ) -> bool:
     """Write a weekly report page."""
     path = weekly_report_path(generated_on, docs_dir=docs_dir)
     ensure_dir(path.parent)
     content = render_weekly_report_page(
-        repos, generated_on=generated_on, docs_dir=docs_dir
+        repos,
+        generated_on=generated_on,
+        docs_dir=docs_dir,
+        risers=risers,
+        site_url=site_url,
     )
     return atomic_write_text_if_changed(path, content)
 
@@ -145,7 +204,12 @@ def render_archive_page(docs_dir: Path) -> str:
         "Browse weekly reports by date.",
         "",
     ]
+    current_month: tuple[int, int] | None = None
     for d in report_dates:
+        month = (d.year, d.month)
+        if month != current_month:
+            current_month = month
+            lines.extend([f"## {d.strftime('%B %Y')}", ""])
         rel = f"reports/{d.isoformat()}.md"
         lines.append(f"- [Week of {d.isoformat()}]({rel})")
     lines.extend(["", "[← Back to homepage](index.md)", ""])
@@ -190,7 +254,15 @@ def render_index_page(
         suffix = f" — {desc}" if desc else ""
         lines.append(f"- [`{repo.full_name}`]({rel_path.as_posix()}){suffix}")
 
-    lines.extend(["", "[View past weeks →](archive.md)", ""])
+    lines.extend(
+        [
+            "",
+            "[Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)",
+            "",
+            "[View past weeks →](archive.md)",
+            "",
+        ]
+    )
     return "\n".join(lines)
 
 

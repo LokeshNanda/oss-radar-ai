@@ -2,6 +2,7 @@
 title: Doorman11991/smallcode
 source: https://github.com/Doorman11991/smallcode
 stars: 1392
+category: Other
 ---
 
 # Doorman11991/smallcode

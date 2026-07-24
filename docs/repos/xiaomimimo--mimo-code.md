@@ -2,6 +2,7 @@
 title: XiaomiMiMo/MiMo-Code
 source: https://github.com/XiaomiMiMo/MiMo-Code
 stars: 8620
+category: Other
 ---
 
 # XiaomiMiMo/MiMo-Code

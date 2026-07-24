@@ -2,6 +2,7 @@
 title: paperclipai/paperclip
 source: https://github.com/paperclipai/paperclip
 stars: 11970
+category: Other
 ---
 
 # paperclipai/paperclip

@@ -2,6 +2,7 @@
 title: op7418/guizang-social-card-skill
 source: https://github.com/op7418/guizang-social-card-skill
 stars: 2168
+category: Other
 ---
 
 # op7418/guizang-social-card-skill

@@ -2,6 +2,7 @@
 title: Einsia/OpenChronicle
 source: https://github.com/Einsia/OpenChronicle
 stars: 1466
+category: Other
 ---
 
 # Einsia/OpenChronicle

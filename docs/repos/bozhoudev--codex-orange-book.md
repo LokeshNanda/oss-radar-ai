@@ -2,6 +2,7 @@
 title: bozhouDev/codex-orange-book
 source: https://github.com/bozhouDev/codex-orange-book
 stars: 2302
+category: Other
 ---
 
 # bozhouDev/codex-orange-book

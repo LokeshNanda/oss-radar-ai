@@ -2,6 +2,7 @@
 title: VoltAgent/awesome-design-md
 source: https://github.com/VoltAgent/awesome-design-md
 stars: 16057
+category: Other
 ---
 
 # VoltAgent/awesome-design-md

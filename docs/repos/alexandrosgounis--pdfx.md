@@ -2,6 +2,7 @@
 title: AlexandrosGounis/pdfx
 source: https://github.com/AlexandrosGounis/pdfx
 stars: 499
+category: Other
 ---
 
 # AlexandrosGounis/pdfx

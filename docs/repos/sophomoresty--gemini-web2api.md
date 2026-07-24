@@ -2,6 +2,7 @@
 title: Sophomoresty/gemini-web2api
 source: https://github.com/Sophomoresty/gemini-web2api
 stars: 948
+category: Other
 ---
 
 # Sophomoresty/gemini-web2api

@@ -2,6 +2,7 @@
 title: VAST-AI-Research/TripoSplat
 source: https://github.com/VAST-AI-Research/TripoSplat
 stars: 533
+category: Other
 ---
 
 # VAST-AI-Research/TripoSplat

@@ -2,6 +2,7 @@
 title: apple/coreai-models
 source: https://github.com/apple/coreai-models
 stars: 913
+category: Other
 ---
 
 # apple/coreai-models

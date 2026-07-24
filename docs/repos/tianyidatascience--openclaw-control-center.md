@@ -2,6 +2,7 @@
 title: TianyiDataScience/openclaw-control-center
 source: https://github.com/TianyiDataScience/openclaw-control-center
 stars: 1755
+category: Other
 ---
 
 # TianyiDataScience/openclaw-control-center

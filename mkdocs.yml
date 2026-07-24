@@ -1,12 +1,45 @@
-site_name: Open Source Radar AI
-site_description: AI-curated GitHub trending repositories with architect-level insights
+site_name: !ENV [RADAR_SITE_NAME, "Open Source Radar AI"]
+site_description: !ENV [RADAR_SITE_DESCRIPTION, "AI-curated GitHub trending repositories with developer-focused insights, updated weekly."]
+site_url: https://lokeshnanda.github.io/oss-radar-ai/
+repo_url: https://github.com/LokeshNanda/oss-radar-ai
+repo_name: LokeshNanda/oss-radar-ai
 
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - toc.follow
 
 plugins:
   - search
+  - social:
+      enabled: !ENV [CI, false]
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
 
 nav:
   - Home: index.md
+  - Categories: categories/index.md
   - Past weeks: archive.md
+  - Trends: trends.md
+  - Hall of fame: hall-of-fame.md
+  - Run your own: run-your-own.md

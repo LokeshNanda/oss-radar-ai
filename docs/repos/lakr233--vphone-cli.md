@@ -2,6 +2,7 @@
 title: Lakr233/vphone-cli
 source: https://github.com/Lakr233/vphone-cli
 stars: 1789
+category: Other
 ---
 
 # Lakr233/vphone-cli

@@ -2,6 +2,7 @@
 title: titanwings/colleague-skill
 source: https://github.com/titanwings/colleague-skill
 stars: 7950
+category: Other
 ---
 
 # titanwings/colleague-skill

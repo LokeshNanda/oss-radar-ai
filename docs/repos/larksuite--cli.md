@@ -2,6 +2,7 @@
 title: larksuite/cli
 source: https://github.com/larksuite/cli
 stars: 3596
+category: Other
 ---
 
 # larksuite/cli

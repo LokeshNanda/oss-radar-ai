@@ -2,6 +2,7 @@
 title: Tong89/smartNode
 source: https://github.com/Tong89/smartNode
 stars: 540
+category: Other
 ---
 
 # Tong89/smartNode

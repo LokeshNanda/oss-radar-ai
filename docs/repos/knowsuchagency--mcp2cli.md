@@ -2,6 +2,7 @@
 title: knowsuchagency/mcp2cli
 source: https://github.com/knowsuchagency/mcp2cli
 stars: 1138
+category: Other
 ---
 
 # knowsuchagency/mcp2cli

@@ -2,6 +2,7 @@
 title: MSNightmare/RoguePlanet
 source: https://github.com/MSNightmare/RoguePlanet
 stars: 1277
+category: Other
 ---
 
 # MSNightmare/RoguePlanet

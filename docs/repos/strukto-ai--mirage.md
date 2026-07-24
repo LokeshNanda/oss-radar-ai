@@ -2,6 +2,7 @@
 title: strukto-ai/mirage
 source: https://github.com/strukto-ai/mirage
 stars: 1810
+category: Other
 ---
 
 # strukto-ai/mirage

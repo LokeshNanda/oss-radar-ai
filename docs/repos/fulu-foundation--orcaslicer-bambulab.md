@@ -2,6 +2,7 @@
 title: FULU-Foundation/OrcaSlicer-bambulab
 source: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 stars: 5745
+category: Other
 ---
 
 # FULU-Foundation/OrcaSlicer-bambulab

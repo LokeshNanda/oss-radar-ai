@@ -2,6 +2,7 @@
 title: cyxzdev/Uncodixfy
 source: https://github.com/cyxzdev/Uncodixfy
 stars: 1089
+category: Other
 ---
 
 # cyxzdev/Uncodixfy

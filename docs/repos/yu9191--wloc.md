@@ -2,6 +2,7 @@
 title: Yu9191/wloc
 source: https://github.com/Yu9191/wloc
 stars: 1184
+category: Other
 ---
 
 # Yu9191/wloc

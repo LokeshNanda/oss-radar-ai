@@ -2,6 +2,7 @@
 title: HKUDS/ClawTeam
 source: https://github.com/HKUDS/ClawTeam
 stars: 2912
+category: Other
 ---
 
 # HKUDS/ClawTeam

@@ -2,6 +2,7 @@
 title: thananon/9arm-skills
 source: https://github.com/thananon/9arm-skills
 stars: 2012
+category: Other
 ---
 
 # thananon/9arm-skills

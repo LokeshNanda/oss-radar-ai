@@ -2,6 +2,7 @@
 title: math-inc/OpenGauss
 source: https://github.com/math-inc/OpenGauss
 stars: 1024
+category: Other
 ---
 
 # math-inc/OpenGauss

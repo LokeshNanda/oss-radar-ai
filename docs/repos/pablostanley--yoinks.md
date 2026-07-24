@@ -2,6 +2,7 @@
 title: pablostanley/yoinks
 source: https://github.com/pablostanley/yoinks
 stars: 776
+category: Other
 ---
 
 # pablostanley/yoinks

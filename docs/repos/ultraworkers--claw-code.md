@@ -2,6 +2,7 @@
 title: ultraworkers/claw-code
 source: https://github.com/ultraworkers/claw-code
 stars: 171306
+category: Other
 ---
 
 # ultraworkers/claw-code

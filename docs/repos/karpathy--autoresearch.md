@@ -2,6 +2,7 @@
 title: karpathy/autoresearch
 source: https://github.com/karpathy/autoresearch
 stars: 9903
+category: Other
 ---
 
 # karpathy/autoresearch

@@ -2,6 +2,7 @@
 title: HKUDS/ClawWork
 source: https://github.com/HKUDS/ClawWork
 stars: 2218
+category: Other
 ---
 
 # HKUDS/ClawWork

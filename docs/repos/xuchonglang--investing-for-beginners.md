@@ -2,6 +2,7 @@
 title: xuchonglang/investing-for-beginners
 source: https://github.com/xuchonglang/investing-for-beginners
 stars: 718
+category: Other
 ---
 
 # xuchonglang/investing-for-beginners

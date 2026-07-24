@@ -2,6 +2,7 @@
 title: masterking32/MasterHttpRelayVPN
 source: https://github.com/masterking32/MasterHttpRelayVPN
 stars: 1396
+category: Other
 ---
 
 # masterking32/MasterHttpRelayVPN

@@ -2,6 +2,7 @@
 title: VoltAgent/awesome-codex-subagents
 source: https://github.com/VoltAgent/awesome-codex-subagents
 stars: 2099
+category: Other
 ---
 
 # VoltAgent/awesome-codex-subagents

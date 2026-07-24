@@ -2,6 +2,7 @@
 title: Leonxlnx/taste-skill
 source: https://github.com/Leonxlnx/taste-skill
 stars: 604
+category: Other
 ---
 
 # Leonxlnx/taste-skill

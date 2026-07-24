@@ -2,6 +2,7 @@
 title: Fei-Away/Codex-Dream-Skin
 source: https://github.com/Fei-Away/Codex-Dream-Skin
 stars: 10545
+category: Other
 ---
 
 # Fei-Away/Codex-Dream-Skin

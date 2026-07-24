@@ -2,6 +2,7 @@
 title: zhongerxin/Cowart
 source: https://github.com/zhongerxin/Cowart
 stars: 1502
+category: Other
 ---
 
 # zhongerxin/Cowart

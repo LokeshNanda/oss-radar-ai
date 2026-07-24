@@ -2,6 +2,7 @@
 title: kyegomez/OpenMythos
 source: https://github.com/kyegomez/OpenMythos
 stars: 1761
+category: Other
 ---
 
 # kyegomez/OpenMythos

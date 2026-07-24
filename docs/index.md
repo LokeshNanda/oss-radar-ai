@@ -21,4 +21,6 @@ _Generated on 2026-07-20_
 - [`pablostanley/yoinks`](repos/pablostanley--yoinks.md) — yoink any video from your terminal. no shady ads.
 - [`KubeezMedia/kubeez-scroll-world-video`](repos/kubeezmedia--kubeez-scroll-world-video.md) — Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video
 
+[Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
+
 [View past weeks →](archive.md)

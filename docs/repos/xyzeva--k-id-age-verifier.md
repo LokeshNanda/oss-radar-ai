@@ -2,6 +2,7 @@
 title: xyzeva/k-id-age-verifier
 source: https://github.com/xyzeva/k-id-age-verifier
 stars: 1615
+category: Other
 ---
 
 # xyzeva/k-id-age-verifier

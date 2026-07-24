@@ -2,6 +2,7 @@
 title: oil-oil/beautify-github-readme
 source: https://github.com/oil-oil/beautify-github-readme
 stars: 869
+category: Other
 ---
 
 # oil-oil/beautify-github-readme

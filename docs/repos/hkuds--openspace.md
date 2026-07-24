@@ -2,6 +2,7 @@
 title: HKUDS/OpenSpace
 source: https://github.com/HKUDS/OpenSpace
 stars: 2514
+category: Other
 ---
 
 # HKUDS/OpenSpace

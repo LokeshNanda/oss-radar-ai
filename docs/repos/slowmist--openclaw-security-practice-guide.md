@@ -2,6 +2,7 @@
 title: slowmist/openclaw-security-practice-guide
 source: https://github.com/slowmist/openclaw-security-practice-guide
 stars: 1445
+category: Other
 ---
 
 # slowmist/openclaw-security-practice-guide

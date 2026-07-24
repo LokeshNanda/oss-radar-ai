@@ -2,6 +2,7 @@
 title: aidenybai/cnfast
 source: https://github.com/aidenybai/cnfast
 stars: 416
+category: Other
 ---
 
 # aidenybai/cnfast

@@ -2,6 +2,7 @@
 title: mattpocock/dictionary-of-ai-coding
 source: https://github.com/mattpocock/dictionary-of-ai-coding
 stars: 858
+category: Other
 ---
 
 # mattpocock/dictionary-of-ai-coding
