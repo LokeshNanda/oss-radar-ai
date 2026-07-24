@@ -77,7 +77,7 @@ def load_openai_config() -> OpenAIConfig:
     model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
     temperature = _load_float_env("OPENAI_TEMPERATURE", 0.2)
-    max_tokens = _load_int_env("OPENAI_MAX_TOKENS", 900)
+    max_tokens = _load_int_env("OPENAI_MAX_TOKENS", 1400)
     timeout_seconds = _load_int_env("OPENAI_TIMEOUT_SECONDS", 45)
     max_retries = _load_int_env("OPENAI_MAX_RETRIES", 5)
 
@@ -115,7 +115,13 @@ class OpenAIClient:
             }
         )
 
-    def chat_completion(self, *, system: str, user: str) -> str:
+    def chat_completion(
+        self,
+        *,
+        system: str,
+        user: str,
+        response_format: Optional[Dict[str, Any]] = None,
+    ) -> str:
         """Create a chat completion and return the assistant content."""
         url = f"{self._config.base_url}/v1/chat/completions"
         payload: Dict[str, Any] = {
@@ -127,6 +133,8 @@ class OpenAIClient:
                 {"role": "user", "content": user},
             ],
         }
+        if response_format is not None:
+            payload["response_format"] = response_format
 
         last_error: Optional[str] = None
         for attempt in range(self._config.max_retries + 1):

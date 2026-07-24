@@ -47,5 +47,25 @@ class Repository:
         )
 
 
-__all__ = ["Repository"]
+CATEGORIES: tuple = (
+    "AI & Agents",
+    "Developer Tools",
+    "Web & Frontend",
+    "Data & Analytics",
+    "Infrastructure & DevOps",
+    "Security",
+    "Languages & Runtimes",
+    "Other",
+)
+
+
+@dataclass(frozen=True)
+class RepoAnalysis:
+    """Structured LLM analysis of a repository."""
+
+    markdown: str
+    category: str
+
+
+__all__ = ["Repository", "RepoAnalysis", "CATEGORIES"]
 
