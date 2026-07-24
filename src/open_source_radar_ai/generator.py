@@ -70,12 +70,37 @@ def weekly_report_path(reference_date: date, *, docs_dir: Path) -> Path:
     return docs_dir / "reports" / f"{reference_date.isoformat()}.md"
 
 
+def render_social_draft(
+    repos: List[Repository], *, generated_on: date, site_url: str
+) -> List[str]:
+    """Render a collapsible copy-paste social post block for a weekly report."""
+    top = sorted(repos, key=lambda r: (-r.stargazers_count, r.full_name))[:3]
+    lines = ['??? note "📣 Share this week\'s radar"', "", "    ```text"]
+    lines.append("    This week's most interesting new GitHub repos:")
+    lines.append("")
+    for i, repo in enumerate(top, start=1):
+        desc = (repo.description or "").strip()
+        suffix = f" — {desc}" if desc else ""
+        lines.append(f"    {i}. {repo.full_name} (⭐ {repo.stargazers_count}){suffix}")
+    lines.extend(
+        [
+            "",
+            "    Full AI-generated breakdowns of all featured repos:",
+            f"    {site_url}reports/{generated_on.isoformat()}/",
+            "    #opensource #github #developers",
+            "    ```",
+        ]
+    )
+    return lines
+
+
 def render_weekly_report_page(
     repos: Iterable[Repository],
     *,
     generated_on: date,
     docs_dir: Path,
     risers: List[dict] | None = None,
+    site_url: str | None = None,
 ) -> str:
     """Render a weekly report page with links to repo pages."""
     repo_list = list(repos)
@@ -118,6 +143,12 @@ def render_weekly_report_page(
                 f"- [`{r['full_name']}`]({r['html_url']}) — +{r['delta']} stars (now ⭐ {r['stars']})"
             )
 
+    if site_url:
+        lines.append("")
+        lines.extend(
+            render_social_draft(repo_list, generated_on=generated_on, site_url=site_url)
+        )
+
     lines.extend(["", "[← View past weeks](../archive.md)", ""])
     return "\n".join(lines)
 
@@ -128,12 +159,17 @@ def write_weekly_report_page(
     generated_on: date,
     docs_dir: Path,
     risers: List[dict] | None = None,
+    site_url: str | None = None,
 ) -> bool:
     """Write a weekly report page."""
     path = weekly_report_path(generated_on, docs_dir=docs_dir)
     ensure_dir(path.parent)
     content = render_weekly_report_page(
-        repos, generated_on=generated_on, docs_dir=docs_dir, risers=risers
+        repos,
+        generated_on=generated_on,
+        docs_dir=docs_dir,
+        risers=risers,
+        site_url=site_url,
     )
     return atomic_write_text_if_changed(path, content)
 

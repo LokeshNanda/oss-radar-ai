@@ -142,6 +142,7 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
             generated_on=cfg.reference_date,
             docs_dir=docs_dir,
             risers=risers,
+            site_url=site_url,
         )
         index_written = write_index_page(
             summarized, generated_on=cfg.reference_date, docs_dir=docs_dir

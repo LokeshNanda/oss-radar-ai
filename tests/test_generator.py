@@ -32,3 +32,18 @@ def test_render_repo_page_with_category():
 def test_render_repo_page_without_category_unchanged():
     page = render_repo_page(make_repo(), "body")
     assert "category:" not in page
+
+
+def test_social_draft_in_weekly_report():
+    from datetime import date
+
+    from open_source_radar_ai.generator import render_weekly_report_page
+
+    page = render_weekly_report_page(
+        [make_repo()],
+        generated_on=date(2026, 7, 20),
+        docs_dir=Path("docs"),
+        site_url="https://example.com/",
+    )
+    assert '??? note "📣 Share this week\'s radar"' in page
+    assert "https://example.com/reports/2026-07-20/" in page
