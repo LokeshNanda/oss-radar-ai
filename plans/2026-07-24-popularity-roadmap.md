@@ -34,9 +34,9 @@
 **Interfaces:**
 - Produces: `[project.optional-dependencies] dev = ["pytest"]`; a `tests/` directory all later tasks add to.
 
-- [ ] **Step 1: Create LICENSE** — standard MIT license text, `Copyright (c) 2026 Lokesh Nanda`.
+- [x] **Step 1: Create LICENSE** — standard MIT license text, `Copyright (c) 2026 Lokesh Nanda`.
 
-- [ ] **Step 2: Add dev extra and license metadata to pyproject.toml**
+- [x] **Step 2: Add dev extra and license metadata to pyproject.toml**
 
 ```toml
 [project]
@@ -57,7 +57,7 @@ dev = ["pytest"]
 ```
 (keep existing `[project.scripts]`, build-system, setuptools sections unchanged)
 
-- [ ] **Step 3: Smoke test**
+- [x] **Step 3: Smoke test**
 
 ```python
 """Smoke test: package imports and pipeline entry points exist."""
@@ -69,16 +69,16 @@ def test_package_imports() -> None:
     assert callable(cli.main_run)
 ```
 
-- [ ] **Step 4: Install and run** — `pip install -e ".[dev]"` then `python -m pytest tests -q` → 1 passed.
+- [x] **Step 4: Install and run** — `pip install -e ".[dev]"` then `python -m pytest tests -q` → 1 passed.
 
-- [ ] **Step 5: Commit** — `git add LICENSE pyproject.toml tests/ && git commit -m "chore: add MIT license and pytest scaffolding"`
+- [x] **Step 5: Commit** — `git add LICENSE pyproject.toml tests/ && git commit -m "chore: add MIT license and pytest scaffolding"`
 
 ### Task 2: MkDocs SEO + theme upgrade
 
 **Files:**
 - Modify: `mkdocs.yml` (full replacement below)
 
-- [ ] **Step 1: Replace mkdocs.yml**
+- [x] **Step 1: Replace mkdocs.yml**
 
 ```yaml
 site_name: Open Source Radar AI
@@ -122,30 +122,30 @@ nav:
   - Past weeks: archive.md
 ```
 
-- [ ] **Step 2: Verify** — `mkdocs build --strict` passes; `site/sitemap.xml` contains absolute `https://lokeshnanda.github.io/oss-radar-ai/` URLs.
+- [x] **Step 2: Verify** — `mkdocs build --strict` passes; `site/sitemap.xml` contains absolute `https://lokeshnanda.github.io/oss-radar-ai/` URLs.
 
-- [ ] **Step 3: Commit** — `git commit -m "feat: mkdocs SEO metadata, dark mode, sitemap"`
+- [x] **Step 3: Commit** — `git commit -m "feat: mkdocs SEO metadata, dark mode, sitemap"`
 
 ### Task 3: README overhaul
 
 **Files:**
 - Modify: `README.md` (full replacement)
 
-- [ ] **Step 1: Write new README** with: one-line pitch; live-site link + badges (workflow status `…/actions/workflows/trending.yml/badge.svg`, MIT license shield, "Live site" shield); a `## 📡 This week's radar` section wrapped in `<!-- RADAR:START -->` / `<!-- RADAR:END -->` markers (seeded with the current week's top-10 list from `docs/index.md`, so Phase 2 automation has markers to replace); "How it works" mermaid flowchart (GitHub API → dedupe → LLM analysis → MkDocs → Pages); features list; "Run your own radar" teaser linking to the (Phase 3) guide; local development section (venv, `pip install -e ".[dev]"`, `radar-run`, env vars table); links to ROADMAP.md and spec.
+- [x] **Step 1: Write new README** with: one-line pitch; live-site link + badges (workflow status `…/actions/workflows/trending.yml/badge.svg`, MIT license shield, "Live site" shield); a `## 📡 This week's radar` section wrapped in `<!-- RADAR:START -->` / `<!-- RADAR:END -->` markers (seeded with the current week's top-10 list from `docs/index.md`, so Phase 2 automation has markers to replace); "How it works" mermaid flowchart (GitHub API → dedupe → LLM analysis → MkDocs → Pages); features list; "Run your own radar" teaser linking to the (Phase 3) guide; local development section (venv, `pip install -e ".[dev]"`, `radar-run`, env vars table); links to ROADMAP.md and spec.
 
-- [ ] **Step 2: Verify** markers present exactly once each: `grep -c "RADAR:START" README.md` → 1.
+- [x] **Step 2: Verify** markers present exactly once each: `grep -c "RADAR:START" README.md` → 1.
 
-- [ ] **Step 3: Commit** — `git commit -m "docs: README overhaul with badges, radar section markers, how-it-works"`
+- [x] **Step 3: Commit** — `git commit -m "docs: README overhaul with badges, radar section markers, how-it-works"`
 
 ### Task 4: GitHub repo metadata (topics + homepage)
 
 **Files:** none (GitHub API / settings change)
 
-- [ ] **Step 1:** If a `GITHUB_TOKEN` with repo scope is available in `.env`, run:
+- [x] **Step 1:** If a `GITHUB_TOKEN` with repo scope is available in `.env`, run:
   - `PATCH /repos/LokeshNanda/oss-radar-ai` body `{"homepage": "https://lokeshnanda.github.io/oss-radar-ai/"}`
   - `PUT /repos/LokeshNanda/oss-radar-ai/topics` body `{"names": ["github-trending","llm","ai","open-source","mkdocs","github-actions","developer-tools","trending-repositories"]}`
 
-- [ ] **Step 2:** Verify via `GET /repos/LokeshNanda/oss-radar-ai` (homepage + topics populated). If no token available, output the exact manual steps (Settings → About → website + topics) in the final report instead.
+- [x] **Step 2:** Verify via `GET /repos/LokeshNanda/oss-radar-ai` (homepage + topics populated). If no token available, output the exact manual steps (Settings → About → website + topics) in the final report instead.
 
 ---
 
@@ -161,7 +161,7 @@ nav:
 - Produces: `GitHubClient.get_repository_readme(full_name: str, *, max_chars: int = 16000) -> str | None` (None on any failure/404/empty; truncated to max_chars). `GitHubClient.get_repository_by_id(repo_id: int) -> Repository | None` (used by Task 10).
 - Produces: `fetch_trending_repositories(config, *, exclude_ids=None, client: GitHubClient | None = None)` — optional shared client.
 
-- [ ] **Step 1: Write failing tests** (fake session pattern used by all client tests)
+- [x] **Step 1: Write failing tests** (fake session pattern used by all client tests)
 
 ```python
 """Tests for GitHubClient README and by-id fetches."""
@@ -230,9 +230,9 @@ def test_get_repository_by_id():
     assert repo is not None and repo.stargazers_count == 5
 ```
 
-- [ ] **Step 2: Run to verify failure** — `python -m pytest tests/test_github_client.py -q` → AttributeError.
+- [x] **Step 2: Run to verify failure** — `python -m pytest tests/test_github_client.py -q` → AttributeError.
 
-- [ ] **Step 3: Implement** in `github_client.py` (add `Optional` import):
+- [x] **Step 3: Implement** in `github_client.py` (add `Optional` import):
 
 ```python
     def get_repository_readme(self, full_name: str, *, max_chars: int = 16000) -> Optional[str]:
@@ -273,8 +273,8 @@ def test_get_repository_by_id():
 
 Also modify `fetch.py:fetch_trending_repositories` signature to `(config, *, exclude_ids=None, client: GitHubClient | None = None)` and use `client = client or GitHubClient(config)`.
 
-- [ ] **Step 4: Run tests** — all pass.
-- [ ] **Step 5: Commit** — `git commit -m "feat: fetch repo READMEs and repos by id from GitHub API"`
+- [x] **Step 4: Run tests** — all pass.
+- [x] **Step 5: Commit** — `git commit -m "feat: fetch repo READMEs and repos by id from GitHub API"`
 
 ### Task 6: Structured README-aware analysis (RepoAnalysis + JSON mode)
 
@@ -288,7 +288,7 @@ Also modify `fetch.py:fetch_trending_repositories` signature to `(config, *, exc
 - Produces: `summarize_repository(repo, *, client, readme_excerpt: str | None = None) -> RepoAnalysis`.
 - Produces: `OpenAIClient.chat_completion(*, system, user, response_format: dict | None = None) -> str`.
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```python
 """Tests for structured summarization."""
@@ -347,9 +347,9 @@ def test_categories_are_fixed_set():
     assert "Other" in CATEGORIES and len(CATEGORIES) == 8
 ```
 
-- [ ] **Step 2: Verify failure** — ImportError on `RepoAnalysis`.
+- [x] **Step 2: Verify failure** — ImportError on `RepoAnalysis`.
 
-- [ ] **Step 3: Implement.**
+- [x] **Step 3: Implement.**
 
 `models.py` — append:
 
@@ -522,8 +522,8 @@ def build_default_client() -> OpenAIClient:
 __all__ = ["SummarizationError", "summarize_repository", "build_default_client"]
 ```
 
-- [ ] **Step 4: Run tests** — all pass (note: `pipeline.py` still passes `analysis` as str; it breaks type-wise but isn't executed by tests — fixed in Task 8).
-- [ ] **Step 5: Commit** — `git commit -m "feat: README-aware structured analysis with category (JSON mode)"`
+- [x] **Step 4: Run tests** — all pass (note: `pipeline.py` still passes `analysis` as str; it breaks type-wise but isn't executed by tests — fixed in Task 8).
+- [x] **Step 5: Commit** — `git commit -m "feat: README-aware structured analysis with category (JSON mode)"`
 
 ### Task 7: Catalog state module
 
@@ -536,7 +536,7 @@ __all__ = ["SummarizationError", "summarize_repository", "build_default_client"]
 - Produces: `load_catalog(path=None) -> list[CatalogEntry]`, `save_catalog(entries, path=None) -> bool`, `upsert_entries(existing, new) -> list[CatalogEntry]` (dedupe by id, new wins; sorted by `date_featured` desc then stars desc).
 - State file: `.radar_state/catalog.json` → `{"repos": [entry-dicts]}` (respects `RADAR_STATE_DIR`).
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```python
 """Tests for the repository catalog."""
@@ -573,9 +573,9 @@ def test_upsert_dedupes_and_sorts():
     assert merged[1].stars_at_feature == 7  # new wins
 ```
 
-- [ ] **Step 2: Verify failure** — ModuleNotFoundError.
+- [x] **Step 2: Verify failure** — ModuleNotFoundError.
 
-- [ ] **Step 3: Implement `catalog.py`**
+- [x] **Step 3: Implement `catalog.py`**
 
 ```python
 """Persistent catalog of all featured repositories."""
@@ -636,8 +636,8 @@ def upsert_entries(
 __all__ = ["CatalogEntry", "load_catalog", "save_catalog", "upsert_entries"]
 ```
 
-- [ ] **Step 4: Run tests** — pass.
-- [ ] **Step 5: Commit** — `git commit -m "feat: persistent catalog of featured repositories"`
+- [x] **Step 4: Run tests** — pass.
+- [x] **Step 5: Commit** — `git commit -m "feat: persistent catalog of featured repositories"`
 
 ### Task 8: Pipeline integration (README → analysis → category on pages → catalog)
 
@@ -650,7 +650,7 @@ __all__ = ["CatalogEntry", "load_catalog", "save_catalog", "upsert_entries"]
 - Produces: `render_repo_page(repo, analysis_markdown, *, category: str | None = None)` — frontmatter gains `category:` line and meta gains `- **Category**:` when provided. `write_repo_page(repo, *, analysis_markdown, docs_dir, category=None)`.
 - Produces: pipeline env `RADAR_README_MAX_CHARS` (default 16000).
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 `tests/test_generator.py`:
 
@@ -740,9 +740,9 @@ def test_pipeline_writes_pages_and_catalog(tmp_path: Path, monkeypatch):
     assert ids == [1, 2]
 ```
 
-- [ ] **Step 2: Verify failure.**
+- [x] **Step 2: Verify failure.**
 
-- [ ] **Step 3: Implement.**
+- [x] **Step 3: Implement.**
 
 `generator.py` — new `render_repo_page`:
 
@@ -805,8 +805,8 @@ def render_repo_page(
 
 After the loop (before dedupe-state save): `save_catalog(upsert_entries(load_catalog(), new_entries))`. Import `repo_markdown_path` from `.generator`.
 
-- [ ] **Step 4: Run full suite** — `python -m pytest tests -q` all pass; `mkdocs build --strict` passes.
-- [ ] **Step 5: Commit** — `git commit -m "feat: wire README-aware analysis, categories and catalog into pipeline"`
+- [x] **Step 4: Run full suite** — `python -m pytest tests -q` all pass; `mkdocs build --strict` passes.
+- [x] **Step 5: Commit** — `git commit -m "feat: wire README-aware analysis, categories and catalog into pipeline"`
 
 ### Task 9: Category index pages
 
@@ -819,7 +819,7 @@ After the loop (before dedupe-state save): `save_catalog(upsert_entries(load_cat
 - Consumes: `catalog.CatalogEntry`, `generator._slugify`.
 - Produces: `write_category_pages(entries: list[CatalogEntry], *, docs_dir: Path) -> int` (pages written). Writes `docs/categories/index.md` (counts per category) and `docs/categories/<slug>.md` per non-empty category (each repo: link to `../{entry.page}`, description, stars, week featured).
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 """Tests for category index pages."""
@@ -850,9 +850,9 @@ def test_empty_catalog_writes_only_index(tmp_path: Path):
     assert write_category_pages([], docs_dir=tmp_path / "docs") == 1
 ```
 
-- [ ] **Step 2: Verify failure.**
+- [x] **Step 2: Verify failure.**
 
-- [ ] **Step 3: Implement `category_pages.py`**
+- [x] **Step 3: Implement `category_pages.py`**
 
 ```python
 """Category index page generation."""
@@ -915,8 +915,8 @@ __all__ = ["write_category_pages"]
 
 Pipeline: after saving catalog, `write_category_pages(full_catalog, docs_dir=docs_dir)` (where `full_catalog` is the upserted list). mkdocs.yml nav gains `- Categories: categories/index.md` after Home.
 
-- [ ] **Step 4: Run tests + `mkdocs build --strict`** (needs `docs/categories/index.md` to exist for nav — run a minimal generation or create via pipeline test artifacts; simplest: run `python -c "from open_source_radar_ai.category_pages import write_category_pages; from open_source_radar_ai.catalog import load_catalog; from pathlib import Path; write_category_pages(load_catalog(), docs_dir=Path('docs'))"`).
-- [ ] **Step 5: Commit** — `git commit -m "feat: per-category index pages"`
+- [x] **Step 4: Run tests + `mkdocs build --strict`** (needs `docs/categories/index.md` to exist for nav — run a minimal generation or create via pipeline test artifacts; simplest: run `python -c "from open_source_radar_ai.category_pages import write_category_pages; from open_source_radar_ai.catalog import load_catalog; from pathlib import Path; write_category_pages(load_catalog(), docs_dir=Path('docs'))"`).
+- [x] **Step 5: Commit** — `git commit -m "feat: per-category index pages"`
 
 ### Task 10: Star history + weekly velocity/risers
 
@@ -931,7 +931,7 @@ Pipeline: after saving catalog, `write_category_pages(full_catalog, docs_dir=doc
 - Produces: `render_weekly_report_page(..., risers: list[dict] | None = None)` — appends a `## 📈 Biggest risers` section when risers non-empty; repo lines gain `⭐ N (≈M/day)` where `M = round(stars / max(1, (generated_on - created_at.date()).days), 1)`.
 - Env: `RADAR_STAR_REFRESH_LIMIT` (default 50) — max previously-tracked repos re-fetched per run, most recently featured first.
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```python
 """Tests for star history tracking."""
@@ -974,9 +974,9 @@ def test_compute_risers_orders_by_delta():
     assert risers[0]["delta"] == 200
 ```
 
-- [ ] **Step 2: Verify failure.**
+- [x] **Step 2: Verify failure.**
 
-- [ ] **Step 3: Implement `stars.py`**
+- [x] **Step 3: Implement `stars.py`**
 
 ```python
 """Star-count history tracking for featured repositories."""
@@ -1090,8 +1090,8 @@ and before the footer:
 
 Pass `risers=risers` into `write_weekly_report_page`. (`full_catalog` is sorted newest-featured first from Task 8.)
 
-- [ ] **Step 4: Run full suite** — pass.
-- [ ] **Step 5: Commit** — `git commit -m "feat: star history tracking, velocity and biggest-risers in weekly report"`
+- [x] **Step 4: Run full suite** — pass.
+- [x] **Step 5: Commit** — `git commit -m "feat: star history tracking, velocity and biggest-risers in weekly report"`
 
 ### Task 11: Backfill CLI (`radar-backfill`)
 
@@ -1106,7 +1106,7 @@ Pass `risers=risers` into `write_weekly_report_page`. (`full_catalog` is sorted 
 - Produces: `run_backfill(docs_dir: Path, *, categorize: bool) -> int` — populates catalog entries for pages missing from catalog (`date_featured` from report map, fallback `"2026-01-01"`; `id` = negative sequential ids `-1, -2, ...` for pages whose numeric GitHub id is unknown — catalog upsert keys on id so negatives never collide with real ones); when `categorize=True`, asks the LLM for category-only JSON per page (prompt: metadata + first 2000 chars of existing analysis; response `{"category": ...}`), else `"Other"`. Rewrites each page's frontmatter to include the category.
 - CLI: `radar-backfill` → `main_backfill(argv)`; flag `--no-llm` sets `categorize=False`.
 
-- [ ] **Step 1: Failing tests** (fixture page + report in tmp docs dir; fake LLM client monkeypatched into `backfill.build_default_client`; asserts catalog populated, category written back into frontmatter, report-date mapping used)
+- [x] **Step 1: Failing tests** (fixture page + report in tmp docs dir; fake LLM client monkeypatched into `backfill.build_default_client`; asserts catalog populated, category written back into frontmatter, report-date mapping used)
 
 ```python
 """Tests for the backfill CLI."""
@@ -1172,9 +1172,9 @@ def test_backfill_skips_pages_already_in_catalog(tmp_path: Path, monkeypatch):
     assert backfill_mod.run_backfill(docs, categorize=True) == 0
 ```
 
-- [ ] **Step 2: Verify failure.**
+- [x] **Step 2: Verify failure.**
 
-- [ ] **Step 3: Implement `backfill.py`** — frontmatter parse via simple `---` block splitting and `key: value` lines; catalog match by `full_name` (existing entries) to decide skip; negative ids assigned as `-(index+1)` offset below current min; category prompt:
+- [x] **Step 3: Implement `backfill.py`** — frontmatter parse via simple `---` block splitting and `key: value` lines; catalog match by `full_name` (existing entries) to decide skip; negative ids assigned as `-(index+1)` offset below current min; category prompt:
 
 ```python
 CATEGORY_PROMPT = """Classify this GitHub repository into exactly one category.
@@ -1188,9 +1188,9 @@ Respond with JSON: {{"category": "<one of the categories>"}}"""
 
 `main_backfill` in `cli.py` mirrors `main_run` (configure logging, parse `--no-llm`, call `run_backfill(Path(os.getenv("RADAR_DOCS_DIR", "docs")), categorize=...)`, log count, return 0/1). Add `radar-backfill = "open_source_radar_ai.cli:main_backfill"` to `[project.scripts]`; `pip install -e ".[dev]"` to refresh entry points.
 
-- [ ] **Step 4: Run tests** — pass.
-- [ ] **Step 5: Run the real backfill** — requires `OPENAI_API_KEY` in `.env`; run `radar-backfill` (cost ≈ $0.05 for ~230 pages with gpt-4o-mini). If no key available locally, run `radar-backfill --no-llm` so pages/catalog gain dates now and categories default to Other (re-runnable later). Then regenerate category pages (same command as Task 9 Step 4) and `mkdocs build --strict`.
-- [ ] **Step 6: Commit** — `git commit -m "feat: radar-backfill CLI to catalog and categorize historical pages"`
+- [x] **Step 4: Run tests** — pass.
+- [x] **Step 5: Run the real backfill** — requires `OPENAI_API_KEY` in `.env`; run `radar-backfill` (cost ≈ $0.05 for ~230 pages with gpt-4o-mini). If no key available locally, run `radar-backfill --no-llm` so pages/catalog gain dates now and categories default to Other (re-runnable later). Then regenerate category pages (same command as Task 9 Step 4) and `mkdocs build --strict`.
+- [x] **Step 6: Commit** — `git commit -m "feat: radar-backfill CLI to catalog and categorize historical pages"`
 
 ---
 
@@ -1211,7 +1211,7 @@ Respond with JSON: {{"category": "<one of the categories>"}}"""
   - `docs/api/catalog.json` — `{"repos": [all entry dicts]}`.
 - Env: `RADAR_SITE_URL` (default `https://lokeshnanda.github.io/oss-radar-ai/`), read in pipeline.
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```python
 """Tests for RSS and JSON feeds."""
@@ -1251,9 +1251,9 @@ def test_empty_catalog_writes_empty_feed(tmp_path: Path):
     assert (docs / "feed.xml").exists()
 ```
 
-- [ ] **Step 2: Verify failure.**
+- [x] **Step 2: Verify failure.**
 
-- [ ] **Step 3: Implement `feeds.py`** — group entries by `date_featured` desc; build XML with `xml.sax.saxutils.escape` for text nodes; write via `atomic_write_text_if_changed`; JSON via `atomic_write_json_if_changed` with `asdict(entry)`. RSS skeleton:
+- [x] **Step 3: Implement `feeds.py`** — group entries by `date_featured` desc; build XML with `xml.sax.saxutils.escape` for text nodes; write via `atomic_write_text_if_changed`; JSON via `atomic_write_json_if_changed` with `asdict(entry)`. RSS skeleton:
 
 ```python
 RSS_TEMPLATE = """<?xml version="1.0" encoding="UTF-8"?>
@@ -1270,15 +1270,15 @@ RSS_TEMPLATE = """<?xml version="1.0" encoding="UTF-8"?>
 
 Pipeline: after category pages, `write_feeds(full_catalog, docs_dir=docs_dir, site_url=os.getenv("RADAR_SITE_URL", "https://lokeshnanda.github.io/oss-radar-ai/"))`. Index page (`render_index_page`): add line `[Subscribe via RSS](feed.xml){:target="_blank"} · [JSON API](api/latest.json)` before the archive link. README: add RSS/JSON badges-or-links line under the badges.
 
-- [ ] **Step 4: Run tests + `mkdocs build --strict`** (docs/feed.xml + docs/api/*.json are copied verbatim by mkdocs — regenerate via a one-off `python -c` run against the real catalog so the committed site has them).
-- [ ] **Step 5: Commit** — `git commit -m "feat: RSS feed and JSON API endpoints"`
+- [x] **Step 4: Run tests + `mkdocs build --strict`** (docs/feed.xml + docs/api/*.json are copied verbatim by mkdocs — regenerate via a one-off `python -c` run against the real catalog so the committed site has them).
+- [x] **Step 5: Commit** — `git commit -m "feat: RSS feed and JSON API endpoints"`
 
 ### Task 13: Social cards (OG images) in CI
 
 **Files:**
 - Modify: `mkdocs.yml`, `.github/workflows/trending.yml`
 
-- [ ] **Step 1:** Add to `mkdocs.yml` plugins:
+- [x] **Step 1:** Add to `mkdocs.yml` plugins:
 
 ```yaml
 plugins:
@@ -1287,7 +1287,7 @@ plugins:
       enabled: !ENV [CI, false]
 ```
 
-- [ ] **Step 2:** In `trending.yml` install step, add imaging deps:
+- [x] **Step 2:** In `trending.yml` install step, add imaging deps:
 
 ```yaml
       - name: Install dependencies
@@ -1298,8 +1298,8 @@ plugins:
           pip install "mkdocs-material[imaging]"
 ```
 
-- [ ] **Step 3: Verify locally** — `mkdocs build --strict` still passes with plugin disabled (CI env var unset locally).
-- [ ] **Step 4: Commit** — `git commit -m "feat: social card OG images in CI builds"`
+- [x] **Step 3: Verify locally** — `mkdocs build --strict` still passes with plugin disabled (CI env var unset locally).
+- [x] **Step 4: Commit** — `git commit -m "feat: social card OG images in CI builds"`
 
 ### Task 14: Auto-updating repo README radar section
 
@@ -1312,7 +1312,7 @@ plugins:
 - Produces: `render_radar_section(entries: list[CatalogEntry], *, site_url: str) -> str` — markdown list of the newest week's repos with links to GitHub + site page.
 - Produces: `update_readme_radar_section(readme_path: Path, entries, *, site_url) -> bool` — replaces content between `<!-- RADAR:START -->` and `<!-- RADAR:END -->`; returns False (no-op, warn) if markers missing.
 
-- [ ] **Step 1: Failing tests**
+- [x] **Step 1: Failing tests**
 
 ```python
 """Tests for README radar-section updating."""
@@ -1345,10 +1345,10 @@ def test_missing_markers_is_noop(tmp_path: Path):
     assert update_readme_radar_section(readme, [entry(1)], site_url="https://x/") is False
 ```
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement** — regex `re.sub(r"(<!-- RADAR:START -->).*?(<!-- RADAR:END -->)", ..., flags=re.DOTALL)`; section content = `_Week of <date>_` + list `- [full_name](html_url) — description ([analysis](site_url + page-as-url))` where page URL = `site_url + entry.page.removesuffix('.md') + '/'`. Pipeline calls it with `Path("README.md")` (env `RADAR_README_PATH` override for tests) after feeds. Workflow commit step: `git add docs .radar_state README.md`.
-- [ ] **Step 4: Run tests; run pipeline-level README update against real README via `python -c` with real catalog; verify README section populated.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: auto-update README radar section each run"`
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement** — regex `re.sub(r"(<!-- RADAR:START -->).*?(<!-- RADAR:END -->)", ..., flags=re.DOTALL)`; section content = `_Week of <date>_` + list `- [full_name](html_url) — description ([analysis](site_url + page-as-url))` where page URL = `site_url + entry.page.removesuffix('.md') + '/'`. Pipeline calls it with `Path("README.md")` (env `RADAR_README_PATH` override for tests) after feeds. Workflow commit step: `git add docs .radar_state README.md`.
+- [x] **Step 4: Run tests; run pipeline-level README update against real README via `python -c` with real catalog; verify README section populated.**
+- [x] **Step 5: Commit** — `git commit -m "feat: auto-update README radar section each run"`
 
 ### Task 15: Copy-paste social draft in weekly reports
 
@@ -1359,7 +1359,7 @@ def test_missing_markers_is_noop(tmp_path: Path):
 **Interfaces:**
 - Produces: `render_social_draft(repos, *, generated_on, site_url) -> str` — a `??? note "📣 Share this week's radar"` collapsible block (pymdownx.details, enabled in Task 2) containing a ready-to-post text: hook line, top-3 repos with star counts, site link. Appended to weekly report by `render_weekly_report_page` (new keyword `site_url: str | None = None`; block only added when provided).
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 def test_social_draft_in_weekly_report():
@@ -1375,8 +1375,8 @@ def test_social_draft_in_weekly_report():
 
 (add `from pathlib import Path` to the test module)
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement** — draft body (indented 4 spaces inside the `???` block, in a fenced code block so it's copyable):
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement** — draft body (indented 4 spaces inside the `???` block, in a fenced code block so it's copyable):
 
 ```
     ```text
@@ -1394,8 +1394,8 @@ def test_social_draft_in_weekly_report():
 
 Pipeline passes `site_url` through `write_weekly_report_page`.
 
-- [ ] **Step 4: Run full suite + `mkdocs build --strict`.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: copy-paste social draft in weekly reports"`
+- [x] **Step 4: Run full suite + `mkdocs build --strict`.**
+- [x] **Step 5: Commit** — `git commit -m "feat: copy-paste social draft in weekly reports"`
 
 ---
 
@@ -1411,7 +1411,7 @@ Pipeline passes `site_url` through `write_weekly_report_page`.
 - Produces: `GitHubConfig.extra_query: str` (env `RADAR_SEARCH_QUERY`, default `""`) — appended to the search query: `created:>=<date> <extra_query>`.
 - Produces: mkdocs.yml `site_name: !ENV [RADAR_SITE_NAME, "Open Source Radar AI"]` and `site_description: !ENV [RADAR_SITE_DESCRIPTION, "AI-curated GitHub trending repositories with developer-focused insights, updated weekly."]`.
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 """Tests for configurable search scope."""
@@ -1456,10 +1456,10 @@ def test_no_extra_query_unchanged():
     assert cfg.extra_query == ""
 ```
 
-- [ ] **Step 2: Verify failure** (dataclass has no `extra_query`).
-- [ ] **Step 3: Implement** — add `extra_query: str` field to `GitHubConfig`; `load_config` reads `os.getenv("RADAR_SEARCH_QUERY", "").strip()`; `search_trending_repositories` builds `query = f"created:>={...}"` then `if self.github_config.extra_query: query += f" {self.github_config.extra_query}"`. Update `.env.example` with `RADAR_SEARCH_QUERY=`, `RADAR_SITE_NAME=`, `RADAR_SITE_DESCRIPTION=`, `RADAR_SITE_URL=`, `RADAR_STAR_REFRESH_LIMIT=50`, `RADAR_README_MAX_CHARS=16000`. Update mkdocs.yml `site_name`/`site_description` to `!ENV` form. Note: any other `AppConfig(...)/GitHubConfig(...)` constructions in existing tests need `extra_query=""` added.
-- [ ] **Step 4: Run full suite + `mkdocs build --strict`.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: configurable search scope and site identity for forks"`
+- [x] **Step 2: Verify failure** (dataclass has no `extra_query`).
+- [x] **Step 3: Implement** — add `extra_query: str` field to `GitHubConfig`; `load_config` reads `os.getenv("RADAR_SEARCH_QUERY", "").strip()`; `search_trending_repositories` builds `query = f"created:>={...}"` then `if self.github_config.extra_query: query += f" {self.github_config.extra_query}"`. Update `.env.example` with `RADAR_SEARCH_QUERY=`, `RADAR_SITE_NAME=`, `RADAR_SITE_DESCRIPTION=`, `RADAR_SITE_URL=`, `RADAR_STAR_REFRESH_LIMIT=50`, `RADAR_README_MAX_CHARS=16000`. Update mkdocs.yml `site_name`/`site_description` to `!ENV` form. Note: any other `AppConfig(...)/GitHubConfig(...)` constructions in existing tests need `extra_query=""` added.
+- [x] **Step 4: Run full suite + `mkdocs build --strict`.**
+- [x] **Step 5: Commit** — `git commit -m "feat: configurable search scope and site identity for forks"`
 
 ### Task 17: LLM provider base_url normalization
 
@@ -1470,7 +1470,7 @@ def test_no_extra_query_unchanged():
 **Interfaces:**
 - Produces: `chat_completion` URL building tolerates base URLs that already end in `/v1` (OpenRouter `https://openrouter.ai/api/v1`, Groq `https://api.groq.com/openai/v1`, Ollama `http://localhost:11434/v1`): use `base + "/chat/completions"` if base ends with `/v1`, else `base + "/v1/chat/completions"`.
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 """Tests for OpenAI-compatible endpoint URL building."""
@@ -1485,8 +1485,8 @@ def test_base_already_has_v1():
     assert build_chat_completions_url("https://openrouter.ai/api/v1") == "https://openrouter.ai/api/v1/chat/completions"
 ```
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement**
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement**
 
 ```python
 def build_chat_completions_url(base_url: str) -> str:
@@ -1499,8 +1499,8 @@ def build_chat_completions_url(base_url: str) -> str:
 
 Use it in `chat_completion`. `.env.example` gains commented provider examples (OpenRouter/Groq/Ollama base URLs + model names).
 
-- [ ] **Step 4: Run suite.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: support OpenAI-compatible providers (OpenRouter, Groq, Ollama)"`
+- [x] **Step 4: Run suite.**
+- [x] **Step 5: Commit** — `git commit -m "feat: support OpenAI-compatible providers (OpenRouter, Groq, Ollama)"`
 
 ### Task 18: Run-your-own guide + CONTRIBUTING
 
@@ -1508,10 +1508,10 @@ Use it in `chat_completion`. `.env.example` gains commented provider examples (O
 - Create: `docs/run-your-own.md`, `CONTRIBUTING.md`
 - Modify: `mkdocs.yml` (nav), `README.md` (link the guide)
 
-- [ ] **Step 1: Write `docs/run-your-own.md`** — "Deploy your own radar in ~10 minutes": fork → add `OPENAI_API_KEY` secret → enable Pages (GitHub Actions source) → optionally set `RADAR_SEARCH_QUERY` / `RADAR_SITE_NAME` / `RADAR_SITE_URL` as repository variables and reference them in the workflow env block (include the exact `env:` YAML snippet) → run `workflow_dispatch`. Include niche-radar examples (`topic:rust`, `topic:ai language:python`, `topic:security`). Include cost note (≈$0.05/week with gpt-4o-mini) and free-provider option via Task 17 env vars.
-- [ ] **Step 2: Write `CONTRIBUTING.md`** — dev setup (`pip install -e ".[dev]"`, `python -m pytest tests -q`, `mkdocs serve`), code style expectations (typed, logged, deterministic writes), where to add tests, small-PR guidance, and 3 suggested starter contributions (new category heuristics, feed enhancements, new provider docs).
-- [ ] **Step 3:** Nav gains `- Run your own: run-your-own.md`. README "Run your own radar" section links to the published guide URL. `mkdocs build --strict` passes.
-- [ ] **Step 4: Commit** — `git commit -m "docs: run-your-own guide and CONTRIBUTING"`
+- [x] **Step 1: Write `docs/run-your-own.md`** — "Deploy your own radar in ~10 minutes": fork → add `OPENAI_API_KEY` secret → enable Pages (GitHub Actions source) → optionally set `RADAR_SEARCH_QUERY` / `RADAR_SITE_NAME` / `RADAR_SITE_URL` as repository variables and reference them in the workflow env block (include the exact `env:` YAML snippet) → run `workflow_dispatch`. Include niche-radar examples (`topic:rust`, `topic:ai language:python`, `topic:security`). Include cost note (≈$0.05/week with gpt-4o-mini) and free-provider option via Task 17 env vars.
+- [x] **Step 2: Write `CONTRIBUTING.md`** — dev setup (`pip install -e ".[dev]"`, `python -m pytest tests -q`, `mkdocs serve`), code style expectations (typed, logged, deterministic writes), where to add tests, small-PR guidance, and 3 suggested starter contributions (new category heuristics, feed enhancements, new provider docs).
+- [x] **Step 3:** Nav gains `- Run your own: run-your-own.md`. README "Run your own radar" section links to the published guide URL. `mkdocs build --strict` passes.
+- [x] **Step 4: Commit** — `git commit -m "docs: run-your-own guide and CONTRIBUTING"`
 
 ---
 
@@ -1528,7 +1528,7 @@ Use it in `chat_completion`. `.env.example` gains commented provider examples (O
 - Consumes: catalog entries.
 - Produces: `write_trends_page(entries, *, docs_dir: Path) -> bool` → `docs/trends.md` with: total featured count; markdown table categories × last 6 months (`date_featured[:7]` buckets, newest column first); top-10 language table with counts and percentage.
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 """Tests for the trends page."""
@@ -1560,10 +1560,10 @@ def test_trends_page_contents(tmp_path: Path):
     assert "Python" in text and "Rust" in text
 ```
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement** — `Counter` over `(category, month)` and `language`; build tables with fixed category row order (`CATEGORIES`), months = sorted distinct `date_featured[:7]` desc, capped at 6; percentages via `round(100*count/total)`. Pipeline calls after category pages; nav gains `- Trends: trends.md`; generate real `docs/trends.md` from real catalog before mkdocs build (same `python -c` pattern as Task 9).
-- [ ] **Step 4: Run suite + `mkdocs build --strict`.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: trends page (categories and languages over time)"`
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement** — `Counter` over `(category, month)` and `language`; build tables with fixed category row order (`CATEGORIES`), months = sorted distinct `date_featured[:7]` desc, capped at 6; percentages via `round(100*count/total)`. Pipeline calls after category pages; nav gains `- Trends: trends.md`; generate real `docs/trends.md` from real catalog before mkdocs build (same `python -c` pattern as Task 9).
+- [x] **Step 4: Run suite + `mkdocs build --strict`.**
+- [x] **Step 5: Commit** — `git commit -m "feat: trends page (categories and languages over time)"`
 
 ### Task 20: Hall of fame
 
@@ -1576,7 +1576,7 @@ def test_trends_page_contents(tmp_path: Path):
 - Consumes: star history (Task 10).
 - Produces: `write_hall_of_fame(history: dict, *, docs_dir: Path) -> bool` → `docs/hall-of-fame.md` with two tables: **All-time top 20** (latest snapshot stars desc: rank, repo link, stars, first-seen date) and **Recent risers** (reuse `stars.compute_risers(history, limit=10)`).
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 """Tests for the hall of fame page."""
@@ -1596,10 +1596,10 @@ def test_hall_of_fame(tmp_path: Path):
     assert "+1000" in text  # riser delta
 ```
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement** — latest snapshot = `snapshots[max(snapshots)]`, first seen = `min(snapshots)`; markdown tables; pipeline calls after trends with loaded history; nav gains `- Hall of fame: hall-of-fame.md`; generate the real page via `python -c` before build.
-- [ ] **Step 4: Run suite + `mkdocs build --strict`.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: hall of fame page from star history"`
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement** — latest snapshot = `snapshots[max(snapshots)]`, first seen = `min(snapshots)`; markdown tables; pipeline calls after trends with loaded history; nav gains `- Hall of fame: hall-of-fame.md`; generate the real page via `python -c` before build.
+- [x] **Step 4: Run suite + `mkdocs build --strict`.**
+- [x] **Step 5: Commit** — `git commit -m "feat: hall of fame page from star history"`
 
 ### Task 21: Archive improvements
 
@@ -1610,7 +1610,7 @@ def test_hall_of_fame(tmp_path: Path):
 **Interfaces:**
 - Produces: archive grouped by month (`## 2026-07` headings, newest first) with report links under each; keeps existing function signature.
 
-- [ ] **Step 1: Failing test**
+- [x] **Step 1: Failing test**
 
 ```python
 def test_archive_groups_by_month(tmp_path: Path):
@@ -1624,18 +1624,18 @@ def test_archive_groups_by_month(tmp_path: Path):
     assert text.index("## July 2026") < text.index("## June 2026")
 ```
 
-- [ ] **Step 2: Verify failure.**
-- [ ] **Step 3: Implement** — group `list_existing_reports` dates by `(year, month)`; heading via `date(y, m, 1).strftime("%B %Y")`; regenerate real `docs/archive.md` via `python -c "from open_source_radar_ai.generator import write_archive_page; from pathlib import Path; write_archive_page(Path('docs'))"`.
-- [ ] **Step 4: Run suite + `mkdocs build --strict`.**
-- [ ] **Step 5: Commit** — `git commit -m "feat: archive grouped by month"`
+- [x] **Step 2: Verify failure.**
+- [x] **Step 3: Implement** — group `list_existing_reports` dates by `(year, month)`; heading via `date(y, m, 1).strftime("%B %Y")`; regenerate real `docs/archive.md` via `python -c "from open_source_radar_ai.generator import write_archive_page; from pathlib import Path; write_archive_page(Path('docs'))"`.
+- [x] **Step 4: Run suite + `mkdocs build --strict`.**
+- [x] **Step 5: Commit** — `git commit -m "feat: archive grouped by month"`
 
 ### Task 22: Final verification + roadmap checkboxes
 
-- [ ] **Step 1:** `python -m pytest tests -q` — all green.
-- [ ] **Step 2:** `mkdocs build --strict` — passes.
-- [ ] **Step 3:** Full offline pipeline dry-run into a scratch dir: set `RADAR_DOCS_DIR`/`RADAR_STATE_DIR` to scratch copies and monkeypatch-free run is impossible without API keys — instead run the pipeline test suite plus a `python -c` invocation of each generator against real catalog/history to confirm real-site artifacts (categories, trends, hall-of-fame, feeds, README section) are current and committed.
-- [ ] **Step 4:** Tick all boxes in `ROADMAP.md`, update `ARCHITECTURE.md` with the new modules (catalog, stars, feeds, category_pages, trends, hall_of_fame, readme_updater, backfill).
-- [ ] **Step 5:** Commit — `git commit -m "docs: mark roadmap phases complete, refresh architecture"`. Report to user; ask before pushing (workflow bot also pushes to main — pull --rebase first).
+- [x] **Step 1:** `python -m pytest tests -q` — all green.
+- [x] **Step 2:** `mkdocs build --strict` — passes.
+- [x] **Step 3:** Full offline pipeline dry-run into a scratch dir: set `RADAR_DOCS_DIR`/`RADAR_STATE_DIR` to scratch copies and monkeypatch-free run is impossible without API keys — instead run the pipeline test suite plus a `python -c` invocation of each generator against real catalog/history to confirm real-site artifacts (categories, trends, hall-of-fame, feeds, README section) are current and committed.
+- [x] **Step 4:** Tick all boxes in `ROADMAP.md`, update `ARCHITECTURE.md` with the new modules (catalog, stars, feeds, category_pages, trends, hall_of_fame, readme_updater, backfill).
+- [x] **Step 5:** Commit — `git commit -m "docs: mark roadmap phases complete, refresh architecture"`. Report to user; ask before pushing (workflow bot also pushes to main — pull --rebase first).
 
 ## Self-review notes
 
