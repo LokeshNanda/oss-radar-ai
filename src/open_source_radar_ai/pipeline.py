@@ -12,6 +12,7 @@ from .catalog import CatalogEntry, load_catalog, save_catalog, upsert_entries
 from .category_pages import write_category_pages
 from .feeds import write_feeds
 from .readme_updater import update_readme_radar_section
+from .trends import write_trends_page
 from .config import AppConfig, load_config
 from .dedupe import load_state, save_state, update_state_with_processed
 from .fetch import fetch_trending_repositories
@@ -118,6 +119,7 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
     write_feeds(full_catalog, docs_dir=docs_dir, site_url=site_url)
     readme_path = Path(os.getenv("RADAR_README_PATH", "README.md"))
     update_readme_radar_section(readme_path, full_catalog, site_url=site_url)
+    write_trends_page(full_catalog, docs_dir=docs_dir)
 
     history = load_star_history()
     for repo in summarized:
