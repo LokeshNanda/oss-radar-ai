@@ -28,6 +28,8 @@ theme:
 
 plugins:
   - search
+  - social:
+      enabled: !ENV [CI, false]
 
 markdown_extensions:
   - admonition

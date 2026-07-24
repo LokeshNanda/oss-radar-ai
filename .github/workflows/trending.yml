@@ -29,7 +29,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          sudo apt-get update && sudo apt-get install -y libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev pngquant
           pip install -e .
+          pip install "mkdocs-material[imaging]"
 
       - name: Run radar pipeline
         env:
