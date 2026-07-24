@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import List
 
 from .catalog import CatalogEntry, load_catalog, save_catalog, upsert_entries
+from .category_pages import write_category_pages
 from .config import AppConfig, load_config
 from .dedupe import load_state, save_state, update_state_with_processed
 from .fetch import fetch_trending_repositories
@@ -109,6 +110,7 @@ def run_pipeline(config: AppConfig | None = None) -> PipelineResult:
 
     full_catalog = upsert_entries(load_catalog(), new_entries)
     save_catalog(full_catalog)
+    write_category_pages(full_catalog, docs_dir=docs_dir)
 
     index_written = False
     if summarized:
