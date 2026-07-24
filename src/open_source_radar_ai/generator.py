@@ -213,7 +213,15 @@ def render_index_page(
         suffix = f" — {desc}" if desc else ""
         lines.append(f"- [`{repo.full_name}`]({rel_path.as_posix()}){suffix}")
 
-    lines.extend(["", "[View past weeks →](archive.md)", ""])
+    lines.extend(
+        [
+            "",
+            "[Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)",
+            "",
+            "[View past weeks →](archive.md)",
+            "",
+        ]
+    )
     return "\n".join(lines)
 
 
