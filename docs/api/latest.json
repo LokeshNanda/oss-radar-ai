@@ -1,104 +1,60 @@
 {
-  "generated_on": "2026-07-24",
+  "generated_on": "2026-07-27",
   "repos": [
     {
       "category": "AI & Agents",
-      "date_featured": "2026-07-24",
+      "date_featured": "2026-07-27",
       "description": null,
-      "full_name": "andrewyng/openworker",
-      "html_url": "https://github.com/andrewyng/openworker",
-      "id": 1306128367,
+      "full_name": "slvDev/esp32-ai",
+      "html_url": "https://github.com/slvDev/esp32-ai",
+      "id": 1310057619,
       "language": "Python",
-      "page": "repos/andrewyng--openworker.md",
-      "stars_at_feature": 2787
+      "page": "repos/slvdev--esp32-ai.md",
+      "stars_at_feature": 1436
     },
     {
       "category": "AI & Agents",
-      "date_featured": "2026-07-24",
-      "description": "\ud83d\udc0e Ryan Lopopolo\u2019s anthology, field guide, and agent context bundle for harness engineering",
-      "full_name": "lopopolo/harness-engineering",
-      "html_url": "https://github.com/lopopolo/harness-engineering",
-      "id": 1305243497,
+      "date_featured": "2026-07-27",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "full_name": "mikiarlo3/ai-copywriter",
+      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "id": 1311384232,
       "language": "Python",
-      "page": "repos/lopopolo--harness-engineering.md",
-      "stars_at_feature": 2307
-    },
-    {
-      "category": "Developer Tools",
-      "date_featured": "2026-07-24",
-      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-      "html_url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
-      "id": 1303829880,
-      "language": "Solidity",
-      "page": "repos/mighty-alien--mev-arbitrage-bot.md",
-      "stars_at_feature": 1327
+      "page": "repos/mikiarlo3--ai-copywriter.md",
+      "stars_at_feature": 863
     },
     {
       "category": "Web & Frontend",
-      "date_featured": "2026-07-24",
-      "description": null,
-      "full_name": "nyblnet/bento",
-      "html_url": "https://github.com/nyblnet/bento",
-      "id": 1304207622,
-      "language": "TypeScript",
-      "page": "repos/nyblnet--bento.md",
-      "stars_at_feature": 1306
+      "date_featured": "2026-07-27",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "full_name": "mshumer/Claude-of-Duty",
+      "html_url": "https://github.com/mshumer/Claude-of-Duty",
+      "id": 1312257227,
+      "language": "JavaScript",
+      "page": "repos/mshumer--claude-of-duty.md",
+      "stars_at_feature": 721
     },
     {
       "category": "AI & Agents",
-      "date_featured": "2026-07-24",
-      "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "full_name": "Vincentwei1021/video-shotcraft",
-      "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "id": 1305663861,
-      "language": "TypeScript",
-      "page": "repos/vincentwei1021--video-shotcraft.md",
-      "stars_at_feature": 1297
-    },
-    {
-      "category": "Web & Frontend",
-      "date_featured": "2026-07-24",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-      "full_name": "Jakubantalik/thinking-orbs",
-      "html_url": "https://github.com/Jakubantalik/thinking-orbs",
-      "id": 1307383231,
-      "language": "TypeScript",
-      "page": "repos/jakubantalik--thinking-orbs.md",
-      "stars_at_feature": 905
+      "date_featured": "2026-07-27",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "full_name": "gnipbao/story-to-handdrawn-video",
+      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "id": 1307486190,
+      "language": "JavaScript",
+      "page": "repos/gnipbao--story-to-handdrawn-video.md",
+      "stars_at_feature": 655
     },
     {
       "category": "AI & Agents",
-      "date_featured": "2026-07-24",
-      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "full_name": "Blaizzy/nativ",
-      "html_url": "https://github.com/Blaizzy/nativ",
-      "id": 1306758289,
-      "language": "Swift",
-      "page": "repos/blaizzy--nativ.md",
-      "stars_at_feature": 840
-    },
-    {
-      "category": "AI & Agents",
-      "date_featured": "2026-07-24",
-      "description": "\u4e00\u4e2a\u5148\u63a5\u4f4f\u60c5\u7eea\u3001\u518d\u5206\u6790\u5173\u7cfb\u5e76\u7ed9\u51fa\u53ef\u6267\u884c\u7b56\u7565\u7684 Codex \u604b\u7231\u519b\u5e08\uff0c\u5185\u7f6e\u5fc3\u7406\u3001\u6cd5\u5f8b\u3001\u793e\u4f1a\u3001\u4eba\u6587\u3001\u54f2\u5b66\u3001\u5a5a\u59fb\u5bb6\u5ead\u4e0e\u6027\u5b66\u77e5\u8bc6\u5e93\uff0c\u652f\u6301\u591a\u5143\u5173\u7cfb\u3002",
-      "full_name": "powerycy/goutoujunshi",
-      "html_url": "https://github.com/powerycy/goutoujunshi",
-      "id": 1306722822,
-      "language": "Python",
-      "page": "repos/powerycy--goutoujunshi.md",
-      "stars_at_feature": 775
-    },
-    {
-      "category": "Web & Frontend",
-      "date_featured": "2026-07-24",
-      "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "full_name": "pireel/pireel",
-      "html_url": "https://github.com/pireel/pireel",
-      "id": 1306443880,
+      "date_featured": "2026-07-27",
+      "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "id": 1309102418,
       "language": "TypeScript",
-      "page": "repos/pireel--pireel.md",
-      "stars_at_feature": 698
+      "page": "repos/makecindy--cindy.md",
+      "stars_at_feature": 611
     }
   ]
 }

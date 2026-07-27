@@ -16,17 +16,13 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-07-24_
+_Week of 2026-07-27_
 
-- [`andrewyng/openworker`](https://github.com/andrewyng/openworker) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/andrewyng--openworker/))
-- [`lopopolo/harness-engineering`](https://github.com/lopopolo/harness-engineering) — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/lopopolo--harness-engineering/))
-- [`MIgHTy-alIeN/MEV-Arbitrage-Bot`](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) — An arbitrage bot is a smart contract connected to an external automation script that controls its operation. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mighty-alien--mev-arbitrage-bot/))
-- [`nyblnet/bento`](https://github.com/nyblnet/bento) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nyblnet--bento/))
-- [`Vincentwei1021/video-shotcraft`](https://github.com/Vincentwei1021/video-shotcraft) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/vincentwei1021--video-shotcraft/))
-- [`Jakubantalik/thinking-orbs`](https://github.com/Jakubantalik/thinking-orbs) — Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jakubantalik--thinking-orbs/))
-- [`Blaizzy/nativ`](https://github.com/Blaizzy/nativ) — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/blaizzy--nativ/))
-- [`powerycy/goutoujunshi`](https://github.com/powerycy/goutoujunshi) — 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/powerycy--goutoujunshi/))
-- [`pireel/pireel`](https://github.com/pireel/pireel) — Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pireel--pireel/))
+- [`slvDev/esp32-ai`](https://github.com/slvDev/esp32-ai) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/slvdev--esp32-ai/))
+- [`mikiarlo3/ai-copywriter`](https://github.com/mikiarlo3/ai-copywriter) — An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mikiarlo3--ai-copywriter/))
+- [`mshumer/Claude-of-Duty`](https://github.com/mshumer/Claude-of-Duty) — A Call of Duty-quality FPS in Three.js, built from a single prompt. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mshumer--claude-of-duty/))
+- [`gnipbao/story-to-handdrawn-video`](https://github.com/gnipbao/story-to-handdrawn-video) — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/gnipbao--story-to-handdrawn-video/))
+- [`makecindy/cindy`](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/makecindy--cindy/))
 <!-- RADAR:END -->
 
 ---

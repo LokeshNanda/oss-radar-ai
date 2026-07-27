@@ -3,63 +3,107 @@
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "html_url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "snapshots": {
-      "2026-07-24": 1327
+      "2026-07-24": 1327,
+      "2026-07-27": 1520
     }
   },
   "1304207622": {
     "full_name": "nyblnet/bento",
     "html_url": "https://github.com/nyblnet/bento",
     "snapshots": {
-      "2026-07-24": 1306
+      "2026-07-24": 1306,
+      "2026-07-27": 2329
     }
   },
   "1305243497": {
     "full_name": "lopopolo/harness-engineering",
     "html_url": "https://github.com/lopopolo/harness-engineering",
     "snapshots": {
-      "2026-07-24": 2307
+      "2026-07-24": 2307,
+      "2026-07-27": 2366
     }
   },
   "1305663861": {
     "full_name": "Vincentwei1021/video-shotcraft",
     "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
     "snapshots": {
-      "2026-07-24": 1297
+      "2026-07-24": 1297,
+      "2026-07-27": 1966
     }
   },
   "1306128367": {
     "full_name": "andrewyng/openworker",
     "html_url": "https://github.com/andrewyng/openworker",
     "snapshots": {
-      "2026-07-24": 2787
+      "2026-07-24": 2787,
+      "2026-07-27": 7048
     }
   },
   "1306443880": {
     "full_name": "pireel/pireel",
     "html_url": "https://github.com/pireel/pireel",
     "snapshots": {
-      "2026-07-24": 698
+      "2026-07-24": 698,
+      "2026-07-27": 779
     }
   },
   "1306722822": {
     "full_name": "powerycy/goutoujunshi",
     "html_url": "https://github.com/powerycy/goutoujunshi",
     "snapshots": {
-      "2026-07-24": 775
+      "2026-07-24": 775,
+      "2026-07-27": 969
     }
   },
   "1306758289": {
     "full_name": "Blaizzy/nativ",
     "html_url": "https://github.com/Blaizzy/nativ",
     "snapshots": {
-      "2026-07-24": 840
+      "2026-07-24": 840,
+      "2026-07-27": 925
     }
   },
   "1307383231": {
     "full_name": "Jakubantalik/thinking-orbs",
     "html_url": "https://github.com/Jakubantalik/thinking-orbs",
     "snapshots": {
-      "2026-07-24": 905
+      "2026-07-24": 905,
+      "2026-07-27": 1104
+    }
+  },
+  "1307486190": {
+    "full_name": "gnipbao/story-to-handdrawn-video",
+    "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "snapshots": {
+      "2026-07-27": 655
+    }
+  },
+  "1309102418": {
+    "full_name": "makecindy/cindy",
+    "html_url": "https://github.com/makecindy/cindy",
+    "snapshots": {
+      "2026-07-27": 611
+    }
+  },
+  "1310057619": {
+    "full_name": "slvDev/esp32-ai",
+    "html_url": "https://github.com/slvDev/esp32-ai",
+    "snapshots": {
+      "2026-07-27": 1436
+    }
+  },
+  "1311384232": {
+    "full_name": "mikiarlo3/ai-copywriter",
+    "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+    "snapshots": {
+      "2026-07-27": 863
+    }
+  },
+  "1312257227": {
+    "full_name": "mshumer/Claude-of-Duty",
+    "html_url": "https://github.com/mshumer/Claude-of-Duty",
+    "snapshots": {
+      "2026-07-27": 721
     }
   }
 }

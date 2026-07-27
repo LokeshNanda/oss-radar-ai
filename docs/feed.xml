@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-07-27</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-27/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-27/</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;slvDev/esp32-ai&lt;/li&gt;&lt;li&gt;mikiarlo3/ai-copywriter — An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.&lt;/li&gt;&lt;li&gt;mshumer/Claude-of-Duty — A Call of Duty-quality FPS in Three.js, built from a single prompt.&lt;/li&gt;&lt;li&gt;gnipbao/story-to-handdrawn-video — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).&lt;/li&gt;&lt;li&gt;makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-07-24</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-24/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-24/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-05-18/</guid>
 <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;FULU-Foundation/OrcaSlicer-bambulab&lt;/li&gt;&lt;li&gt;Nightmare-Eclipse/YellowKey&lt;/li&gt;&lt;li&gt;nexu-io/html-anything&lt;/li&gt;&lt;li&gt;vercel-labs/zero&lt;/li&gt;&lt;li&gt;yetone/native-feel-skill&lt;/li&gt;&lt;li&gt;HermannBjorgvin/Clawdmeter&lt;/li&gt;&lt;li&gt;simonlin1212/a-stock-data&lt;/li&gt;&lt;li&gt;ywnd1144/Gopay_plus_automatic&lt;/li&gt;&lt;li&gt;facebookresearch/vggt-omega&lt;/li&gt;&lt;li&gt;DenisSergeevitch/agents-best-practices&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-05-11</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-05-11/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-05-11/</guid>
-<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;antirez/ds4&lt;/li&gt;&lt;li&gt;V4bel/dirtyfrag&lt;/li&gt;&lt;li&gt;vercel-labs/zero-native&lt;/li&gt;&lt;li&gt;strukto-ai/mirage&lt;/li&gt;&lt;li&gt;XBuilderLAB/cheat-on-content&lt;/li&gt;&lt;li&gt;yaojingang/yao-open-prompts&lt;/li&gt;&lt;li&gt;lightseekorg/tokenspeed&lt;/li&gt;&lt;li&gt;huangserva/3DCellForge&lt;/li&gt;&lt;li&gt;BigPizzaV3/CodexPlusPlus&lt;/li&gt;&lt;li&gt;WenyuChiou/awesome-agentic-ai-zh&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

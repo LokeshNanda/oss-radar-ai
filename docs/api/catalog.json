@@ -2,6 +2,61 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-07-27",
+      "description": null,
+      "full_name": "slvDev/esp32-ai",
+      "html_url": "https://github.com/slvDev/esp32-ai",
+      "id": 1310057619,
+      "language": "Python",
+      "page": "repos/slvdev--esp32-ai.md",
+      "stars_at_feature": 1436
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-07-27",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "full_name": "mikiarlo3/ai-copywriter",
+      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "id": 1311384232,
+      "language": "Python",
+      "page": "repos/mikiarlo3--ai-copywriter.md",
+      "stars_at_feature": 863
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-07-27",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "full_name": "mshumer/Claude-of-Duty",
+      "html_url": "https://github.com/mshumer/Claude-of-Duty",
+      "id": 1312257227,
+      "language": "JavaScript",
+      "page": "repos/mshumer--claude-of-duty.md",
+      "stars_at_feature": 721
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-07-27",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "full_name": "gnipbao/story-to-handdrawn-video",
+      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "id": 1307486190,
+      "language": "JavaScript",
+      "page": "repos/gnipbao--story-to-handdrawn-video.md",
+      "stars_at_feature": 655
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-07-27",
+      "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "id": 1309102418,
+      "language": "TypeScript",
+      "page": "repos/makecindy--cindy.md",
+      "stars_at_feature": 611
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-07-24",
       "description": null,
       "full_name": "andrewyng/openworker",
