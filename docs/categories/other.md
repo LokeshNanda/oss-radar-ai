@@ -4,6 +4,8 @@ title: Other
 
 # Other
 
+- [`xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer`](../repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer.md) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） (⭐ 1679, week of 2026-08-03)
+- [`WilonityDev/WilonityLoader`](../repos/wilonitydev--wilonityloader.md) — Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread. (⭐ 1216, week of 2026-08-03)
 - [`xai-org/grok-build`](../repos/xai-org--grok-build.md) (⭐ 20258, week of 2026-07-20)
 - [`Fei-Away/Codex-Dream-Skin`](../repos/fei-away--codex-dream-skin.md) (⭐ 10545, week of 2026-07-20)
 - [`CluvexStudio/Aether`](../repos/cluvexstudio--aether.md) (⭐ 1319, week of 2026-07-20)

@@ -16,13 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-07-27_
+_Week of 2026-08-03_
 
-- [`slvDev/esp32-ai`](https://github.com/slvDev/esp32-ai) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/slvdev--esp32-ai/))
-- [`mikiarlo3/ai-copywriter`](https://github.com/mikiarlo3/ai-copywriter) — An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mikiarlo3--ai-copywriter/))
-- [`mshumer/Claude-of-Duty`](https://github.com/mshumer/Claude-of-Duty) — A Call of Duty-quality FPS in Three.js, built from a single prompt. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mshumer--claude-of-duty/))
-- [`gnipbao/story-to-handdrawn-video`](https://github.com/gnipbao/story-to-handdrawn-video) — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/gnipbao--story-to-handdrawn-video/))
-- [`makecindy/cindy`](https://github.com/makecindy/cindy) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/makecindy--cindy/))
+- [`MoonshotAI/Kimi-K3`](https://github.com/MoonshotAI/Kimi-K3) — Open Frontier Intelligence ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/moonshotai--kimi-k3/))
+- [`yc-software/qm`](https://github.com/yc-software/qm) — Multiplayer agent harness for work ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yc-software--qm/))
+- [`bashalarmistalt/decimen-optical-transfer`](https://github.com/bashalarmistalt/decimen-optical-transfer) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/bashalarmistalt--decimen-optical-transfer/))
+- [`trycompai/crm`](https://github.com/trycompai/crm) — An open-source, agentic-first CRM. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/trycompai--crm/))
+- [`QwenAudio/qwen-audio-agent`](https://github.com/QwenAudio/qwen-audio-agent) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/qwenaudio--qwen-audio-agent/))
+- [`xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer`](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer/))
+- [`WilonityDev/WilonityLoader`](https://github.com/WilonityDev/WilonityLoader) — Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wilonitydev--wilonityloader/))
+- [`sqliteai/waste`](https://github.com/sqliteai/waste) — Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sqliteai--waste/))
+- [`microsoft/skill-recorder`](https://github.com/microsoft/skill-recorder) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/microsoft--skill-recorder/))
+- [`xikhar/persona`](https://github.com/xikhar/persona) — Bringing real-time voice to life. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xikhar--persona/))
 <!-- RADAR:END -->
 
 ---

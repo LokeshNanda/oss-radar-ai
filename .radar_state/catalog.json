@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "Open Frontier Intelligence",
+      "full_name": "MoonshotAI/Kimi-K3",
+      "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "id": 1313576395,
+      "language": null,
+      "page": "repos/moonshotai--kimi-k3.md",
+      "stars_at_feature": 7921
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "Multiplayer agent harness for work",
+      "full_name": "yc-software/qm",
+      "html_url": "https://github.com/yc-software/qm",
+      "id": 1316527318,
+      "language": "TypeScript",
+      "page": "repos/yc-software--qm.md",
+      "stars_at_feature": 7598
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-08-03",
+      "description": null,
+      "full_name": "bashalarmistalt/decimen-optical-transfer",
+      "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "id": 1317563975,
+      "language": "TypeScript",
+      "page": "repos/bashalarmistalt--decimen-optical-transfer.md",
+      "stars_at_feature": 3772
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "An open-source, agentic-first CRM.",
+      "full_name": "trycompai/crm",
+      "html_url": "https://github.com/trycompai/crm",
+      "id": 1318768894,
+      "language": "TypeScript",
+      "page": "repos/trycompai--crm.md",
+      "stars_at_feature": 1925
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "full_name": "QwenAudio/qwen-audio-agent",
+      "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "id": 1313435339,
+      "language": "JavaScript",
+      "page": "repos/qwenaudio--qwen-audio-agent.md",
+      "stars_at_feature": 1752
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-08-03",
+      "description": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09",
+      "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "id": 1316875788,
+      "language": null,
+      "page": "repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer.md",
+      "stars_at_feature": 1679
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-08-03",
+      "description": "Wilonity Loader \u2013 cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "full_name": "WilonityDev/WilonityLoader",
+      "html_url": "https://github.com/WilonityDev/WilonityLoader",
+      "id": 1318094168,
+      "language": null,
+      "page": "repos/wilonitydev--wilonityloader.md",
+      "stars_at_feature": 1216
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "full_name": "sqliteai/waste",
+      "html_url": "https://github.com/sqliteai/waste",
+      "id": 1315424242,
+      "language": "C",
+      "page": "repos/sqliteai--waste.md",
+      "stars_at_feature": 1165
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "full_name": "microsoft/skill-recorder",
+      "html_url": "https://github.com/microsoft/skill-recorder",
+      "id": 1316443307,
+      "language": "TypeScript",
+      "page": "repos/microsoft--skill-recorder.md",
+      "stars_at_feature": 907
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-03",
+      "description": "Bringing real-time voice to life.",
+      "full_name": "xikhar/persona",
+      "html_url": "https://github.com/xikhar/persona",
+      "id": 1314908790,
+      "language": "JavaScript",
+      "page": "repos/xikhar--persona.md",
+      "stars_at_feature": 796
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-07-27",
       "description": null,
       "full_name": "slvDev/esp32-ai",

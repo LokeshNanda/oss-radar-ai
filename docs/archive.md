@@ -6,6 +6,9 @@ title: Past Weeks
 
 Browse weekly reports by date.
 
+## August 2026
+
+- [Week of 2026-08-03](reports/2026-08-03.md)
 ## July 2026
 
 - [Week of 2026-07-27](reports/2026-07-27.md)
