@@ -24,7 +24,6 @@ _Week of 2026-08-03_
 - [`trycompai/crm`](https://github.com/trycompai/crm) — An open-source, agentic-first CRM. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/trycompai--crm/))
 - [`QwenAudio/qwen-audio-agent`](https://github.com/QwenAudio/qwen-audio-agent) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/qwenaudio--qwen-audio-agent/))
 - [`xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer`](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer/))
-- [`WilonityDev/WilonityLoader`](https://github.com/WilonityDev/WilonityLoader) — Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wilonitydev--wilonityloader/))
 - [`sqliteai/waste`](https://github.com/sqliteai/waste) — Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sqliteai--waste/))
 - [`microsoft/skill-recorder`](https://github.com/microsoft/skill-recorder) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/microsoft--skill-recorder/))
 - [`xikhar/persona`](https://github.com/xikhar/persona) — Bringing real-time voice to life. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xikhar--persona/))
@@ -87,6 +86,8 @@ mkdocs serve
 | `GITHUB_PER_PAGE` | `10` | Repos fetched per run |
 | `GITHUB_DAYS_BACK` | `7` | Lookback window in days |
 | `RADAR_MAX_REPOS_PER_RUN` | `10` | Cap on repos analyzed per run |
+| `RADAR_BLOCKLIST_TERMS` | — | Extra comma-separated terms added to the built-in cheat/malware blocklist |
+| `RADAR_BLOCKED_REPOS` | — | Comma-separated `owner/name` repos to never feature |
 
 ## 🗺 Roadmap
 

@@ -67,17 +67,6 @@
       "stars_at_feature": 1679
     },
     {
-      "category": "Other",
-      "date_featured": "2026-08-03",
-      "description": "Wilonity Loader \u2013 cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-      "full_name": "WilonityDev/WilonityLoader",
-      "html_url": "https://github.com/WilonityDev/WilonityLoader",
-      "id": 1318094168,
-      "language": null,
-      "page": "repos/wilonitydev--wilonityloader.md",
-      "stars_at_feature": 1216
-    },
-    {
       "category": "AI & Agents",
       "date_featured": "2026-08-03",
       "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",

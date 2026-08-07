@@ -24,10 +24,9 @@ title: Hall of fame
 | 14 | [`powerycy/goutoujunshi`](https://github.com/powerycy/goutoujunshi) | ⭐ 1517 | 2026-07-24 |
 | 15 | [`makecindy/cindy`](https://github.com/makecindy/cindy) | ⭐ 1501 | 2026-07-27 |
 | 16 | [`Jakubantalik/thinking-orbs`](https://github.com/Jakubantalik/thinking-orbs) | ⭐ 1342 | 2026-07-24 |
-| 17 | [`WilonityDev/WilonityLoader`](https://github.com/WilonityDev/WilonityLoader) | ⭐ 1216 | 2026-08-03 |
-| 18 | [`sqliteai/waste`](https://github.com/sqliteai/waste) | ⭐ 1165 | 2026-08-03 |
-| 19 | [`Blaizzy/nativ`](https://github.com/Blaizzy/nativ) | ⭐ 1072 | 2026-07-24 |
-| 20 | [`mikiarlo3/ai-copywriter`](https://github.com/mikiarlo3/ai-copywriter) | ⭐ 1013 | 2026-07-27 |
+| 17 | [`sqliteai/waste`](https://github.com/sqliteai/waste) | ⭐ 1165 | 2026-08-03 |
+| 18 | [`Blaizzy/nativ`](https://github.com/Blaizzy/nativ) | ⭐ 1072 | 2026-07-24 |
+| 19 | [`mikiarlo3/ai-copywriter`](https://github.com/mikiarlo3/ai-copywriter) | ⭐ 1013 | 2026-07-27 |
 
 ## 📈 Recent risers
 
