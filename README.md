@@ -43,7 +43,7 @@ flowchart LR
     F --> G[GitHub Pages deploy]
 ```
 
-Everything runs in a single scheduled GitHub Actions workflow ([`trending.yml`](.github/workflows/trending.yml)). Generated pages and state are committed back to the repo, so every run is reproducible and diffable.
+Everything runs in a single scheduled GitHub Actions workflow. Generated pages and state are committed back to the repo, so every run is reproducible and diffable.
 
 ## ✨ Features
 
@@ -77,17 +77,17 @@ mkdocs serve
 
 ### Configuration
 
-| Variable | Default | Purpose |
-| --- | --- | --- |
-| `OPENAI_API_KEY` | — | Required. LLM API key |
-| `OPENAI_MODEL` | `gpt-4o-mini` | Model used for analysis |
-| `OPENAI_BASE_URL` | `https://api.openai.com` | Any OpenAI-compatible endpoint |
-| `GITHUB_TOKEN` | — | Optional. Raises GitHub API rate limits |
-| `GITHUB_PER_PAGE` | `10` | Repos fetched per run |
-| `GITHUB_DAYS_BACK` | `7` | Lookback window in days |
-| `RADAR_MAX_REPOS_PER_RUN` | `10` | Cap on repos analyzed per run |
-| `RADAR_BLOCKLIST_TERMS` | — | Extra comma-separated terms added to the built-in cheat/malware blocklist |
-| `RADAR_BLOCKED_REPOS` | — | Comma-separated `owner/name` repos to never feature |
+| Variable                  | Default                  | Purpose                                                                   |
+| ------------------------- | ------------------------ | ------------------------------------------------------------------------- |
+| `OPENAI_API_KEY`          | —                        | Required. LLM API key                                                     |
+| `OPENAI_MODEL`            | `gpt-4o-mini`            | Model used for analysis                                                   |
+| `OPENAI_BASE_URL`         | `https://api.openai.com` | Any OpenAI-compatible endpoint                                            |
+| `GITHUB_TOKEN`            | —                        | Optional. Raises GitHub API rate limits                                   |
+| `GITHUB_PER_PAGE`         | `10`                     | Repos fetched per run                                                     |
+| `GITHUB_DAYS_BACK`        | `7`                      | Lookback window in days                                                   |
+| `RADAR_MAX_REPOS_PER_RUN` | `10`                     | Cap on repos analyzed per run                                             |
+| `RADAR_BLOCKLIST_TERMS`   | —                        | Extra comma-separated terms added to the built-in cheat/malware blocklist |
+| `RADAR_BLOCKED_REPOS`     | —                        | Comma-separated `owner/name` repos to never feature                       |
 
 ## 🗺 Roadmap
 
