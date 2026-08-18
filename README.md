@@ -16,17 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-08-03_
+_Week of 2026-08-18_
 
-- [`MoonshotAI/Kimi-K3`](https://github.com/MoonshotAI/Kimi-K3) — Open Frontier Intelligence ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/moonshotai--kimi-k3/))
-- [`yc-software/qm`](https://github.com/yc-software/qm) — Multiplayer agent harness for work ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yc-software--qm/))
-- [`bashalarmistalt/decimen-optical-transfer`](https://github.com/bashalarmistalt/decimen-optical-transfer) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/bashalarmistalt--decimen-optical-transfer/))
-- [`trycompai/crm`](https://github.com/trycompai/crm) — An open-source, agentic-first CRM. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/trycompai--crm/))
-- [`QwenAudio/qwen-audio-agent`](https://github.com/QwenAudio/qwen-audio-agent) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/qwenaudio--qwen-audio-agent/))
-- [`xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer`](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer/))
-- [`sqliteai/waste`](https://github.com/sqliteai/waste) — Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sqliteai--waste/))
-- [`microsoft/skill-recorder`](https://github.com/microsoft/skill-recorder) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/microsoft--skill-recorder/))
-- [`xikhar/persona`](https://github.com/xikhar/persona) — Bringing real-time voice to life. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xikhar--persona/))
+- [`deepseek-ai/deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deepseek-ai--deepseek-harness/))
+- [`guillaumemeyer/watermarks-remover`](https://github.com/guillaumemeyer/watermarks-remover) — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/guillaumemeyer--watermarks-remover/))
+- [`anywhere-labs/deepseek-harness-desktop`](https://github.com/anywhere-labs/deepseek-harness-desktop) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/anywhere-labs--deepseek-harness-desktop/))
+- [`awesome-dsh-plugin/awesome-dsh-plugin`](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/awesome-dsh-plugin--awesome-dsh-plugin/))
+- [`yjh051108/dsh-routing-suite`](https://github.com/yjh051108/dsh-routing-suite) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23). ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yjh051108--dsh-routing-suite/))
+- [`zhu1090093659/dsh-web-ui`](https://github.com/zhu1090093659/dsh-web-ui) — Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/zhu1090093659--dsh-web-ui/))
+- [`xiaobright/dsh-anchored-standard`](https://github.com/xiaobright/dsh-anchored-standard) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xiaobright--dsh-anchored-standard/))
+- [`dmmulroy/anti-slop`](https://github.com/dmmulroy/anti-slop) — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/dmmulroy--anti-slop/))
+- [`cordiverse/paper`](https://github.com/cordiverse/paper) — A Programming Paradigm for Spatiotemporal Composability ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/cordiverse--paper/))
+- [`ccch1mneyyy/dsh-TUI`](https://github.com/ccch1mneyyy/dsh-TUI) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ccch1mneyyy--dsh-tui/))
 <!-- RADAR:END -->
 
 ---

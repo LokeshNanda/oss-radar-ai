@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-08-18",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "full_name": "deepseek-ai/deepseek-harness",
+      "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+      "id": 1333065091,
+      "language": "TypeScript",
+      "page": "repos/deepseek-ai--deepseek-harness.md",
+      "stars_at_feature": 153899
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "full_name": "guillaumemeyer/watermarks-remover",
+      "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "id": 1331135699,
+      "language": "Python",
+      "page": "repos/guillaumemeyer--watermarks-remover.md",
+      "stars_at_feature": 13739
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "\u4e3a DeepSeek Harness (DSH) \u63d2\u4ef6\u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u89e3\u51b3\u65b9\u6848\u3002\u4e07\u7269\u7686\u300c\u63d2\u4ef6\u300d\uff0c\u684c\u9762\u672c\u8eab\u4e5f\u662f\u300c\u63d2\u4ef6\u300d\u3002",
+      "full_name": "anywhere-labs/deepseek-harness-desktop",
+      "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "id": 1333321333,
+      "language": "TypeScript",
+      "page": "repos/anywhere-labs--deepseek-harness-desktop.md",
+      "stars_at_feature": 12412
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) \u00b7 DeepSeek Harness \u63d2\u4ef6\u7cbe\u9009\u5217\u8868",
+      "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "id": 1333175049,
+      "language": "Python",
+      "page": "repos/awesome-dsh-plugin--awesome-dsh-plugin.md",
+      "stars_at_feature": 7938
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-18",
+      "description": "dsh-routing-suite \u2014 injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "full_name": "yjh051108/dsh-routing-suite",
+      "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+      "id": 1334586481,
+      "language": "PowerShell",
+      "page": "repos/yjh051108--dsh-routing-suite.md",
+      "stars_at_feature": 5618
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-08-18",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "full_name": "zhu1090093659/dsh-web-ui",
+      "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "id": 1331636953,
+      "language": "TypeScript",
+      "page": "repos/zhu1090093659--dsh-web-ui.md",
+      "stars_at_feature": 4282
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-18",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "id": 1334245678,
+      "language": "JavaScript",
+      "page": "repos/xiaobright--dsh-anchored-standard.md",
+      "stars_at_feature": 3467
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "full_name": "dmmulroy/anti-slop",
+      "html_url": "https://github.com/dmmulroy/anti-slop",
+      "id": 1332080070,
+      "language": "TypeScript",
+      "page": "repos/dmmulroy--anti-slop.md",
+      "stars_at_feature": 2435
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "full_name": "cordiverse/paper",
+      "html_url": "https://github.com/cordiverse/paper",
+      "id": 1332959628,
+      "language": null,
+      "page": "repos/cordiverse--paper.md",
+      "stars_at_feature": 2175
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-18",
+      "description": "DSH \u5b98\u65b9\u516c\u4f17\u53f7\u6536\u5f55\u7684 TUI \u8865\u4f4d\u63d2\u4ef6\uff1aClaude Code \u98ce\uff0c\u9cb8\u9c7c\u9876\u680f/\u5b9e\u65f6\u72b6\u6001/\u6d41\u5f0f\u601d\u8003/\u53cc\u51fb Esc \u56de\u6eda/\u4e0a\u4e0b\u6587\u8fdb\u5ea6+TPS\u3002npm \u4e00\u952e\u88c5\u3002  DSH official WeChat featured TUI plugin \u2014 Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "full_name": "ccch1mneyyy/dsh-TUI",
+      "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "id": 1333111893,
+      "language": "TypeScript",
+      "page": "repos/ccch1mneyyy--dsh-tui.md",
+      "stars_at_feature": 1877
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-08-03",
       "description": "Open Frontier Intelligence",
       "full_name": "MoonshotAI/Kimi-K3",

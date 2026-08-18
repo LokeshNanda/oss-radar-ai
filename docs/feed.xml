@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-08-18</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-18/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-18/</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;deepseek-ai/deepseek-harness — DeepSeek Harness: Everything is a Plugin.&lt;/li&gt;&lt;li&gt;guillaumemeyer/watermarks-remover — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD&lt;/li&gt;&lt;li&gt;anywhere-labs/deepseek-harness-desktop — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。&lt;/li&gt;&lt;li&gt;awesome-dsh-plugin/awesome-dsh-plugin — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表&lt;/li&gt;&lt;li&gt;yjh051108/dsh-routing-suite — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).&lt;/li&gt;&lt;li&gt;zhu1090093659/dsh-web-ui — Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.&lt;/li&gt;&lt;li&gt;xiaobright/dsh-anchored-standard — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)&lt;/li&gt;&lt;li&gt;dmmulroy/anti-slop — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns&lt;/li&gt;&lt;li&gt;cordiverse/paper — A Programming Paradigm for Spatiotemporal Composability&lt;/li&gt;&lt;li&gt;ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-08-03</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-03/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-03/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-01/</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;pewdiepie-archdaemon/odysseus&lt;/li&gt;&lt;li&gt;op7418/guizang-social-card-skill&lt;/li&gt;&lt;li&gt;helloianneo/ian-xiaohei-illustrations&lt;/li&gt;&lt;li&gt;GordenSun/GordenPPTSkill&lt;/li&gt;&lt;li&gt;Sophomoresty/gemini-web2api&lt;/li&gt;&lt;li&gt;MatinSenPai/SenPaiScanner&lt;/li&gt;&lt;li&gt;withkynam/vibecode-pro-max-kit&lt;/li&gt;&lt;li&gt;baoweise-bot/aimili-vpngate&lt;/li&gt;&lt;li&gt;UditAkhourii/adhd&lt;/li&gt;&lt;li&gt;Michaelliv/pi-dynamic-workflows&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-05-25</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-05-25/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-05-25/</guid>
-<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;FoundZiGu/GuJumpgate&lt;/li&gt;&lt;li&gt;perplexityai/bumblebee&lt;/li&gt;&lt;li&gt;thananon/9arm-skills&lt;/li&gt;&lt;li&gt;Doorman11991/smallcode&lt;/li&gt;&lt;li&gt;lynote-ai/humanize-text&lt;/li&gt;&lt;li&gt;sapientinc/HRM-Text&lt;/li&gt;&lt;li&gt;kageroumado/phosphene&lt;/li&gt;&lt;li&gt;open-gsd/get-shit-done-redux&lt;/li&gt;&lt;li&gt;Tong89/smartNode&lt;/li&gt;&lt;li&gt;0xSero/codex-shim&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

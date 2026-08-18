@@ -4,6 +4,9 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`deepseek-ai/deepseek-harness`](../repos/deepseek-ai--deepseek-harness.md) — DeepSeek Harness: Everything is a Plugin. (⭐ 153899, week of 2026-08-18)
+- [`yjh051108/dsh-routing-suite`](../repos/yjh051108--dsh-routing-suite.md) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23). (⭐ 5618, week of 2026-08-18)
+- [`xiaobright/dsh-anchored-standard`](../repos/xiaobright--dsh-anchored-standard.md) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) (⭐ 3467, week of 2026-08-18)
 - [`MoonshotAI/Kimi-K3`](../repos/moonshotai--kimi-k3.md) — Open Frontier Intelligence (⭐ 7921, week of 2026-08-03)
 - [`yc-software/qm`](../repos/yc-software--qm.md) — Multiplayer agent harness for work (⭐ 7598, week of 2026-08-03)
 - [`trycompai/crm`](../repos/trycompai--crm.md) — An open-source, agentic-first CRM. (⭐ 1925, week of 2026-08-03)

@@ -6,7 +6,7 @@ title: Categories
 
 Featured repositories grouped by category.
 
-- [AI & Agents](ai-agents.md) — 16 repos
-- [Developer Tools](developer-tools.md) — 1 repos
-- [Web & Frontend](web-frontend.md) — 5 repos
-- [Other](other.md) — 232 repos
+- [AI & Agents](ai-agents.md) — 19 repos
+- [Developer Tools](developer-tools.md) — 7 repos
+- [Web & Frontend](web-frontend.md) — 6 repos
+- [Other](other.md) — 231 repos

@@ -1,11 +1,12 @@
 {
   "1303829880": {
-    "full_name": "MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
-    "html_url": "https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot",
+    "full_name": "MIgHTy-alIeN/ai-trader-bot",
+    "html_url": "https://github.com/MIgHTy-alIeN/ai-trader-bot",
     "snapshots": {
       "2026-07-24": 1327,
       "2026-07-27": 1520,
-      "2026-08-03": 1931
+      "2026-08-03": 1931,
+      "2026-08-18": 2685
     }
   },
   "1304207622": {
@@ -14,7 +15,8 @@
     "snapshots": {
       "2026-07-24": 1306,
       "2026-07-27": 2329,
-      "2026-08-03": 3516
+      "2026-08-03": 3516,
+      "2026-08-18": 4205
     }
   },
   "1305243497": {
@@ -23,7 +25,8 @@
     "snapshots": {
       "2026-07-24": 2307,
       "2026-07-27": 2366,
-      "2026-08-03": 2439
+      "2026-08-03": 2439,
+      "2026-08-18": 2541
     }
   },
   "1305663861": {
@@ -32,7 +35,8 @@
     "snapshots": {
       "2026-07-24": 1297,
       "2026-07-27": 1966,
-      "2026-08-03": 3289
+      "2026-08-03": 3289,
+      "2026-08-18": 5356
     }
   },
   "1306128367": {
@@ -41,7 +45,8 @@
     "snapshots": {
       "2026-07-24": 2787,
       "2026-07-27": 7048,
-      "2026-08-03": 12125
+      "2026-08-03": 12125,
+      "2026-08-18": 14749
     }
   },
   "1306443880": {
@@ -50,7 +55,8 @@
     "snapshots": {
       "2026-07-24": 698,
       "2026-07-27": 779,
-      "2026-08-03": 882
+      "2026-08-03": 882,
+      "2026-08-18": 959
     }
   },
   "1306722822": {
@@ -59,7 +65,8 @@
     "snapshots": {
       "2026-07-24": 775,
       "2026-07-27": 969,
-      "2026-08-03": 1517
+      "2026-08-03": 1517,
+      "2026-08-18": 2287
     }
   },
   "1306758289": {
@@ -68,7 +75,8 @@
     "snapshots": {
       "2026-07-24": 840,
       "2026-07-27": 925,
-      "2026-08-03": 1072
+      "2026-08-03": 1072,
+      "2026-08-18": 1249
     }
   },
   "1307383231": {
@@ -77,7 +85,8 @@
     "snapshots": {
       "2026-07-24": 905,
       "2026-07-27": 1104,
-      "2026-08-03": 1342
+      "2026-08-03": 1342,
+      "2026-08-18": 2516
     }
   },
   "1307486190": {
@@ -85,7 +94,8 @@
     "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
     "snapshots": {
       "2026-07-27": 655,
-      "2026-08-03": 768
+      "2026-08-03": 768,
+      "2026-08-18": 1420
     }
   },
   "1309102418": {
@@ -93,7 +103,8 @@
     "html_url": "https://github.com/makecindy/cindy",
     "snapshots": {
       "2026-07-27": 611,
-      "2026-08-03": 1501
+      "2026-08-03": 1501,
+      "2026-08-18": 2136
     }
   },
   "1310057619": {
@@ -101,7 +112,8 @@
     "html_url": "https://github.com/slvDev/esp32-ai",
     "snapshots": {
       "2026-07-27": 1436,
-      "2026-08-03": 3042
+      "2026-08-03": 3042,
+      "2026-08-18": 4060
     }
   },
   "1311384232": {
@@ -109,7 +121,8 @@
     "html_url": "https://github.com/mikiarlo3/ai-copywriter",
     "snapshots": {
       "2026-07-27": 863,
-      "2026-08-03": 1013
+      "2026-08-03": 1013,
+      "2026-08-18": 971
     }
   },
   "1312257227": {
@@ -117,70 +130,150 @@
     "html_url": "https://github.com/mshumer/Claude-of-Duty",
     "snapshots": {
       "2026-07-27": 721,
-      "2026-08-03": 2699
+      "2026-08-03": 2699,
+      "2026-08-18": 3193
     }
   },
   "1313435339": {
     "full_name": "QwenAudio/qwen-audio-agent",
     "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
     "snapshots": {
-      "2026-08-03": 1752
+      "2026-08-03": 1752,
+      "2026-08-18": 2172
     }
   },
   "1313576395": {
     "full_name": "MoonshotAI/Kimi-K3",
     "html_url": "https://github.com/MoonshotAI/Kimi-K3",
     "snapshots": {
-      "2026-08-03": 7921
+      "2026-08-03": 7921,
+      "2026-08-18": 8497
     }
   },
   "1314908790": {
     "full_name": "xikhar/persona",
     "html_url": "https://github.com/xikhar/persona",
     "snapshots": {
-      "2026-08-03": 796
+      "2026-08-03": 796,
+      "2026-08-18": 897
     }
   },
   "1315424242": {
-    "full_name": "sqliteai/waste",
-    "html_url": "https://github.com/sqliteai/waste",
+    "full_name": "sqliteai/warp",
+    "html_url": "https://github.com/sqliteai/warp",
     "snapshots": {
-      "2026-08-03": 1165
+      "2026-08-03": 1165,
+      "2026-08-18": 2183
     }
   },
   "1316443307": {
     "full_name": "microsoft/skill-recorder",
     "html_url": "https://github.com/microsoft/skill-recorder",
     "snapshots": {
-      "2026-08-03": 907
+      "2026-08-03": 907,
+      "2026-08-18": 3231
     }
   },
   "1316527318": {
     "full_name": "yc-software/qm",
     "html_url": "https://github.com/yc-software/qm",
     "snapshots": {
-      "2026-08-03": 7598
+      "2026-08-03": 7598,
+      "2026-08-18": 13831
     }
   },
   "1316875788": {
     "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "snapshots": {
-      "2026-08-03": 1679
+      "2026-08-03": 1679,
+      "2026-08-18": 4152
     }
   },
   "1317563975": {
     "full_name": "bashalarmistalt/decimen-optical-transfer",
     "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "snapshots": {
-      "2026-08-03": 3772
+      "2026-08-03": 3772,
+      "2026-08-18": 6127
     }
   },
   "1318768894": {
     "full_name": "trycompai/crm",
     "html_url": "https://github.com/trycompai/crm",
     "snapshots": {
-      "2026-08-03": 1925
+      "2026-08-03": 1925,
+      "2026-08-18": 8575
+    }
+  },
+  "1331135699": {
+    "full_name": "guillaumemeyer/watermarks-remover",
+    "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "snapshots": {
+      "2026-08-18": 13739
+    }
+  },
+  "1331636953": {
+    "full_name": "zhu1090093659/dsh-web-ui",
+    "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "snapshots": {
+      "2026-08-18": 4282
+    }
+  },
+  "1332080070": {
+    "full_name": "dmmulroy/anti-slop",
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "snapshots": {
+      "2026-08-18": 2435
+    }
+  },
+  "1332959628": {
+    "full_name": "cordiverse/paper",
+    "html_url": "https://github.com/cordiverse/paper",
+    "snapshots": {
+      "2026-08-18": 2175
+    }
+  },
+  "1333065091": {
+    "full_name": "deepseek-ai/deepseek-harness",
+    "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+    "snapshots": {
+      "2026-08-18": 153899
+    }
+  },
+  "1333111893": {
+    "full_name": "ccch1mneyyy/dsh-TUI",
+    "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+    "snapshots": {
+      "2026-08-18": 1877
+    }
+  },
+  "1333175049": {
+    "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "snapshots": {
+      "2026-08-18": 7938
+    }
+  },
+  "1333321333": {
+    "full_name": "anywhere-labs/deepseek-harness-desktop",
+    "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "snapshots": {
+      "2026-08-18": 12412
+    }
+  },
+  "1334245678": {
+    "full_name": "xiaobright/dsh-anchored-standard",
+    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "snapshots": {
+      "2026-08-18": 3467
+    }
+  },
+  "1334586481": {
+    "full_name": "yjh051108/dsh-routing-suite",
+    "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+    "snapshots": {
+      "2026-08-18": 5618
     }
   }
 }
