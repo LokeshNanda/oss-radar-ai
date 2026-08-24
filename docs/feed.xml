@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-08-24</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-24/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-24/</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;s1dashu/ip-as-logo-skill — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.&lt;/li&gt;&lt;li&gt;MengTo/threeui — Open-source ThreeUI Community catalog with live interactive components and complete Community source.&lt;/li&gt;&lt;li&gt;yetone/cumora — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.&lt;/li&gt;&lt;li&gt;CopilotKit/OpenBot — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.&lt;/li&gt;&lt;li&gt;wang2122/sprix-sage-router — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.&lt;/li&gt;&lt;li&gt;vvxw/deploy-vercel — Install Command：npm install&lt;/li&gt;&lt;li&gt;cinderline/northcinder — Open-source MCP server for comparing products and asking the buyer before purchase.&lt;/li&gt;&lt;li&gt;b-nnett/grok-bot-0.18-reconstructed — Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS&lt;/li&gt;&lt;li&gt;duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros&lt;/li&gt;&lt;li&gt;MeteorNOX/DeepSeek-Balance-Whale-Widget — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-08-18</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-18/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-18/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-08/</guid>
 <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;cpaczek/skylight&lt;/li&gt;&lt;li&gt;b-nnett/goose&lt;/li&gt;&lt;li&gt;jd-opensource/JoyAI-Echo&lt;/li&gt;&lt;li&gt;qiuqiubuchongle-cloud/chokepoint-atlas&lt;/li&gt;&lt;li&gt;VAST-AI-Research/TripoSplat&lt;/li&gt;&lt;li&gt;tastyeffectco/sandboxd&lt;/li&gt;&lt;li&gt;tiantianGPU/reg-factory&lt;/li&gt;&lt;li&gt;Jane-xiaoer/xiaoer-videolab&lt;/li&gt;&lt;li&gt;zenhosta/9drive&lt;/li&gt;&lt;li&gt;S-Sigdel/vimhjkl&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-06-01</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-01/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-01/</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;pewdiepie-archdaemon/odysseus&lt;/li&gt;&lt;li&gt;op7418/guizang-social-card-skill&lt;/li&gt;&lt;li&gt;helloianneo/ian-xiaohei-illustrations&lt;/li&gt;&lt;li&gt;GordenSun/GordenPPTSkill&lt;/li&gt;&lt;li&gt;Sophomoresty/gemini-web2api&lt;/li&gt;&lt;li&gt;MatinSenPai/SenPaiScanner&lt;/li&gt;&lt;li&gt;withkynam/vibecode-pro-max-kit&lt;/li&gt;&lt;li&gt;baoweise-bot/aimili-vpngate&lt;/li&gt;&lt;li&gt;UditAkhourii/adhd&lt;/li&gt;&lt;li&gt;Michaelliv/pi-dynamic-workflows&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,8 @@
       "2026-07-24": 1327,
       "2026-07-27": 1520,
       "2026-08-03": 1931,
-      "2026-08-18": 2685
+      "2026-08-18": 2685,
+      "2026-08-24": 2689
     }
   },
   "1304207622": {
@@ -16,7 +17,8 @@
       "2026-07-24": 1306,
       "2026-07-27": 2329,
       "2026-08-03": 3516,
-      "2026-08-18": 4205
+      "2026-08-18": 4205,
+      "2026-08-24": 4479
     }
   },
   "1305243497": {
@@ -26,7 +28,8 @@
       "2026-07-24": 2307,
       "2026-07-27": 2366,
       "2026-08-03": 2439,
-      "2026-08-18": 2541
+      "2026-08-18": 2541,
+      "2026-08-24": 2560
     }
   },
   "1305663861": {
@@ -36,7 +39,8 @@
       "2026-07-24": 1297,
       "2026-07-27": 1966,
       "2026-08-03": 3289,
-      "2026-08-18": 5356
+      "2026-08-18": 5356,
+      "2026-08-24": 6228
     }
   },
   "1306128367": {
@@ -46,7 +50,8 @@
       "2026-07-24": 2787,
       "2026-07-27": 7048,
       "2026-08-03": 12125,
-      "2026-08-18": 14749
+      "2026-08-18": 14749,
+      "2026-08-24": 14993
     }
   },
   "1306443880": {
@@ -56,7 +61,8 @@
       "2026-07-24": 698,
       "2026-07-27": 779,
       "2026-08-03": 882,
-      "2026-08-18": 959
+      "2026-08-18": 959,
+      "2026-08-24": 1014
     }
   },
   "1306722822": {
@@ -66,7 +72,8 @@
       "2026-07-24": 775,
       "2026-07-27": 969,
       "2026-08-03": 1517,
-      "2026-08-18": 2287
+      "2026-08-18": 2287,
+      "2026-08-24": 2401
     }
   },
   "1306758289": {
@@ -76,7 +83,8 @@
       "2026-07-24": 840,
       "2026-07-27": 925,
       "2026-08-03": 1072,
-      "2026-08-18": 1249
+      "2026-08-18": 1249,
+      "2026-08-24": 1290
     }
   },
   "1307383231": {
@@ -86,7 +94,8 @@
       "2026-07-24": 905,
       "2026-07-27": 1104,
       "2026-08-03": 1342,
-      "2026-08-18": 2516
+      "2026-08-18": 2516,
+      "2026-08-24": 2572
     }
   },
   "1307486190": {
@@ -95,7 +104,8 @@
     "snapshots": {
       "2026-07-27": 655,
       "2026-08-03": 768,
-      "2026-08-18": 1420
+      "2026-08-18": 1420,
+      "2026-08-24": 1533
     }
   },
   "1309102418": {
@@ -104,7 +114,8 @@
     "snapshots": {
       "2026-07-27": 611,
       "2026-08-03": 1501,
-      "2026-08-18": 2136
+      "2026-08-18": 2136,
+      "2026-08-24": 2284
     }
   },
   "1310057619": {
@@ -113,7 +124,8 @@
     "snapshots": {
       "2026-07-27": 1436,
       "2026-08-03": 3042,
-      "2026-08-18": 4060
+      "2026-08-18": 4060,
+      "2026-08-24": 4153
     }
   },
   "1311384232": {
@@ -122,7 +134,8 @@
     "snapshots": {
       "2026-07-27": 863,
       "2026-08-03": 1013,
-      "2026-08-18": 971
+      "2026-08-18": 971,
+      "2026-08-24": 1092
     }
   },
   "1312257227": {
@@ -131,7 +144,8 @@
     "snapshots": {
       "2026-07-27": 721,
       "2026-08-03": 2699,
-      "2026-08-18": 3193
+      "2026-08-18": 3193,
+      "2026-08-24": 3260
     }
   },
   "1313435339": {
@@ -139,7 +153,8 @@
     "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
     "snapshots": {
       "2026-08-03": 1752,
-      "2026-08-18": 2172
+      "2026-08-18": 2172,
+      "2026-08-24": 2231
     }
   },
   "1313576395": {
@@ -147,7 +162,8 @@
     "html_url": "https://github.com/MoonshotAI/Kimi-K3",
     "snapshots": {
       "2026-08-03": 7921,
-      "2026-08-18": 8497
+      "2026-08-18": 8497,
+      "2026-08-24": 8603
     }
   },
   "1314908790": {
@@ -155,7 +171,8 @@
     "html_url": "https://github.com/xikhar/persona",
     "snapshots": {
       "2026-08-03": 796,
-      "2026-08-18": 897
+      "2026-08-18": 897,
+      "2026-08-24": 911
     }
   },
   "1315424242": {
@@ -163,7 +180,8 @@
     "html_url": "https://github.com/sqliteai/warp",
     "snapshots": {
       "2026-08-03": 1165,
-      "2026-08-18": 2183
+      "2026-08-18": 2183,
+      "2026-08-24": 2255
     }
   },
   "1316443307": {
@@ -171,7 +189,8 @@
     "html_url": "https://github.com/microsoft/skill-recorder",
     "snapshots": {
       "2026-08-03": 907,
-      "2026-08-18": 3231
+      "2026-08-18": 3231,
+      "2026-08-24": 3378
     }
   },
   "1316527318": {
@@ -179,7 +198,8 @@
     "html_url": "https://github.com/yc-software/qm",
     "snapshots": {
       "2026-08-03": 7598,
-      "2026-08-18": 13831
+      "2026-08-18": 13831,
+      "2026-08-24": 14148
     }
   },
   "1316875788": {
@@ -187,7 +207,8 @@
     "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "snapshots": {
       "2026-08-03": 1679,
-      "2026-08-18": 4152
+      "2026-08-18": 4152,
+      "2026-08-24": 4323
     }
   },
   "1317563975": {
@@ -195,7 +216,8 @@
     "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "snapshots": {
       "2026-08-03": 3772,
-      "2026-08-18": 6127
+      "2026-08-18": 6127,
+      "2026-08-24": 6286
     }
   },
   "1318768894": {
@@ -203,77 +225,158 @@
     "html_url": "https://github.com/trycompai/crm",
     "snapshots": {
       "2026-08-03": 1925,
-      "2026-08-18": 8575
+      "2026-08-18": 8575,
+      "2026-08-24": 8873
     }
   },
   "1331135699": {
     "full_name": "guillaumemeyer/watermarks-remover",
     "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
     "snapshots": {
-      "2026-08-18": 13739
+      "2026-08-18": 13739,
+      "2026-08-24": 17785
     }
   },
   "1331636953": {
-    "full_name": "zhu1090093659/dsh-web-ui",
-    "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "full_name": "zhu1090093659/dsh-web",
+    "html_url": "https://github.com/zhu1090093659/dsh-web",
     "snapshots": {
-      "2026-08-18": 4282
+      "2026-08-18": 4282,
+      "2026-08-24": 5893
     }
   },
   "1332080070": {
     "full_name": "dmmulroy/anti-slop",
     "html_url": "https://github.com/dmmulroy/anti-slop",
     "snapshots": {
-      "2026-08-18": 2435
+      "2026-08-18": 2435,
+      "2026-08-24": 3543
     }
   },
   "1332959628": {
     "full_name": "cordiverse/paper",
     "html_url": "https://github.com/cordiverse/paper",
     "snapshots": {
-      "2026-08-18": 2175
+      "2026-08-18": 2175,
+      "2026-08-24": 2774
     }
   },
   "1333065091": {
     "full_name": "deepseek-ai/deepseek-harness",
     "html_url": "https://github.com/deepseek-ai/deepseek-harness",
     "snapshots": {
-      "2026-08-18": 153899
+      "2026-08-18": 153899,
+      "2026-08-24": 191252
     }
   },
   "1333111893": {
     "full_name": "ccch1mneyyy/dsh-TUI",
     "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
     "snapshots": {
-      "2026-08-18": 1877
+      "2026-08-18": 1877,
+      "2026-08-24": 2459
     }
   },
   "1333175049": {
     "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
     "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "snapshots": {
-      "2026-08-18": 7938
+      "2026-08-18": 7938,
+      "2026-08-24": 12209
     }
   },
   "1333321333": {
-    "full_name": "anywhere-labs/deepseek-harness-desktop",
-    "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "full_name": "anywhere-labs/dsh-desktop",
+    "html_url": "https://github.com/anywhere-labs/dsh-desktop",
     "snapshots": {
-      "2026-08-18": 12412
+      "2026-08-18": 12412,
+      "2026-08-24": 19608
     }
   },
   "1334245678": {
     "full_name": "xiaobright/dsh-anchored-standard",
     "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
     "snapshots": {
-      "2026-08-18": 3467
+      "2026-08-18": 3467,
+      "2026-08-24": 3744
     }
   },
   "1334586481": {
     "full_name": "yjh051108/dsh-routing-suite",
     "html_url": "https://github.com/yjh051108/dsh-routing-suite",
     "snapshots": {
-      "2026-08-18": 5618
+      "2026-08-18": 5618,
+      "2026-08-24": 6752
+    }
+  },
+  "1336502227": {
+    "full_name": "CopilotKit/OpenBot",
+    "html_url": "https://github.com/CopilotKit/OpenBot",
+    "snapshots": {
+      "2026-08-24": 2593
+    }
+  },
+  "1336933337": {
+    "full_name": "yetone/cumora",
+    "html_url": "https://github.com/yetone/cumora",
+    "snapshots": {
+      "2026-08-24": 3027
+    }
+  },
+  "1337089243": {
+    "full_name": "cinderline/northcinder",
+    "html_url": "https://github.com/cinderline/northcinder",
+    "snapshots": {
+      "2026-08-24": 1210
+    }
+  },
+  "1337920628": {
+    "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "snapshots": {
+      "2026-08-24": 842
+    }
+  },
+  "1337955304": {
+    "full_name": "wang2122/sprix-sage-router",
+    "html_url": "https://github.com/wang2122/sprix-sage-router",
+    "snapshots": {
+      "2026-08-24": 1755
+    }
+  },
+  "1338435811": {
+    "full_name": "vvxw/deploy-vercel",
+    "html_url": "https://github.com/vvxw/deploy-vercel",
+    "snapshots": {
+      "2026-08-24": 1290
+    }
+  },
+  "1338470635": {
+    "full_name": "s1dashu/ip-as-logo-skill",
+    "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "snapshots": {
+      "2026-08-24": 4072
+    }
+  },
+  "1341759590": {
+    "full_name": "MengTo/threeui",
+    "html_url": "https://github.com/MengTo/threeui",
+    "snapshots": {
+      "2026-08-24": 3331
+    }
+  },
+  "1342886503": {
+    "full_name": "duty1g/x64dbg-mcp-server",
+    "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "snapshots": {
+      "2026-08-24": 1142
+    }
+  },
+  "1344208527": {
+    "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+    "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "snapshots": {
+      "2026-08-24": 1165
     }
   }
 }

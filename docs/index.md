@@ -6,20 +6,20 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-08-18_
+_Generated on 2026-08-24_
 
 ## Latest repositories
 
-- [`deepseek-ai/deepseek-harness`](repos/deepseek-ai--deepseek-harness.md) — DeepSeek Harness: Everything is a Plugin.
-- [`guillaumemeyer/watermarks-remover`](repos/guillaumemeyer--watermarks-remover.md) — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-- [`anywhere-labs/deepseek-harness-desktop`](repos/anywhere-labs--deepseek-harness-desktop.md) — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-- [`awesome-dsh-plugin/awesome-dsh-plugin`](repos/awesome-dsh-plugin--awesome-dsh-plugin.md) — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [`yjh051108/dsh-routing-suite`](repos/yjh051108--dsh-routing-suite.md) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-- [`zhu1090093659/dsh-web-ui`](repos/zhu1090093659--dsh-web-ui.md) — Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
-- [`xiaobright/dsh-anchored-standard`](repos/xiaobright--dsh-anchored-standard.md) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-- [`dmmulroy/anti-slop`](repos/dmmulroy--anti-slop.md) — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
-- [`cordiverse/paper`](repos/cordiverse--paper.md) — A Programming Paradigm for Spatiotemporal Composability
-- [`ccch1mneyyy/dsh-TUI`](repos/ccch1mneyyy--dsh-tui.md) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
+- [`s1dashu/ip-as-logo-skill`](repos/s1dashu--ip-as-logo-skill.md) — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+- [`MengTo/threeui`](repos/mengto--threeui.md) — Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+- [`yetone/cumora`](repos/yetone--cumora.md) — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+- [`CopilotKit/OpenBot`](repos/copilotkit--openbot.md) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+- [`wang2122/sprix-sage-router`](repos/wang2122--sprix-sage-router.md) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+- [`vvxw/deploy-vercel`](repos/vvxw--deploy-vercel.md) — Install Command：npm install
+- [`cinderline/northcinder`](repos/cinderline--northcinder.md) — Open-source MCP server for comparing products and asking the buyer before purchase.
+- [`b-nnett/grok-bot-0.18-reconstructed`](repos/b-nnett--grok-bot-0-18-reconstructed.md) — Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+- [`duty1g/x64dbg-mcp-server`](repos/duty1g--x64dbg-mcp-server.md) — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+- [`MeteorNOX/DeepSeek-Balance-Whale-Widget`](repos/meteornox--deepseek-balance-whale-widget.md) — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 
 [Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
 

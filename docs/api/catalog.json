@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "full_name": "s1dashu/ip-as-logo-skill",
+      "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "id": 1338470635,
+      "language": null,
+      "page": "repos/s1dashu--ip-as-logo-skill.md",
+      "stars_at_feature": 4072
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-08-24",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "full_name": "MengTo/threeui",
+      "html_url": "https://github.com/MengTo/threeui",
+      "id": 1341759590,
+      "language": "HTML",
+      "page": "repos/mengto--threeui.md",
+      "stars_at_feature": 3331
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "full_name": "yetone/cumora",
+      "html_url": "https://github.com/yetone/cumora",
+      "id": 1336933337,
+      "language": "TypeScript",
+      "page": "repos/yetone--cumora.md",
+      "stars_at_feature": 3027
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "full_name": "CopilotKit/OpenBot",
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "id": 1336502227,
+      "language": "TypeScript",
+      "page": "repos/copilotkit--openbot.md",
+      "stars_at_feature": 2593
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "full_name": "wang2122/sprix-sage-router",
+      "html_url": "https://github.com/wang2122/sprix-sage-router",
+      "id": 1337955304,
+      "language": "Python",
+      "page": "repos/wang2122--sprix-sage-router.md",
+      "stars_at_feature": 1755
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-08-24",
+      "description": "Install Command\uff1anpm install",
+      "full_name": "vvxw/deploy-vercel",
+      "html_url": "https://github.com/vvxw/deploy-vercel",
+      "id": 1338435811,
+      "language": "JavaScript",
+      "page": "repos/vvxw--deploy-vercel.md",
+      "stars_at_feature": 1290
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "full_name": "cinderline/northcinder",
+      "html_url": "https://github.com/cinderline/northcinder",
+      "id": 1337089243,
+      "language": "JavaScript",
+      "page": "repos/cinderline--northcinder.md",
+      "stars_at_feature": 1210
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-24",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "id": 1344208527,
+      "language": "TypeScript",
+      "page": "repos/b-nnett--grok-bot-0-18-reconstructed.md",
+      "stars_at_feature": 1165
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-24",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
+      "full_name": "duty1g/x64dbg-mcp-server",
+      "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "id": 1342886503,
+      "language": "Zig",
+      "page": "repos/duty1g--x64dbg-mcp-server.md",
+      "stars_at_feature": 1142
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-24",
+      "description": "DeepSeek Harness\uff08DSH\uff09\u4e00\u53ea\u4f4f\u5728 DSH \u754c\u9762\u53f3\u4e0b\u89d2\u7684\u5c0f\u9cb8\u9c7c\u5a18\uff0c\u5e2e\u4f60\u76ef\u7740DeepSeek\u8d26\u6237\u4f59\u989d\u3002QQ\u5f39\u5f39\uff0c\u652f\u6301\u62d6\u62fd\u5438\u9644\u3001\u5de6\u5438\u9644\u7ffb\u8f6c\u3001\u6570\u5b57\u6eda\u52a8\u52a8\u753b\uff0c\u968f\u754c\u9762\u81ea\u52a8\u542f\u7528\uff0c\u5efa\u8bae\u76f4\u63a5\u558a\u6765\u4f60\u7684dsh\u5b89\u88c5",
+      "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "id": 1337920628,
+      "language": "JavaScript",
+      "page": "repos/meteornox--deepseek-balance-whale-widget.md",
+      "stars_at_feature": 842
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-08-18",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "full_name": "deepseek-ai/deepseek-harness",
