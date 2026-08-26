@@ -11,11 +11,60 @@ concurrency:
 
 on:
   schedule:
-    - cron: '0 1 * * 1'
+    # Primary weekly run. Deliberately NOT on the hour: GitHub delays and
+    # silently drops `schedule` events at :00 under load, which is what killed
+    # the previous '0 1 * * 1' trigger.
+    - cron: '23 5 * * 1'
+    # Fallback, one day later, in case the Monday event is dropped again. The
+    # `guard` job below turns this into a no-op when Monday already delivered.
+    - cron: '47 6 * * 2'
   workflow_dispatch:
 
 jobs:
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+      reference_date: ${{ steps.check.outputs.reference_date }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Decide whether this week still needs a run
+        id: check
+        run: |
+          set -euo pipefail
+          # Pin the report to the Monday of the current ISO week so the Monday
+          # run and the Tuesday fallback produce the same, single report.
+          dow="$(date -u +%u)"
+          monday="$(date -u -d "-$((dow - 1)) days" +%F)"
+          week="$(date -u +%G-%V)"
+          echo "reference_date=$monday" >> "$GITHUB_OUTPUT"
+
+          # Manual dispatch always runs; only scheduled events are de-duplicated.
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Event is ${{ github.event_name }}; running unconditionally."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          for f in docs/reports/*.md; do
+            [ -e "$f" ] || continue
+            stem="$(basename "$f" .md)"
+            f_week="$(date -u -d "$stem" +%G-%V 2>/dev/null || true)"
+            if [ "$f_week" = "$week" ]; then
+              echo "Report for ISO week $week already exists ($stem); skipping."
+              echo "run=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          done
+
+          echo "No report yet for ISO week $week; running for $monday."
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
   build:
+    needs: guard
+    if: needs.guard.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -38,6 +87,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RADAR_LOG_LEVEL: INFO
+          RADAR_REFERENCE_DATE: ${{ needs.guard.outputs.reference_date }}
         run: |
           radar-run
 
