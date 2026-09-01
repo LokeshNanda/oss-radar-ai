@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-08-24_
+_Week of 2026-08-31_
 
-- [`s1dashu/ip-as-logo-skill`](https://github.com/s1dashu/ip-as-logo-skill) — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/s1dashu--ip-as-logo-skill/))
-- [`MengTo/threeui`](https://github.com/MengTo/threeui) — Open-source ThreeUI Community catalog with live interactive components and complete Community source. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mengto--threeui/))
-- [`yetone/cumora`](https://github.com/yetone/cumora) — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yetone--cumora/))
-- [`CopilotKit/OpenBot`](https://github.com/CopilotKit/OpenBot) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/copilotkit--openbot/))
-- [`wang2122/sprix-sage-router`](https://github.com/wang2122/sprix-sage-router) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wang2122--sprix-sage-router/))
-- [`vvxw/deploy-vercel`](https://github.com/vvxw/deploy-vercel) — Install Command：npm install ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/vvxw--deploy-vercel/))
-- [`cinderline/northcinder`](https://github.com/cinderline/northcinder) — Open-source MCP server for comparing products and asking the buyer before purchase. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/cinderline--northcinder/))
-- [`b-nnett/grok-bot-0.18-reconstructed`](https://github.com/b-nnett/grok-bot-0.18-reconstructed) — Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/b-nnett--grok-bot-0-18-reconstructed/))
-- [`duty1g/x64dbg-mcp-server`](https://github.com/duty1g/x64dbg-mcp-server) — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/duty1g--x64dbg-mcp-server/))
-- [`MeteorNOX/DeepSeek-Balance-Whale-Widget`](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/meteornox--deepseek-balance-whale-widget/))
+- [`sapientinc/PRAXIST`](https://github.com/sapientinc/PRAXIST) — Autonomous research system for measurable, computer-executable research. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sapientinc--praxist/))
+- [`HEJustinSun/my-girlfriend-jingtian-latex`](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/hejustinsun--my-girlfriend-jingtian-latex/))
+- [`XiaoDuoYa/codex-with-chatgpt`](https://github.com/XiaoDuoYa/codex-with-chatgpt) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xiaoduoya--codex-with-chatgpt/))
+- [`Nanako0129/sepia`](https://github.com/Nanako0129/sepia) — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nanako0129--sepia/))
+- [`MetaMask-AI/metamask-desktop`](https://github.com/MetaMask-AI/metamask-desktop) — 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/metamask-ai--metamask-desktop/))
+- [`crmne/fastpotify`](https://github.com/crmne/fastpotify) — Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/crmne--fastpotify/))
+- [`wide-trace/open-higgsfield`](https://github.com/wide-trace/open-higgsfield) — A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wide-trace--open-higgsfield/))
+- [`kacperkapusciak/goldie`](https://github.com/kacperkapusciak/goldie) — ✨ agentic app store previews and screenshots ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kacperkapusciak--goldie/))
+- [`amosblomqvist/learn`](https://github.com/amosblomqvist/learn) — My AI learning system. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/amosblomqvist--learn/))
+- [`bryllim/workout-guide`](https://github.com/bryllim/workout-guide) — 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/bryllim--workout-guide/))
 <!-- RADAR:END -->
 
 ---

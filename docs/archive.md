@@ -8,6 +8,7 @@ Browse weekly reports by date.
 
 ## August 2026
 
+- [Week of 2026-08-31](reports/2026-08-31.md)
 - [Week of 2026-08-24](reports/2026-08-24.md)
 - [Week of 2026-08-18](reports/2026-08-18.md)
 - [Week of 2026-08-03](reports/2026-08-03.md)

@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-08-31</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-31/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-31/</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;sapientinc/PRAXIST — Autonomous research system for measurable, computer-executable research.&lt;/li&gt;&lt;li&gt;HEJustinSun/my-girlfriend-jingtian-latex&lt;/li&gt;&lt;li&gt;XiaoDuoYa/codex-with-chatgpt — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.&lt;/li&gt;&lt;li&gt;Nanako0129/sepia — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).&lt;/li&gt;&lt;li&gt;MetaMask-AI/metamask-desktop — 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites&lt;/li&gt;&lt;li&gt;crmne/fastpotify — Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.&lt;/li&gt;&lt;li&gt;wide-trace/open-higgsfield — A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.&lt;/li&gt;&lt;li&gt;kacperkapusciak/goldie — ✨ agentic app store previews and screenshots&lt;/li&gt;&lt;li&gt;amosblomqvist/learn — My AI learning system.&lt;/li&gt;&lt;li&gt;bryllim/workout-guide — 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-08-24</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-24/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-24/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-15/</guid>
 <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;DietrichGebert/ponytail&lt;/li&gt;&lt;li&gt;XiaomiMiMo/MiMo-Code&lt;/li&gt;&lt;li&gt;shadcn/improve&lt;/li&gt;&lt;li&gt;omnigent-ai/omnigent&lt;/li&gt;&lt;li&gt;MSNightmare/RoguePlanet&lt;/li&gt;&lt;li&gt;SkyBlue997/enableMacosAI&lt;/li&gt;&lt;li&gt;lenucksi/aur-malware-check&lt;/li&gt;&lt;li&gt;apple/coreai-models&lt;/li&gt;&lt;li&gt;tamnd/kage&lt;/li&gt;&lt;li&gt;plannotator/effective-html&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-06-08</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-08/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-08/</guid>
-<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;cpaczek/skylight&lt;/li&gt;&lt;li&gt;b-nnett/goose&lt;/li&gt;&lt;li&gt;jd-opensource/JoyAI-Echo&lt;/li&gt;&lt;li&gt;qiuqiubuchongle-cloud/chokepoint-atlas&lt;/li&gt;&lt;li&gt;VAST-AI-Research/TripoSplat&lt;/li&gt;&lt;li&gt;tastyeffectco/sandboxd&lt;/li&gt;&lt;li&gt;tiantianGPU/reg-factory&lt;/li&gt;&lt;li&gt;Jane-xiaoer/xiaoer-videolab&lt;/li&gt;&lt;li&gt;zenhosta/9drive&lt;/li&gt;&lt;li&gt;S-Sigdel/vimhjkl&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

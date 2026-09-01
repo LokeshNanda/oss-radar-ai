@@ -4,6 +4,11 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`sapientinc/PRAXIST`](../repos/sapientinc--praxist.md) — Autonomous research system for measurable, computer-executable research. (⭐ 5786, week of 2026-08-31)
+- [`XiaoDuoYa/codex-with-chatgpt`](../repos/xiaoduoya--codex-with-chatgpt.md) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. (⭐ 2068, week of 2026-08-31)
+- [`Nanako0129/sepia`](../repos/nanako0129--sepia.md) — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). (⭐ 1329, week of 2026-08-31)
+- [`wide-trace/open-higgsfield`](../repos/wide-trace--open-higgsfield.md) — A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. (⭐ 1177, week of 2026-08-31)
+- [`amosblomqvist/learn`](../repos/amosblomqvist--learn.md) — My AI learning system. (⭐ 1073, week of 2026-08-31)
 - [`s1dashu/ip-as-logo-skill`](../repos/s1dashu--ip-as-logo-skill.md) — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. (⭐ 4072, week of 2026-08-24)
 - [`yetone/cumora`](../repos/yetone--cumora.md) — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. (⭐ 3027, week of 2026-08-24)
 - [`CopilotKit/OpenBot`](../repos/copilotkit--openbot.md) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. (⭐ 2593, week of 2026-08-24)

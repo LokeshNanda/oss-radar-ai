@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-08-31",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "full_name": "sapientinc/PRAXIST",
+      "html_url": "https://github.com/sapientinc/PRAXIST",
+      "id": 1348577064,
+      "language": "Python",
+      "page": "repos/sapientinc--praxist.md",
+      "stars_at_feature": 5786
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-08-31",
+      "description": null,
+      "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "id": 1348410551,
+      "language": "TeX",
+      "page": "repos/hejustinsun--my-girlfriend-jingtian-latex.md",
+      "stars_at_feature": 4213
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-31",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "id": 1349601607,
+      "language": "TypeScript",
+      "page": "repos/xiaoduoya--codex-with-chatgpt.md",
+      "stars_at_feature": 2068
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-31",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "full_name": "Nanako0129/sepia",
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "id": 1349253750,
+      "language": null,
+      "page": "repos/nanako0129--sepia.md",
+      "stars_at_feature": 1329
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-08-31",
+      "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "full_name": "MetaMask-AI/metamask-desktop",
+      "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "id": 1349354292,
+      "language": "CSS",
+      "page": "repos/metamask-ai--metamask-desktop.md",
+      "stars_at_feature": 1229
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-08-31",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "full_name": "crmne/fastpotify",
+      "html_url": "https://github.com/crmne/fastpotify",
+      "id": 1348483831,
+      "language": "Rust",
+      "page": "repos/crmne--fastpotify.md",
+      "stars_at_feature": 1205
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-31",
+      "description": "A studio for image and video generation \u2014 one prompt bar, each model\u2019s own settings, and every finished run in one gallery.",
+      "full_name": "wide-trace/open-higgsfield",
+      "html_url": "https://github.com/wide-trace/open-higgsfield",
+      "id": 1346970181,
+      "language": "TypeScript",
+      "page": "repos/wide-trace--open-higgsfield.md",
+      "stars_at_feature": 1177
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-08-31",
+      "description": "\u2728 agentic app store previews and screenshots",
+      "full_name": "kacperkapusciak/goldie",
+      "html_url": "https://github.com/kacperkapusciak/goldie",
+      "id": 1344939825,
+      "language": "TypeScript",
+      "page": "repos/kacperkapusciak--goldie.md",
+      "stars_at_feature": 1117
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-08-31",
+      "description": "My AI learning system.",
+      "full_name": "amosblomqvist/learn",
+      "html_url": "https://github.com/amosblomqvist/learn",
+      "id": 1345185947,
+      "language": "TypeScript",
+      "page": "repos/amosblomqvist--learn.md",
+      "stars_at_feature": 1073
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-08-31",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "full_name": "bryllim/workout-guide",
+      "html_url": "https://github.com/bryllim/workout-guide",
+      "id": 1344425591,
+      "language": "Astro",
+      "page": "repos/bryllim--workout-guide.md",
+      "stars_at_feature": 1051
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-08-24",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "full_name": "s1dashu/ip-as-logo-skill",

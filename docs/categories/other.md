@@ -4,6 +4,9 @@ title: Other
 
 # Other
 
+- [`HEJustinSun/my-girlfriend-jingtian-latex`](../repos/hejustinsun--my-girlfriend-jingtian-latex.md) (⭐ 4213, week of 2026-08-31)
+- [`MetaMask-AI/metamask-desktop`](../repos/metamask-ai--metamask-desktop.md) — 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites (⭐ 1229, week of 2026-08-31)
+- [`crmne/fastpotify`](../repos/crmne--fastpotify.md) — Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (⭐ 1205, week of 2026-08-31)
 - [`xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer`](../repos/xdash--fde-the-guidance-book-of-forward-deployed-engineer.md) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） (⭐ 1679, week of 2026-08-03)
 - [`xai-org/grok-build`](../repos/xai-org--grok-build.md) (⭐ 20258, week of 2026-07-20)
 - [`Fei-Away/Codex-Dream-Skin`](../repos/fei-away--codex-dream-skin.md) (⭐ 10545, week of 2026-07-20)
