@@ -80,7 +80,7 @@ jobs:
           python -m pip install --upgrade pip
           sudo apt-get update && sudo apt-get install -y libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev pngquant
           pip install -e .
-          pip install "mkdocs-material[imaging]"
+          pip install "mkdocs-material[imaging]>=9.5,<10" "mkdocs<2.0"
 
       - name: Run radar pipeline
         env:

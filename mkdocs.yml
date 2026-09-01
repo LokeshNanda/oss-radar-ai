@@ -31,6 +31,18 @@ plugins:
   - social:
       enabled: !ENV [CI, false]
 
+# Repo pages are generated from third-party READMEs, so a stray relative link
+# in upstream content must not abort `mkdocs build --strict`. Nav problems still do.
+validation:
+  nav:
+    omitted_files: info  # generated repo pages are intentionally outside the nav
+    not_found: warn
+  links:
+    not_found: info
+    anchors: info
+    absolute_links: info
+    unrecognized_links: info
+
 markdown_extensions:
   - admonition
   - pymdownx.details

@@ -25,6 +25,46 @@ def repo_markdown_path(repo: Repository, *, docs_dir: Path) -> Path:
     return docs_dir / "repos" / filename
 
 
+_ABSOLUTE_TARGET = re.compile(r"^(?:[a-z][a-z0-9+.-]*:|//|#)", re.IGNORECASE)
+_INLINE_LINK = re.compile(r"(!?\[[^\]]*\]\()([^)\s]+)((?:\s+\"[^\"]*\")?\))")
+_REFERENCE_LINK = re.compile(r"^(\s*\[[^\]]+\]:[ \t]*)(\S+)(.*)$", re.MULTILINE)
+
+
+def _absolutize_target(target: str, repo_url: str) -> str:
+    """Resolve a relative markdown target against the repository URL.
+
+    Summaries are derived from upstream READMEs, so they can carry relative
+    links such as ``../../releases/tag/v1.6.0`` that only resolve on GitHub.
+    Left alone, those links abort ``mkdocs build --strict``.
+    """
+    if not target or _ABSOLUTE_TARGET.match(target):
+        return target
+    if target.startswith("<") and target.endswith(">"):
+        return f"<{_absolutize_target(target[1:-1], repo_url)}>"
+
+    path, _, fragment = target.partition("#")
+    if path.startswith("/"):
+        base = "https://github.com"
+    else:
+        base = repo_url.rstrip("/")
+        path = re.sub(r"^(?:\.{1,2}/)+", "", path)
+    path = path.lstrip("/")
+    resolved = f"{base}/{path}" if path else base
+    return f"{resolved}#{fragment}" if fragment else resolved
+
+
+def absolutize_relative_links(markdown: str, repo_url: str) -> str:
+    """Rewrite relative markdown links and images to absolute GitHub URLs."""
+    markdown = _INLINE_LINK.sub(
+        lambda m: f"{m.group(1)}{_absolutize_target(m.group(2), repo_url)}{m.group(3)}",
+        markdown,
+    )
+    return _REFERENCE_LINK.sub(
+        lambda m: f"{m.group(1)}{_absolutize_target(m.group(2), repo_url)}{m.group(3)}",
+        markdown,
+    )
+
+
 def render_repo_page(
     repo: Repository, analysis_markdown: str, *, category: str | None = None
 ) -> str:
@@ -47,7 +87,7 @@ def render_repo_page(
         f"{category_line}"
         f"- **Topics**: {', '.join(repo.topics) if repo.topics else 'None'}\n\n"
     )
-    body = analysis_markdown.strip() + "\n"
+    body = absolutize_relative_links(analysis_markdown.strip(), repo.html_url) + "\n"
     return frontmatter + header + meta + body
 
 

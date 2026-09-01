@@ -59,3 +59,33 @@ def test_social_draft_in_weekly_report():
     )
     assert '??? note "📣 Share this week\'s radar"' in page
     assert "https://example.com/reports/2026-07-20/" in page
+
+
+def test_repo_page_absolutizes_relative_links():
+    """Relative links from upstream READMEs would abort `mkdocs build --strict`."""
+    body = (
+        "See [v1.6.0](../../releases/tag/v1.6.0) and "
+        "[docs](docs/setup.md#install) plus ![logo](./assets/logo.png)."
+    )
+    page = render_repo_page(make_repo(), body)
+    assert "https://github.com/o/r/releases/tag/v1.6.0" in page
+    assert "https://github.com/o/r/docs/setup.md#install" in page
+    assert "https://github.com/o/r/assets/logo.png" in page
+    assert "../" not in page
+
+
+def test_repo_page_leaves_absolute_and_anchor_links_alone():
+    body = (
+        "[site](https://example.com/a) [mail](mailto:x@example.com) "
+        "[toc](#overview) [t](https://example.com/b 'title')"
+    )
+    page = render_repo_page(make_repo(), body)
+    assert "https://example.com/a" in page
+    assert "mailto:x@example.com" in page
+    assert "(#overview)" in page
+    assert "(https://example.com/b 'title')" in page
+
+
+def test_repo_page_absolutizes_reference_definitions():
+    page = render_repo_page(make_repo(), "Text [ref].\n\n[ref]: ../CHANGELOG.md")
+    assert "[ref]: https://github.com/o/r/CHANGELOG.md" in page

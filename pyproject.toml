@@ -7,8 +7,8 @@ license = { file = "LICENSE" }
 dependencies = [
     "requests",
     "python-dotenv",
-    "mkdocs",
-    "mkdocs-material",
+    "mkdocs>=1.6,<2.0",
+    "mkdocs-material>=9.5,<10",
 ]
 
 [project.optional-dependencies]
