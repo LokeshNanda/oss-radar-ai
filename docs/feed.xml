@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-09-07</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-07/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-07/</guid>
+<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;lnkiai/m3e-canvas — Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.&lt;/li&gt;&lt;li&gt;anthropics/commerce-agents — Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.&lt;/li&gt;&lt;li&gt;ashemag/human-atlas — Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.&lt;/li&gt;&lt;li&gt;Rion-Wu-tech/wechat-intelligence-hub — Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.&lt;/li&gt;&lt;li&gt;shadcn-ui/cn — cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.&lt;/li&gt;&lt;li&gt;GangTailorUpgrade/undress-service — Dress AI Sponsor&lt;/li&gt;&lt;li&gt;pierrenade/short-video-generator-AI — Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.&lt;/li&gt;&lt;li&gt;sebbbi/NoGraphicsAPI — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.&lt;/li&gt;&lt;li&gt;2akouwu/reverify — Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.&lt;/li&gt;&lt;li&gt;anthropics/fermats-last-theorem&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-08-31</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-31/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-31/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-22/</guid>
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;vercel/eve&lt;/li&gt;&lt;li&gt;zhongerxin/Cowart&lt;/li&gt;&lt;li&gt;alchaincyf/loop-engineering-orange-book&lt;/li&gt;&lt;li&gt;rebel0789/codexpro&lt;/li&gt;&lt;li&gt;Forsy-AI/agent-apprenticeship&lt;/li&gt;&lt;li&gt;Plaer1/junction&lt;/li&gt;&lt;li&gt;ngrok/webernetes&lt;/li&gt;&lt;li&gt;dongshuyan/compass-skills&lt;/li&gt;&lt;li&gt;aidenybai/cnfast&lt;/li&gt;&lt;li&gt;boogu-project/Boogu-Image&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-06-15</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-15/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-15/</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;DietrichGebert/ponytail&lt;/li&gt;&lt;li&gt;XiaomiMiMo/MiMo-Code&lt;/li&gt;&lt;li&gt;shadcn/improve&lt;/li&gt;&lt;li&gt;omnigent-ai/omnigent&lt;/li&gt;&lt;li&gt;MSNightmare/RoguePlanet&lt;/li&gt;&lt;li&gt;SkyBlue997/enableMacosAI&lt;/li&gt;&lt;li&gt;lenucksi/aur-malware-check&lt;/li&gt;&lt;li&gt;apple/coreai-models&lt;/li&gt;&lt;li&gt;tamnd/kage&lt;/li&gt;&lt;li&gt;plannotator/effective-html&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

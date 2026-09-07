@@ -4,6 +4,8 @@ title: Web & Frontend
 
 # Web & Frontend
 
+- [`lnkiai/m3e-canvas`](../repos/lnkiai--m3e-canvas.md) — Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. (⭐ 4486, week of 2026-09-07)
+- [`ashemag/human-atlas`](../repos/ashemag--human-atlas.md) — Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. (⭐ 1695, week of 2026-09-07)
 - [`bryllim/workout-guide`](../repos/bryllim--workout-guide.md) — 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim (⭐ 1051, week of 2026-08-31)
 - [`MengTo/threeui`](../repos/mengto--threeui.md) — Open-source ThreeUI Community catalog with live interactive components and complete Community source. (⭐ 3331, week of 2026-08-24)
 - [`vvxw/deploy-vercel`](../repos/vvxw--deploy-vercel.md) — Install Command：npm install (⭐ 1290, week of 2026-08-24)

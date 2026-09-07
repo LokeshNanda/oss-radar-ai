@@ -4,6 +4,10 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`anthropics/commerce-agents`](../repos/anthropics--commerce-agents.md) — Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. (⭐ 2320, week of 2026-09-07)
+- [`Rion-Wu-tech/wechat-intelligence-hub`](../repos/rion-wu-tech--wechat-intelligence-hub.md) — Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking. (⭐ 1558, week of 2026-09-07)
+- [`GangTailorUpgrade/undress-service`](../repos/gangtailorupgrade--undress-service.md) — Dress AI Sponsor (⭐ 1151, week of 2026-09-07)
+- [`pierrenade/short-video-generator-AI`](../repos/pierrenade--short-video-generator-ai.md) — Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content. (⭐ 1139, week of 2026-09-07)
 - [`sapientinc/PRAXIST`](../repos/sapientinc--praxist.md) — Autonomous research system for measurable, computer-executable research. (⭐ 5786, week of 2026-08-31)
 - [`XiaoDuoYa/codex-with-chatgpt`](../repos/xiaoduoya--codex-with-chatgpt.md) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. (⭐ 2068, week of 2026-08-31)
 - [`Nanako0129/sepia`](../repos/nanako0129--sepia.md) — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). (⭐ 1329, week of 2026-08-31)

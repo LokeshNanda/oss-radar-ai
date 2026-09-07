@@ -6,20 +6,20 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-08-31_
+_Generated on 2026-09-07_
 
 ## Latest repositories
 
-- [`sapientinc/PRAXIST`](repos/sapientinc--praxist.md) — Autonomous research system for measurable, computer-executable research.
-- [`HEJustinSun/my-girlfriend-jingtian-latex`](repos/hejustinsun--my-girlfriend-jingtian-latex.md)
-- [`XiaoDuoYa/codex-with-chatgpt`](repos/xiaoduoya--codex-with-chatgpt.md) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-- [`Nanako0129/sepia`](repos/nanako0129--sepia.md) — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-- [`MetaMask-AI/metamask-desktop`](repos/metamask-ai--metamask-desktop.md) — 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
-- [`crmne/fastpotify`](repos/crmne--fastpotify.md) — Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-- [`wide-trace/open-higgsfield`](repos/wide-trace--open-higgsfield.md) — A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-- [`kacperkapusciak/goldie`](repos/kacperkapusciak--goldie.md) — ✨ agentic app store previews and screenshots
-- [`amosblomqvist/learn`](repos/amosblomqvist--learn.md) — My AI learning system.
-- [`bryllim/workout-guide`](repos/bryllim--workout-guide.md) — 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
+- [`lnkiai/m3e-canvas`](repos/lnkiai--m3e-canvas.md) — Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+- [`anthropics/commerce-agents`](repos/anthropics--commerce-agents.md) — Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
+- [`ashemag/human-atlas`](repos/ashemag--human-atlas.md) — Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
+- [`Rion-Wu-tech/wechat-intelligence-hub`](repos/rion-wu-tech--wechat-intelligence-hub.md) — Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.
+- [`shadcn-ui/cn`](repos/shadcn-ui--cn.md) — cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
+- [`GangTailorUpgrade/undress-service`](repos/gangtailorupgrade--undress-service.md) — Dress AI Sponsor
+- [`pierrenade/short-video-generator-AI`](repos/pierrenade--short-video-generator-ai.md) — Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
+- [`sebbbi/NoGraphicsAPI`](repos/sebbbi--nographicsapi.md) — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.
+- [`2akouwu/reverify`](repos/2akouwu--reverify.md) — Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.
+- [`anthropics/fermats-last-theorem`](repos/anthropics--fermats-last-theorem.md)
 
 [Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
 

@@ -4,6 +4,8 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`shadcn-ui/cn`](../repos/shadcn-ui--cn.md) — cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster. (⭐ 1231, week of 2026-09-07)
+- [`sebbbi/NoGraphicsAPI`](../repos/sebbbi--nographicsapi.md) — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk. (⭐ 1017, week of 2026-09-07)
 - [`kacperkapusciak/goldie`](../repos/kacperkapusciak--goldie.md) — ✨ agentic app store previews and screenshots (⭐ 1117, week of 2026-08-31)
 - [`duty1g/x64dbg-mcp-server`](../repos/duty1g--x64dbg-mcp-server.md) — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros (⭐ 1142, week of 2026-08-24)
 - [`MeteorNOX/DeepSeek-Balance-Whale-Widget`](../repos/meteornox--deepseek-balance-whale-widget.md) — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装 (⭐ 842, week of 2026-08-24)

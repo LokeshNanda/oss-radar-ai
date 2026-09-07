@@ -1,6 +1,116 @@
 {
   "repos": [
     {
+      "category": "Web & Frontend",
+      "date_featured": "2026-09-07",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "full_name": "lnkiai/m3e-canvas",
+      "html_url": "https://github.com/lnkiai/m3e-canvas",
+      "id": 1354310030,
+      "language": "TypeScript",
+      "page": "repos/lnkiai--m3e-canvas.md",
+      "stars_at_feature": 4486
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-07",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "full_name": "anthropics/commerce-agents",
+      "html_url": "https://github.com/anthropics/commerce-agents",
+      "id": 1353548665,
+      "language": "Python",
+      "page": "repos/anthropics--commerce-agents.md",
+      "stars_at_feature": 2320
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-09-07",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "full_name": "ashemag/human-atlas",
+      "html_url": "https://github.com/ashemag/human-atlas",
+      "id": 1357699236,
+      "language": "TypeScript",
+      "page": "repos/ashemag--human-atlas.md",
+      "stars_at_feature": 1695
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-07",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "id": 1357272370,
+      "language": "Python",
+      "page": "repos/rion-wu-tech--wechat-intelligence-hub.md",
+      "stars_at_feature": 1558
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-07",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30\u00d7 faster.",
+      "full_name": "shadcn-ui/cn",
+      "html_url": "https://github.com/shadcn-ui/cn",
+      "id": 1352104394,
+      "language": "TypeScript",
+      "page": "repos/shadcn-ui--cn.md",
+      "stars_at_feature": 1231
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-07",
+      "description": "Dress AI Sponsor",
+      "full_name": "GangTailorUpgrade/undress-service",
+      "html_url": "https://github.com/GangTailorUpgrade/undress-service",
+      "id": 1351835285,
+      "language": "Python",
+      "page": "repos/gangtailorupgrade--undress-service.md",
+      "stars_at_feature": 1151
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-07",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "full_name": "pierrenade/short-video-generator-AI",
+      "html_url": "https://github.com/pierrenade/short-video-generator-AI",
+      "id": 1358140812,
+      "language": "Python",
+      "page": "repos/pierrenade--short-video-generator-ai.md",
+      "stars_at_feature": 1139
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-07",
+      "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+      "full_name": "sebbbi/NoGraphicsAPI",
+      "html_url": "https://github.com/sebbbi/NoGraphicsAPI",
+      "id": 1352493419,
+      "language": "C++",
+      "page": "repos/sebbbi--nographicsapi.md",
+      "stars_at_feature": 1017
+    },
+    {
+      "category": "Security",
+      "date_featured": "2026-09-07",
+      "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "full_name": "2akouwu/reverify",
+      "html_url": "https://github.com/2akouwu/reverify",
+      "id": 1351859098,
+      "language": "Python",
+      "page": "repos/2akouwu--reverify.md",
+      "stars_at_feature": 1001
+    },
+    {
+      "category": "Languages & Runtimes",
+      "date_featured": "2026-09-07",
+      "description": null,
+      "full_name": "anthropics/fermats-last-theorem",
+      "html_url": "https://github.com/anthropics/fermats-last-theorem",
+      "id": 1357228959,
+      "language": "Lean",
+      "page": "repos/anthropics--fermats-last-theorem.md",
+      "stars_at_feature": 889
+    },
+    {
       "category": "AI & Agents",
       "date_featured": "2026-08-31",
       "description": "Autonomous research system for measurable, computer-executable research.",
