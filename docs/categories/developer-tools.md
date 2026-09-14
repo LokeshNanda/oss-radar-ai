@@ -4,6 +4,8 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`EverettFish/holo-card-studio`](../repos/everettfish--holo-card-studio.md) — Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. (⭐ 1517, week of 2026-09-14)
+- [`crwdla/tokentab`](../repos/crwdla--tokentab.md) — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day. (⭐ 973, week of 2026-09-14)
 - [`shadcn-ui/cn`](../repos/shadcn-ui--cn.md) — cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster. (⭐ 1231, week of 2026-09-07)
 - [`sebbbi/NoGraphicsAPI`](../repos/sebbbi--nographicsapi.md) — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk. (⭐ 1017, week of 2026-09-07)
 - [`kacperkapusciak/goldie`](../repos/kacperkapusciak--goldie.md) — ✨ agentic app store previews and screenshots (⭐ 1117, week of 2026-08-31)

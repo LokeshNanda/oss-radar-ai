@@ -4,6 +4,9 @@ title: Other
 
 # Other
 
+- [`sdli1995/dlssg_for_sm86`](../repos/sdli1995--dlssg-for-sm86.md) — Here is a dlssg for RTX30 Series GPU (⭐ 2570, week of 2026-09-14)
+- [`gazijarin/itsgiving`](../repos/gazijarin--itsgiving.md) — Express yourself in meetings (with memes, of course). (⭐ 829, week of 2026-09-14)
+- [`sumimakito/Mac-Duo`](../repos/sumimakito--mac-duo.md) — Wish you could bring the iPhone Duo effect to your MacBook? (⭐ 823, week of 2026-09-14)
 - [`HEJustinSun/my-girlfriend-jingtian-latex`](../repos/hejustinsun--my-girlfriend-jingtian-latex.md) (⭐ 4213, week of 2026-08-31)
 - [`MetaMask-AI/metamask-desktop`](../repos/metamask-ai--metamask-desktop.md) — 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites (⭐ 1229, week of 2026-08-31)
 - [`crmne/fastpotify`](../repos/crmne--fastpotify.md) — Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (⭐ 1205, week of 2026-08-31)
