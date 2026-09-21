@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-09-21</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-21/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-21/</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;browser-use/jev-ultrafast — i. am. speed.&lt;/li&gt;&lt;li&gt;NandhaKishorM/laya&lt;/li&gt;&lt;li&gt;tamaratran/fast-jev-compaction — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.&lt;/li&gt;&lt;li&gt;zai-org/ZCode — Z.ai's coding agent harness. Powerful, intelligent, extensible.&lt;/li&gt;&lt;li&gt;robbietilton/Compositor — The Photoshop alternative for Mac&lt;/li&gt;&lt;li&gt;TheoLeeCJ/SemIf — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.&lt;/li&gt;&lt;li&gt;mizorewww/laya-mlx — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.&lt;/li&gt;&lt;li&gt;mcncarl/jianying-headless — Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.&lt;/li&gt;&lt;li&gt;jarrodwatts/jev-trader — One AI trade decision every Monad block. Jev on Kuru MON-USDC.&lt;/li&gt;&lt;li&gt;TianyuCodings/NanoJev — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-09-14</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-14/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-14/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-06/</guid>
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;elder-plinius/T3MP3ST&lt;/li&gt;&lt;li&gt;mekos2772/ios-location-spoofer&lt;/li&gt;&lt;li&gt;HUANGCHIHHUNGLeo/claude-real-video&lt;/li&gt;&lt;li&gt;jamesob/local-llm&lt;/li&gt;&lt;li&gt;ammaarreshi/Generals-Mac-iOS-iPad&lt;/li&gt;&lt;li&gt;xuchonglang/investing-for-beginners&lt;/li&gt;&lt;li&gt;jmerelnyc/Talos&lt;/li&gt;&lt;li&gt;uzairansaruzi/hermex&lt;/li&gt;&lt;li&gt;Kulaxyz/token-diet&lt;/li&gt;&lt;li&gt;LinXiaoTao/FuckClaude&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-06-29</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-29/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-06-29/</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;deepseek-ai/DeepSpec&lt;/li&gt;&lt;li&gt;bikini/exploitarium&lt;/li&gt;&lt;li&gt;bozhouDev/codex-orange-book&lt;/li&gt;&lt;li&gt;Yu9191/wloc&lt;/li&gt;&lt;li&gt;winsznx/theeleven&lt;/li&gt;&lt;li&gt;BohemiaInteractive/CWR&lt;/li&gt;&lt;li&gt;QwenLM/Qwen-AgentWorld&lt;/li&gt;&lt;li&gt;benchflow-ai/awesome-evals&lt;/li&gt;&lt;li&gt;HKUDS/AgentSpace&lt;/li&gt;&lt;li&gt;AlexandrosGounis/pdfx&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

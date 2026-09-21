@@ -1,6 +1,116 @@
 {
   "repos": [
     {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": "i. am. speed.",
+      "full_name": "browser-use/jev-ultrafast",
+      "html_url": "https://github.com/browser-use/jev-ultrafast",
+      "id": 1373655162,
+      "language": "Python",
+      "page": "repos/browser-use--jev-ultrafast.md",
+      "stars_at_feature": 13943
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": null,
+      "full_name": "NandhaKishorM/laya",
+      "html_url": "https://github.com/NandhaKishorM/laya",
+      "id": 1375382253,
+      "language": "Python",
+      "page": "repos/nandhakishorm--laya.md",
+      "stars_at_feature": 6911
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-21",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "full_name": "tamaratran/fast-jev-compaction",
+      "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+      "id": 1374005005,
+      "language": "TypeScript",
+      "page": "repos/tamaratran--fast-jev-compaction.md",
+      "stars_at_feature": 5756
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-21",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "full_name": "zai-org/ZCode",
+      "html_url": "https://github.com/zai-org/ZCode",
+      "id": 1378288598,
+      "language": "TypeScript",
+      "page": "repos/zai-org--zcode.md",
+      "stars_at_feature": 4810
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-21",
+      "description": "The Photoshop alternative for Mac",
+      "full_name": "robbietilton/Compositor",
+      "html_url": "https://github.com/robbietilton/Compositor",
+      "id": 1373614120,
+      "language": "Swift",
+      "page": "repos/robbietilton--compositor.md",
+      "stars_at_feature": 4039
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "full_name": "TheoLeeCJ/SemIf",
+      "html_url": "https://github.com/TheoLeeCJ/SemIf",
+      "id": 1372482979,
+      "language": "Python",
+      "page": "repos/theoleecj--semif.md",
+      "stars_at_feature": 2783
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "full_name": "mizorewww/laya-mlx",
+      "html_url": "https://github.com/mizorewww/laya-mlx",
+      "id": 1377211520,
+      "language": "Python",
+      "page": "repos/mizorewww--laya-mlx.md",
+      "stars_at_feature": 2418
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-21",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "full_name": "mcncarl/jianying-headless",
+      "html_url": "https://github.com/mcncarl/jianying-headless",
+      "id": 1371378654,
+      "language": "Python",
+      "page": "repos/mcncarl--jianying-headless.md",
+      "stars_at_feature": 2235
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "full_name": "jarrodwatts/jev-trader",
+      "html_url": "https://github.com/jarrodwatts/jev-trader",
+      "id": 1373659194,
+      "language": "TypeScript",
+      "page": "repos/jarrodwatts--jev-trader.md",
+      "stars_at_feature": 1685
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-21",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "full_name": "TianyuCodings/NanoJev",
+      "html_url": "https://github.com/TianyuCodings/NanoJev",
+      "id": 1374702542,
+      "language": "Python",
+      "page": "repos/tianyucodings--nanojev.md",
+      "stars_at_feature": 1682
+    },
+    {
       "category": "Other",
       "date_featured": "2026-09-14",
       "description": "Here is a dlssg for RTX30 Series GPU ",

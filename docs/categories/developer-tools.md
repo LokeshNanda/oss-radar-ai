@@ -4,6 +4,10 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`tamaratran/fast-jev-compaction`](../repos/tamaratran--fast-jev-compaction.md) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. (⭐ 5756, week of 2026-09-21)
+- [`zai-org/ZCode`](../repos/zai-org--zcode.md) — Z.ai's coding agent harness. Powerful, intelligent, extensible. (⭐ 4810, week of 2026-09-21)
+- [`robbietilton/Compositor`](../repos/robbietilton--compositor.md) — The Photoshop alternative for Mac (⭐ 4039, week of 2026-09-21)
+- [`mcncarl/jianying-headless`](../repos/mcncarl--jianying-headless.md) — Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. (⭐ 2235, week of 2026-09-21)
 - [`EverettFish/holo-card-studio`](../repos/everettfish--holo-card-studio.md) — Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. (⭐ 1517, week of 2026-09-14)
 - [`crwdla/tokentab`](../repos/crwdla--tokentab.md) — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day. (⭐ 973, week of 2026-09-14)
 - [`shadcn-ui/cn`](../repos/shadcn-ui--cn.md) — cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster. (⭐ 1231, week of 2026-09-07)

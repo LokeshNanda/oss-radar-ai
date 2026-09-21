@@ -4,6 +4,12 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`browser-use/jev-ultrafast`](../repos/browser-use--jev-ultrafast.md) — i. am. speed. (⭐ 13943, week of 2026-09-21)
+- [`NandhaKishorM/laya`](../repos/nandhakishorm--laya.md) (⭐ 6911, week of 2026-09-21)
+- [`TheoLeeCJ/SemIf`](../repos/theoleecj--semif.md) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (⭐ 2783, week of 2026-09-21)
+- [`mizorewww/laya-mlx`](../repos/mizorewww--laya-mlx.md) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. (⭐ 2418, week of 2026-09-21)
+- [`jarrodwatts/jev-trader`](../repos/jarrodwatts--jev-trader.md) — One AI trade decision every Monad block. Jev on Kuru MON-USDC. (⭐ 1685, week of 2026-09-21)
+- [`TianyuCodings/NanoJev`](../repos/tianyucodings--nanojev.md) — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. (⭐ 1682, week of 2026-09-21)
 - [`Edge0-AI/Edge0`](../repos/edge0-ai--edge0.md) (⭐ 1652, week of 2026-09-14)
 - [`Vincentwei1021/anything2explainer`](../repos/vincentwei1021--anything2explainer.md) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion. (⭐ 1256, week of 2026-09-14)
 - [`achimala/dream-loop`](../repos/achimala--dream-loop.md) — Agent skill for impressive 3D visuals using Blender + image gen + subagent critic (⭐ 978, week of 2026-09-14)

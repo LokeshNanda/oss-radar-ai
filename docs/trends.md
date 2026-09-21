@@ -4,14 +4,14 @@ title: Trends
 
 # 📊 Trends
 
-**303 repositories featured** on the radar so far.
+**313 repositories featured** on the radar so far.
 
 ## Categories over time
 
 | Category | 2026-09 | 2026-08 | 2026-07 | 2026-06 | 2026-05 | 2026-04 |
 | --- | --- | --- | --- | --- | --- | --- |
-| AI & Agents | 8 | 21 | 9 | 0 | 0 | 0 |
-| Developer Tools | 4 | 9 | 1 | 0 | 0 | 0 |
+| AI & Agents | 14 | 21 | 9 | 0 | 0 | 0 |
+| Developer Tools | 8 | 9 | 1 | 0 | 0 | 0 |
 | Web & Frontend | 2 | 5 | 4 | 0 | 0 | 0 |
 | Security | 1 | 0 | 0 | 0 | 0 | 0 |
 | Languages & Runtimes | 2 | 0 | 0 | 0 | 0 | 0 |
@@ -21,11 +21,11 @@ title: Trends
 
 | Language | Repos | Share |
 | --- | --- | --- |
-| TypeScript | 25 | 8% |
-| Python | 19 | 6% |
+| TypeScript | 28 | 9% |
+| Python | 25 | 8% |
 | JavaScript | 9 | 3% |
+| Swift | 3 | 1% |
 | Lean | 2 | 1% |
-| Swift | 2 | 1% |
 | C++ | 1 | 0% |
 | TeX | 1 | 0% |
 | CSS | 1 | 0% |
