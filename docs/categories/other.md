@@ -4,6 +4,7 @@ title: Other
 
 # Other
 
+- [`JohnHeibel/PDoomVideo`](../repos/johnheibel--pdoomvideo.md) — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) (⭐ 1349, week of 2026-09-28)
 - [`sdli1995/dlssg_for_sm86`](../repos/sdli1995--dlssg-for-sm86.md) — Here is a dlssg for RTX30 Series GPU (⭐ 2570, week of 2026-09-14)
 - [`gazijarin/itsgiving`](../repos/gazijarin--itsgiving.md) — Express yourself in meetings (with memes, of course). (⭐ 829, week of 2026-09-14)
 - [`sumimakito/Mac-Duo`](../repos/sumimakito--mac-duo.md) — Wish you could bring the iPhone Duo effect to your MacBook? (⭐ 823, week of 2026-09-14)

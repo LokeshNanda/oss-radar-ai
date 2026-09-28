@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-09-28</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-28/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-28/</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;jev-chat/jev-chat-jarvis — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。&lt;/li&gt;&lt;li&gt;Contrastive-LM/CLM&lt;/li&gt;&lt;li&gt;unreallabsai/unreal-agent — Async-first agent harness&lt;/li&gt;&lt;li&gt;tobi/disktree — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.&lt;/li&gt;&lt;li&gt;mexicat/pdoom-video — Code-rendered music video for "I'm Upping My P(doom)"&lt;/li&gt;&lt;li&gt;yetone/magpie — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.&lt;/li&gt;&lt;li&gt;JohnHeibel/PDoomVideo — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)&lt;/li&gt;&lt;li&gt;dzhng/jevgrep — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.&lt;/li&gt;&lt;li&gt;deepopen-com/deepopen — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. &lt;/li&gt;&lt;li&gt;mikehasa/golive-skill — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-09-21</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-21/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-21/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-13/</guid>
 <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;withmarbleapp/os-taxonomy&lt;/li&gt;&lt;li&gt;Shpigford/knockoff&lt;/li&gt;&lt;li&gt;oso95/scroll-world&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-world-v2&lt;/li&gt;&lt;li&gt;x4gKing/3x-ui-Upgrade&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-video&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-vision&lt;/li&gt;&lt;li&gt;vinhhien112/Three.js-Object-Sculptor-Codex-Plugin&lt;/li&gt;&lt;li&gt;mereyabdenbekuly-ctrl/clodex-ide&lt;/li&gt;&lt;li&gt;op7418/guizang-material-illustration&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-07-06</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-06/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-06/</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;elder-plinius/T3MP3ST&lt;/li&gt;&lt;li&gt;mekos2772/ios-location-spoofer&lt;/li&gt;&lt;li&gt;HUANGCHIHHUNGLeo/claude-real-video&lt;/li&gt;&lt;li&gt;jamesob/local-llm&lt;/li&gt;&lt;li&gt;ammaarreshi/Generals-Mac-iOS-iPad&lt;/li&gt;&lt;li&gt;xuchonglang/investing-for-beginners&lt;/li&gt;&lt;li&gt;jmerelnyc/Talos&lt;/li&gt;&lt;li&gt;uzairansaruzi/hermex&lt;/li&gt;&lt;li&gt;Kulaxyz/token-diet&lt;/li&gt;&lt;li&gt;LinXiaoTao/FuckClaude&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

@@ -4,6 +4,11 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`jev-chat/jev-chat-jarvis`](../repos/jev-chat--jev-chat-jarvis.md) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 (⭐ 6856, week of 2026-09-28)
+- [`Contrastive-LM/CLM`](../repos/contrastive-lm--clm.md) (⭐ 2110, week of 2026-09-28)
+- [`unreallabsai/unreal-agent`](../repos/unreallabsai--unreal-agent.md) — Async-first agent harness (⭐ 2005, week of 2026-09-28)
+- [`yetone/magpie`](../repos/yetone--magpie.md) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. (⭐ 1495, week of 2026-09-28)
+- [`deepopen-com/deepopen`](../repos/deepopen-com--deepopen.md) — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. (⭐ 1044, week of 2026-09-28)
 - [`browser-use/jev-ultrafast`](../repos/browser-use--jev-ultrafast.md) — i. am. speed. (⭐ 13943, week of 2026-09-21)
 - [`NandhaKishorM/laya`](../repos/nandhakishorm--laya.md) (⭐ 6911, week of 2026-09-21)
 - [`TheoLeeCJ/SemIf`](../repos/theoleecj--semif.md) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. (⭐ 2783, week of 2026-09-21)

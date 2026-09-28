@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-09-21_
+_Week of 2026-09-28_
 
-- [`browser-use/jev-ultrafast`](https://github.com/browser-use/jev-ultrafast) — i. am. speed. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/browser-use--jev-ultrafast/))
-- [`NandhaKishorM/laya`](https://github.com/NandhaKishorM/laya) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nandhakishorm--laya/))
-- [`tamaratran/fast-jev-compaction`](https://github.com/tamaratran/fast-jev-compaction) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tamaratran--fast-jev-compaction/))
-- [`zai-org/ZCode`](https://github.com/zai-org/ZCode) — Z.ai's coding agent harness. Powerful, intelligent, extensible. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/zai-org--zcode/))
-- [`robbietilton/Compositor`](https://github.com/robbietilton/Compositor) — The Photoshop alternative for Mac ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/robbietilton--compositor/))
-- [`TheoLeeCJ/SemIf`](https://github.com/TheoLeeCJ/SemIf) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/theoleecj--semif/))
-- [`mizorewww/laya-mlx`](https://github.com/mizorewww/laya-mlx) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mizorewww--laya-mlx/))
-- [`mcncarl/jianying-headless`](https://github.com/mcncarl/jianying-headless) — Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mcncarl--jianying-headless/))
-- [`jarrodwatts/jev-trader`](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jarrodwatts--jev-trader/))
-- [`TianyuCodings/NanoJev`](https://github.com/TianyuCodings/NanoJev) — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tianyucodings--nanojev/))
+- [`jev-chat/jev-chat-jarvis`](https://github.com/jev-chat/jev-chat-jarvis) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jev-chat--jev-chat-jarvis/))
+- [`Contrastive-LM/CLM`](https://github.com/Contrastive-LM/CLM) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/contrastive-lm--clm/))
+- [`unreallabsai/unreal-agent`](https://github.com/unreallabsai/unreal-agent) — Async-first agent harness ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/unreallabsai--unreal-agent/))
+- [`tobi/disktree`](https://github.com/tobi/disktree) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tobi--disktree/))
+- [`mexicat/pdoom-video`](https://github.com/mexicat/pdoom-video) — Code-rendered music video for "I'm Upping My P(doom)" ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mexicat--pdoom-video/))
+- [`yetone/magpie`](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yetone--magpie/))
+- [`JohnHeibel/PDoomVideo`](https://github.com/JohnHeibel/PDoomVideo) — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/johnheibel--pdoomvideo/))
+- [`dzhng/jevgrep`](https://github.com/dzhng/jevgrep) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/dzhng--jevgrep/))
+- [`deepopen-com/deepopen`](https://github.com/deepopen-com/deepopen) — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deepopen-com--deepopen/))
+- [`mikehasa/golive-skill`](https://github.com/mikehasa/golive-skill) — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mikehasa--golive-skill/))
 <!-- RADAR:END -->
 
 ---

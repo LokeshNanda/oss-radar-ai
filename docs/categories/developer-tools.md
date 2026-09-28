@@ -4,6 +4,9 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`tobi/disktree`](../repos/tobi--disktree.md) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. (⭐ 1744, week of 2026-09-28)
+- [`dzhng/jevgrep`](../repos/dzhng--jevgrep.md) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. (⭐ 1084, week of 2026-09-28)
+- [`mikehasa/golive-skill`](../repos/mikehasa--golive-skill.md) — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. (⭐ 1029, week of 2026-09-28)
 - [`tamaratran/fast-jev-compaction`](../repos/tamaratran--fast-jev-compaction.md) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. (⭐ 5756, week of 2026-09-21)
 - [`zai-org/ZCode`](../repos/zai-org--zcode.md) — Z.ai's coding agent harness. Powerful, intelligent, extensible. (⭐ 4810, week of 2026-09-21)
 - [`robbietilton/Compositor`](../repos/robbietilton--compositor.md) — The Photoshop alternative for Mac (⭐ 4039, week of 2026-09-21)

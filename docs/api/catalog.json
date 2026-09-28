@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-09-28",
+      "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
+      "full_name": "jev-chat/jev-chat-jarvis",
+      "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "id": 1379574728,
+      "language": "Kotlin",
+      "page": "repos/jev-chat--jev-chat-jarvis.md",
+      "stars_at_feature": 6856
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-28",
+      "description": null,
+      "full_name": "Contrastive-LM/CLM",
+      "html_url": "https://github.com/Contrastive-LM/CLM",
+      "id": 1384094559,
+      "language": "Python",
+      "page": "repos/contrastive-lm--clm.md",
+      "stars_at_feature": 2110
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-28",
+      "description": "Async-first agent harness",
+      "full_name": "unreallabsai/unreal-agent",
+      "html_url": "https://github.com/unreallabsai/unreal-agent",
+      "id": 1380635125,
+      "language": "Go",
+      "page": "repos/unreallabsai--unreal-agent.md",
+      "stars_at_feature": 2005
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-28",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "full_name": "tobi/disktree",
+      "html_url": "https://github.com/tobi/disktree",
+      "id": 1386355153,
+      "language": "Rust",
+      "page": "repos/tobi--disktree.md",
+      "stars_at_feature": 1744
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-09-28",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "full_name": "mexicat/pdoom-video",
+      "html_url": "https://github.com/mexicat/pdoom-video",
+      "id": 1386391454,
+      "language": "TypeScript",
+      "page": "repos/mexicat--pdoom-video.md",
+      "stars_at_feature": 1553
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-28",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "full_name": "yetone/magpie",
+      "html_url": "https://github.com/yetone/magpie",
+      "id": 1383809012,
+      "language": "Go",
+      "page": "repos/yetone--magpie.md",
+      "stars_at_feature": 1495
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-09-28",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "full_name": "JohnHeibel/PDoomVideo",
+      "html_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "id": 1382467199,
+      "language": "JavaScript",
+      "page": "repos/johnheibel--pdoomvideo.md",
+      "stars_at_feature": 1349
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-28",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "full_name": "dzhng/jevgrep",
+      "html_url": "https://github.com/dzhng/jevgrep",
+      "id": 1388482474,
+      "language": "TypeScript",
+      "page": "repos/dzhng--jevgrep.md",
+      "stars_at_feature": 1084
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-09-28",
+      "description": "\u975e\u81ea\u56de\u5f52System 1\u51b3\u7b56\u5f15\u64ce\uff0c\u4e13\u4e3a\u7ed3\u6784\u5316\u7c7b\u578b\u51b3\u7b56\u573a\u666f\u8bbe\u8ba1  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "full_name": "deepopen-com/deepopen",
+      "html_url": "https://github.com/deepopen-com/deepopen",
+      "id": 1378971656,
+      "language": "Python",
+      "page": "repos/deepopen-com--deepopen.md",
+      "stars_at_feature": 1044
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-09-28",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments \u2014 on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect \u2192 plan \u2192 approve \u2192 apply \u2192 verify. No GoLive account, backend or telemetry.",
+      "full_name": "mikehasa/golive-skill",
+      "html_url": "https://github.com/mikehasa/golive-skill",
+      "id": 1383518430,
+      "language": "TypeScript",
+      "page": "repos/mikehasa--golive-skill.md",
+      "stars_at_feature": 1029
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-09-21",
       "description": "i. am. speed.",
       "full_name": "browser-use/jev-ultrafast",
