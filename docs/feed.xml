@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-10-05</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-05/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-05/</guid>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;KKKKhazix/AIHOT — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。&lt;/li&gt;&lt;li&gt;rehan-remade/universal-modder — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.&lt;/li&gt;&lt;li&gt;CopilotKit/OpenDots — Your always-on AI coworkers that move between text, calls, and Slack.&lt;/li&gt;&lt;li&gt;feder-cr/dots — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.&lt;/li&gt;&lt;li&gt;nanaism/yomiyasu — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese&lt;/li&gt;&lt;li&gt;storytold/photocraft — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust&lt;/li&gt;&lt;li&gt;wy51ai/floorplan-3d&lt;/li&gt;&lt;li&gt;firelex/jeff — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.&lt;/li&gt;&lt;li&gt;facebookincubator/muse-gadget-sdk — Open source SDK to build Muse gadgets&lt;/li&gt;&lt;li&gt;QingYunA/answer-me-with-html — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-09-28</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-28/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-09-28/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-20/</guid>
 <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;xai-org/grok-build&lt;/li&gt;&lt;li&gt;Fei-Away/Codex-Dream-Skin&lt;/li&gt;&lt;li&gt;CluvexStudio/Aether&lt;/li&gt;&lt;li&gt;pixel-point/aval&lt;/li&gt;&lt;li&gt;littledivy/mimic&lt;/li&gt;&lt;li&gt;tandpfun/wardrobe&lt;/li&gt;&lt;li&gt;oil-oil/beautify-github-readme&lt;/li&gt;&lt;li&gt;nethical6/conversation-steganography&lt;/li&gt;&lt;li&gt;pablostanley/yoinks&lt;/li&gt;&lt;li&gt;KubeezMedia/kubeez-scroll-world-video&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-07-13</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-13/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-13/</guid>
-<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;withmarbleapp/os-taxonomy&lt;/li&gt;&lt;li&gt;Shpigford/knockoff&lt;/li&gt;&lt;li&gt;oso95/scroll-world&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-world-v2&lt;/li&gt;&lt;li&gt;x4gKing/3x-ui-Upgrade&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-video&lt;/li&gt;&lt;li&gt;Robbyant/lingbot-vision&lt;/li&gt;&lt;li&gt;vinhhien112/Three.js-Object-Sculptor-Codex-Plugin&lt;/li&gt;&lt;li&gt;mereyabdenbekuly-ctrl/clodex-ide&lt;/li&gt;&lt;li&gt;op7418/guizang-material-illustration&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

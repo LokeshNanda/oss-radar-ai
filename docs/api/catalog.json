@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
+      "full_name": "KKKKhazix/AIHOT",
+      "html_url": "https://github.com/KKKKhazix/AIHOT",
+      "id": 1393965829,
+      "language": "TypeScript",
+      "page": "repos/kkkkhazix--aihot.md",
+      "stars_at_feature": 5914
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-05",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "full_name": "rehan-remade/universal-modder",
+      "html_url": "https://github.com/rehan-remade/universal-modder",
+      "id": 1397016507,
+      "language": "Python",
+      "page": "repos/rehan-remade--universal-modder.md",
+      "stars_at_feature": 3538
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "full_name": "CopilotKit/OpenDots",
+      "html_url": "https://github.com/CopilotKit/OpenDots",
+      "id": 1396117711,
+      "language": "TypeScript",
+      "page": "repos/copilotkit--opendots.md",
+      "stars_at_feature": 3425
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "full_name": "feder-cr/dots",
+      "html_url": "https://github.com/feder-cr/dots",
+      "id": 1396688303,
+      "language": "Python",
+      "page": "repos/feder-cr--dots.md",
+      "stars_at_feature": 2610
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "full_name": "nanaism/yomiyasu",
+      "html_url": "https://github.com/nanaism/yomiyasu",
+      "id": 1397771878,
+      "language": "Python",
+      "page": "repos/nanaism--yomiyasu.md",
+      "stars_at_feature": 1473
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-05",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "full_name": "storytold/photocraft",
+      "html_url": "https://github.com/storytold/photocraft",
+      "id": 1398080271,
+      "language": "Rust",
+      "page": "repos/storytold--photocraft.md",
+      "stars_at_feature": 1439
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-10-05",
+      "description": null,
+      "full_name": "wy51ai/floorplan-3d",
+      "html_url": "https://github.com/wy51ai/floorplan-3d",
+      "id": 1394134758,
+      "language": "HTML",
+      "page": "repos/wy51ai--floorplan-3d.md",
+      "stars_at_feature": 1412
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "full_name": "firelex/jeff",
+      "html_url": "https://github.com/firelex/jeff",
+      "id": 1393229560,
+      "language": "Python",
+      "page": "repos/firelex--jeff.md",
+      "stars_at_feature": 1380
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-05",
+      "description": "Open source SDK to build Muse gadgets",
+      "full_name": "facebookincubator/muse-gadget-sdk",
+      "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "id": 1402193143,
+      "language": "C",
+      "page": "repos/facebookincubator--muse-gadget-sdk.md",
+      "stars_at_feature": 1327
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-05",
+      "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+      "full_name": "QingYunA/answer-me-with-html",
+      "html_url": "https://github.com/QingYunA/answer-me-with-html",
+      "id": 1401476500,
+      "language": "JavaScript",
+      "page": "repos/qingyuna--answer-me-with-html.md",
+      "stars_at_feature": 1314
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-09-28",
       "description": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728 QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
       "full_name": "jev-chat/jev-chat-jarvis",

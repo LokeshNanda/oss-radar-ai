@@ -6,20 +6,20 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-09-28_
+_Generated on 2026-10-05_
 
 ## Latest repositories
 
-- [`jev-chat/jev-chat-jarvis`](repos/jev-chat--jev-chat-jarvis.md) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-- [`Contrastive-LM/CLM`](repos/contrastive-lm--clm.md)
-- [`unreallabsai/unreal-agent`](repos/unreallabsai--unreal-agent.md) — Async-first agent harness
-- [`tobi/disktree`](repos/tobi--disktree.md) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
-- [`mexicat/pdoom-video`](repos/mexicat--pdoom-video.md) — Code-rendered music video for "I'm Upping My P(doom)"
-- [`yetone/magpie`](repos/yetone--magpie.md) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [`JohnHeibel/PDoomVideo`](repos/johnheibel--pdoomvideo.md) — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
-- [`dzhng/jevgrep`](repos/dzhng--jevgrep.md) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
-- [`deepopen-com/deepopen`](repos/deepopen-com--deepopen.md) — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.
-- [`mikehasa/golive-skill`](repos/mikehasa--golive-skill.md) — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
+- [`KKKKhazix/AIHOT`](repos/kkkkhazix--aihot.md) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- [`rehan-remade/universal-modder`](repos/rehan-remade--universal-modder.md) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+- [`CopilotKit/OpenDots`](repos/copilotkit--opendots.md) — Your always-on AI coworkers that move between text, calls, and Slack.
+- [`feder-cr/dots`](repos/feder-cr--dots.md) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
+- [`nanaism/yomiyasu`](repos/nanaism--yomiyasu.md) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+- [`storytold/photocraft`](repos/storytold--photocraft.md) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [`wy51ai/floorplan-3d`](repos/wy51ai--floorplan-3d.md)
+- [`firelex/jeff`](repos/firelex--jeff.md) — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
+- [`facebookincubator/muse-gadget-sdk`](repos/facebookincubator--muse-gadget-sdk.md) — Open source SDK to build Muse gadgets
+- [`QingYunA/answer-me-with-html`](repos/qingyuna--answer-me-with-html.md) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
 
 [Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
 

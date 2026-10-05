@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-09-28_
+_Week of 2026-10-05_
 
-- [`jev-chat/jev-chat-jarvis`](https://github.com/jev-chat/jev-chat-jarvis) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jev-chat--jev-chat-jarvis/))
-- [`Contrastive-LM/CLM`](https://github.com/Contrastive-LM/CLM) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/contrastive-lm--clm/))
-- [`unreallabsai/unreal-agent`](https://github.com/unreallabsai/unreal-agent) — Async-first agent harness ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/unreallabsai--unreal-agent/))
-- [`tobi/disktree`](https://github.com/tobi/disktree) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tobi--disktree/))
-- [`mexicat/pdoom-video`](https://github.com/mexicat/pdoom-video) — Code-rendered music video for "I'm Upping My P(doom)" ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mexicat--pdoom-video/))
-- [`yetone/magpie`](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/yetone--magpie/))
-- [`JohnHeibel/PDoomVideo`](https://github.com/JohnHeibel/PDoomVideo) — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/johnheibel--pdoomvideo/))
-- [`dzhng/jevgrep`](https://github.com/dzhng/jevgrep) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/dzhng--jevgrep/))
-- [`deepopen-com/deepopen`](https://github.com/deepopen-com/deepopen) — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deepopen-com--deepopen/))
-- [`mikehasa/golive-skill`](https://github.com/mikehasa/golive-skill) — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mikehasa--golive-skill/))
+- [`KKKKhazix/AIHOT`](https://github.com/KKKKhazix/AIHOT) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kkkkhazix--aihot/))
+- [`rehan-remade/universal-modder`](https://github.com/rehan-remade/universal-modder) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/rehan-remade--universal-modder/))
+- [`CopilotKit/OpenDots`](https://github.com/CopilotKit/OpenDots) — Your always-on AI coworkers that move between text, calls, and Slack. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/copilotkit--opendots/))
+- [`feder-cr/dots`](https://github.com/feder-cr/dots) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/feder-cr--dots/))
+- [`nanaism/yomiyasu`](https://github.com/nanaism/yomiyasu) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nanaism--yomiyasu/))
+- [`storytold/photocraft`](https://github.com/storytold/photocraft) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--photocraft/))
+- [`wy51ai/floorplan-3d`](https://github.com/wy51ai/floorplan-3d) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wy51ai--floorplan-3d/))
+- [`firelex/jeff`](https://github.com/firelex/jeff) — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/firelex--jeff/))
+- [`facebookincubator/muse-gadget-sdk`](https://github.com/facebookincubator/muse-gadget-sdk) — Open source SDK to build Muse gadgets ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/facebookincubator--muse-gadget-sdk/))
+- [`QingYunA/answer-me-with-html`](https://github.com/QingYunA/answer-me-with-html) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/qingyuna--answer-me-with-html/))
 <!-- RADAR:END -->
 
 ---

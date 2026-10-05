@@ -4,6 +4,8 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`rehan-remade/universal-modder`](../repos/rehan-remade--universal-modder.md) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. (⭐ 3538, week of 2026-10-05)
+- [`facebookincubator/muse-gadget-sdk`](../repos/facebookincubator--muse-gadget-sdk.md) — Open source SDK to build Muse gadgets (⭐ 1327, week of 2026-10-05)
 - [`tobi/disktree`](../repos/tobi--disktree.md) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. (⭐ 1744, week of 2026-09-28)
 - [`dzhng/jevgrep`](../repos/dzhng--jevgrep.md) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. (⭐ 1084, week of 2026-09-28)
 - [`mikehasa/golive-skill`](../repos/mikehasa--golive-skill.md) — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. (⭐ 1029, week of 2026-09-28)

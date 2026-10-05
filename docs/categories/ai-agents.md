@@ -4,6 +4,12 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`KKKKhazix/AIHOT`](../repos/kkkkhazix--aihot.md) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 (⭐ 5914, week of 2026-10-05)
+- [`CopilotKit/OpenDots`](../repos/copilotkit--opendots.md) — Your always-on AI coworkers that move between text, calls, and Slack. (⭐ 3425, week of 2026-10-05)
+- [`feder-cr/dots`](../repos/feder-cr--dots.md) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. (⭐ 2610, week of 2026-10-05)
+- [`nanaism/yomiyasu`](../repos/nanaism--yomiyasu.md) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese (⭐ 1473, week of 2026-10-05)
+- [`firelex/jeff`](../repos/firelex--jeff.md) — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware. (⭐ 1380, week of 2026-10-05)
+- [`QingYunA/answer-me-with-html`](../repos/qingyuna--answer-me-with-html.md) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 (⭐ 1314, week of 2026-10-05)
 - [`jev-chat/jev-chat-jarvis`](../repos/jev-chat--jev-chat-jarvis.md) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 (⭐ 6856, week of 2026-09-28)
 - [`Contrastive-LM/CLM`](../repos/contrastive-lm--clm.md) (⭐ 2110, week of 2026-09-28)
 - [`unreallabsai/unreal-agent`](../repos/unreallabsai--unreal-agent.md) — Async-first agent harness (⭐ 2005, week of 2026-09-28)
