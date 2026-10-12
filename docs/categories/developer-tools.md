@@ -4,6 +4,13 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`storytold/wordcraft`](../repos/storytold--wordcraft.md) — An open-source, clean-room reimplementation of Microsoft Word in pure Rust (⭐ 7771, week of 2026-10-12)
+- [`wheresryan22/anatomy`](../repos/wheresryan22--anatomy.md) — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. (⭐ 4847, week of 2026-10-12)
+- [`alchaincyf/huashu-art-motion`](../repos/alchaincyf--huashu-art-motion.md) — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 (⭐ 3544, week of 2026-10-12)
+- [`storytold/gridcraft`](../repos/storytold--gridcraft.md) — GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. (⭐ 3391, week of 2026-10-12)
+- [`zhongerxin/iPhone-use`](../repos/zhongerxin--iphone-use.md) — 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 (⭐ 3305, week of 2026-10-12)
+- [`storytold/cadcraft`](../repos/storytold--cadcraft.md) — CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust (⭐ 3077, week of 2026-10-12)
+- [`nullmoth/nvidia-macos-driver`](../repos/nullmoth--nvidia-macos-driver.md) — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included. (⭐ 2673, week of 2026-10-12)
 - [`rehan-remade/universal-modder`](../repos/rehan-remade--universal-modder.md) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. (⭐ 3538, week of 2026-10-05)
 - [`facebookincubator/muse-gadget-sdk`](../repos/facebookincubator--muse-gadget-sdk.md) — Open source SDK to build Muse gadgets (⭐ 1327, week of 2026-10-05)
 - [`tobi/disktree`](../repos/tobi--disktree.md) — A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. (⭐ 1744, week of 2026-09-28)

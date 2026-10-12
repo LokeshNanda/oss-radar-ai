@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-10-12</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-12/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-12/</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;openai/math&lt;/li&gt;&lt;li&gt;storytold/wordcraft — An open-source, clean-room reimplementation of Microsoft Word in pure Rust&lt;/li&gt;&lt;li&gt;wheresryan22/anatomy — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.&lt;/li&gt;&lt;li&gt;alchaincyf/huashu-art-motion — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。&lt;/li&gt;&lt;li&gt;mhtsec/ARTEX — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目&lt;/li&gt;&lt;li&gt;storytold/gridcraft — GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.&lt;/li&gt;&lt;li&gt;zhongerxin/iPhone-use — 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。&lt;/li&gt;&lt;li&gt;storytold/cadcraft — CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust&lt;/li&gt;&lt;li&gt;LosaLosSantos/aurelio-finance — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.&lt;/li&gt;&lt;li&gt;nullmoth/nvidia-macos-driver — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-10-05</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-05/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-05/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-24/</guid>
 <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;andrewyng/openworker&lt;/li&gt;&lt;li&gt;lopopolo/harness-engineering — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering&lt;/li&gt;&lt;li&gt;MIgHTy-alIeN/MEV-Arbitrage-Bot — An arbitrage bot is a smart contract connected to an external automation script that controls its operation.&lt;/li&gt;&lt;li&gt;nyblnet/bento&lt;/li&gt;&lt;li&gt;Vincentwei1021/video-shotcraft — AI video skill for Claude Code &amp;amp; Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template&lt;/li&gt;&lt;li&gt;Jakubantalik/thinking-orbs — Dotted thought-orb loading indicators for AI &amp;amp; agent UIs — six tuned states, two sizes, auto dark/light&lt;/li&gt;&lt;li&gt;Blaizzy/nativ — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.&lt;/li&gt;&lt;li&gt;powerycy/goutoujunshi — 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。&lt;/li&gt;&lt;li&gt;pireel/pireel — Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-07-20</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-20/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-20/</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;xai-org/grok-build&lt;/li&gt;&lt;li&gt;Fei-Away/Codex-Dream-Skin&lt;/li&gt;&lt;li&gt;CluvexStudio/Aether&lt;/li&gt;&lt;li&gt;pixel-point/aval&lt;/li&gt;&lt;li&gt;littledivy/mimic&lt;/li&gt;&lt;li&gt;tandpfun/wardrobe&lt;/li&gt;&lt;li&gt;oil-oil/beautify-github-readme&lt;/li&gt;&lt;li&gt;nethical6/conversation-steganography&lt;/li&gt;&lt;li&gt;pablostanley/yoinks&lt;/li&gt;&lt;li&gt;KubeezMedia/kubeez-scroll-world-video&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

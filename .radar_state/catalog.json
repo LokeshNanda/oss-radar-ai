@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "AI & Agents",
+      "date_featured": "2026-10-12",
+      "description": null,
+      "full_name": "openai/math",
+      "html_url": "https://github.com/openai/math",
+      "id": 1407950271,
+      "language": "Lean",
+      "page": "repos/openai--math.md",
+      "stars_at_feature": 14295
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "full_name": "storytold/wordcraft",
+      "html_url": "https://github.com/storytold/wordcraft",
+      "id": 1408489772,
+      "language": "Rust",
+      "page": "repos/storytold--wordcraft.md",
+      "stars_at_feature": 7771
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "full_name": "wheresryan22/anatomy",
+      "html_url": "https://github.com/wheresryan22/anatomy",
+      "id": 1410124849,
+      "language": "JavaScript",
+      "page": "repos/wheresryan22--anatomy.md",
+      "stars_at_feature": 4847
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+      "full_name": "alchaincyf/huashu-art-motion",
+      "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "id": 1406706284,
+      "language": "JavaScript",
+      "page": "repos/alchaincyf--huashu-art-motion.md",
+      "stars_at_feature": 3544
+    },
+    {
+      "category": "Security",
+      "date_featured": "2026-10-12",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "full_name": "mhtsec/ARTEX",
+      "html_url": "https://github.com/mhtsec/ARTEX",
+      "id": 1409787646,
+      "language": "Go",
+      "page": "repos/mhtsec--artex.md",
+      "stars_at_feature": 3490
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "full_name": "storytold/gridcraft",
+      "html_url": "https://github.com/storytold/gridcraft",
+      "id": 1408285582,
+      "language": "Rust",
+      "page": "repos/storytold--gridcraft.md",
+      "stars_at_feature": 3391
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+      "full_name": "zhongerxin/iPhone-use",
+      "html_url": "https://github.com/zhongerxin/iPhone-use",
+      "id": 1407504032,
+      "language": "Python",
+      "page": "repos/zhongerxin--iphone-use.md",
+      "stars_at_feature": 3305
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+      "full_name": "storytold/cadcraft",
+      "html_url": "https://github.com/storytold/cadcraft",
+      "id": 1408289866,
+      "language": "Rust",
+      "page": "repos/storytold--cadcraft.md",
+      "stars_at_feature": 3077
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-12",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "full_name": "LosaLosSantos/aurelio-finance",
+      "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "id": 1407873347,
+      "language": "Python",
+      "page": "repos/losalossantos--aurelio-finance.md",
+      "stars_at_feature": 2690
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "full_name": "nullmoth/nvidia-macos-driver",
+      "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "id": 1408465463,
+      "language": "Rust",
+      "page": "repos/nullmoth--nvidia-macos-driver.md",
+      "stars_at_feature": 2673
+    },
+    {
+      "category": "AI & Agents",
       "date_featured": "2026-10-05",
       "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
       "full_name": "KKKKhazix/AIHOT",

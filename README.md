@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-10-05_
+_Week of 2026-10-12_
 
-- [`KKKKhazix/AIHOT`](https://github.com/KKKKhazix/AIHOT) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kkkkhazix--aihot/))
-- [`rehan-remade/universal-modder`](https://github.com/rehan-remade/universal-modder) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/rehan-remade--universal-modder/))
-- [`CopilotKit/OpenDots`](https://github.com/CopilotKit/OpenDots) — Your always-on AI coworkers that move between text, calls, and Slack. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/copilotkit--opendots/))
-- [`feder-cr/dots`](https://github.com/feder-cr/dots) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/feder-cr--dots/))
-- [`nanaism/yomiyasu`](https://github.com/nanaism/yomiyasu) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nanaism--yomiyasu/))
-- [`storytold/photocraft`](https://github.com/storytold/photocraft) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--photocraft/))
-- [`wy51ai/floorplan-3d`](https://github.com/wy51ai/floorplan-3d) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wy51ai--floorplan-3d/))
-- [`firelex/jeff`](https://github.com/firelex/jeff) — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/firelex--jeff/))
-- [`facebookincubator/muse-gadget-sdk`](https://github.com/facebookincubator/muse-gadget-sdk) — Open source SDK to build Muse gadgets ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/facebookincubator--muse-gadget-sdk/))
-- [`QingYunA/answer-me-with-html`](https://github.com/QingYunA/answer-me-with-html) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/qingyuna--answer-me-with-html/))
+- [`openai/math`](https://github.com/openai/math) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/openai--math/))
+- [`storytold/wordcraft`](https://github.com/storytold/wordcraft) — An open-source, clean-room reimplementation of Microsoft Word in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--wordcraft/))
+- [`wheresryan22/anatomy`](https://github.com/wheresryan22/anatomy) — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wheresryan22--anatomy/))
+- [`alchaincyf/huashu-art-motion`](https://github.com/alchaincyf/huashu-art-motion) — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/alchaincyf--huashu-art-motion/))
+- [`mhtsec/ARTEX`](https://github.com/mhtsec/ARTEX) — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mhtsec--artex/))
+- [`storytold/gridcraft`](https://github.com/storytold/gridcraft) — GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--gridcraft/))
+- [`zhongerxin/iPhone-use`](https://github.com/zhongerxin/iPhone-use) — 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/zhongerxin--iphone-use/))
+- [`storytold/cadcraft`](https://github.com/storytold/cadcraft) — CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--cadcraft/))
+- [`LosaLosSantos/aurelio-finance`](https://github.com/LosaLosSantos/aurelio-finance) — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/losalossantos--aurelio-finance/))
+- [`nullmoth/nvidia-macos-driver`](https://github.com/nullmoth/nvidia-macos-driver) — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nullmoth--nvidia-macos-driver/))
 <!-- RADAR:END -->
 
 ---

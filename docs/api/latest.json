@@ -1,115 +1,115 @@
 {
-  "generated_on": "2026-10-05",
+  "generated_on": "2026-10-12",
   "repos": [
     {
       "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "\u4e00\u4e2a\u81ea\u5df1\u627e\u70ed\u70b9\u3001\u81ea\u5df1\u5199\u65e5\u62a5\u7684\u7f51\u7ad9\u6846\u67b6\u3002\u628a\u4fe1\u6e90\u548c\u7cbe\u9009\u6807\u51c6\u6362\u6210\u4f60\u7684\uff0c\u5b83\u5c31\u662f\u4f60\u7684\u884c\u4e1a\u70ed\u70b9\u7ad9\u3002",
-      "full_name": "KKKKhazix/AIHOT",
-      "html_url": "https://github.com/KKKKhazix/AIHOT",
-      "id": 1393965829,
-      "language": "TypeScript",
-      "page": "repos/kkkkhazix--aihot.md",
-      "stars_at_feature": 5914
-    },
-    {
-      "category": "Developer Tools",
-      "date_featured": "2026-10-05",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "full_name": "rehan-remade/universal-modder",
-      "html_url": "https://github.com/rehan-remade/universal-modder",
-      "id": 1397016507,
-      "language": "Python",
-      "page": "repos/rehan-remade--universal-modder.md",
-      "stars_at_feature": 3538
-    },
-    {
-      "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "full_name": "CopilotKit/OpenDots",
-      "html_url": "https://github.com/CopilotKit/OpenDots",
-      "id": 1396117711,
-      "language": "TypeScript",
-      "page": "repos/copilotkit--opendots.md",
-      "stars_at_feature": 3425
-    },
-    {
-      "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "full_name": "feder-cr/dots",
-      "html_url": "https://github.com/feder-cr/dots",
-      "id": 1396688303,
-      "language": "Python",
-      "page": "repos/feder-cr--dots.md",
-      "stars_at_feature": 2610
-    },
-    {
-      "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "full_name": "nanaism/yomiyasu",
-      "html_url": "https://github.com/nanaism/yomiyasu",
-      "id": 1397771878,
-      "language": "Python",
-      "page": "repos/nanaism--yomiyasu.md",
-      "stars_at_feature": 1473
-    },
-    {
-      "category": "Other",
-      "date_featured": "2026-10-05",
-      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "full_name": "storytold/photocraft",
-      "html_url": "https://github.com/storytold/photocraft",
-      "id": 1398080271,
-      "language": "Rust",
-      "page": "repos/storytold--photocraft.md",
-      "stars_at_feature": 1439
-    },
-    {
-      "category": "Web & Frontend",
-      "date_featured": "2026-10-05",
+      "date_featured": "2026-10-12",
       "description": null,
-      "full_name": "wy51ai/floorplan-3d",
-      "html_url": "https://github.com/wy51ai/floorplan-3d",
-      "id": 1394134758,
-      "language": "HTML",
-      "page": "repos/wy51ai--floorplan-3d.md",
-      "stars_at_feature": 1412
-    },
-    {
-      "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "full_name": "firelex/jeff",
-      "html_url": "https://github.com/firelex/jeff",
-      "id": 1393229560,
-      "language": "Python",
-      "page": "repos/firelex--jeff.md",
-      "stars_at_feature": 1380
+      "full_name": "openai/math",
+      "html_url": "https://github.com/openai/math",
+      "id": 1407950271,
+      "language": "Lean",
+      "page": "repos/openai--math.md",
+      "stars_at_feature": 14295
     },
     {
       "category": "Developer Tools",
-      "date_featured": "2026-10-05",
-      "description": "Open source SDK to build Muse gadgets",
-      "full_name": "facebookincubator/muse-gadget-sdk",
-      "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
-      "id": 1402193143,
-      "language": "C",
-      "page": "repos/facebookincubator--muse-gadget-sdk.md",
-      "stars_at_feature": 1327
+      "date_featured": "2026-10-12",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "full_name": "storytold/wordcraft",
+      "html_url": "https://github.com/storytold/wordcraft",
+      "id": 1408489772,
+      "language": "Rust",
+      "page": "repos/storytold--wordcraft.md",
+      "stars_at_feature": 7771
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "full_name": "wheresryan22/anatomy",
+      "html_url": "https://github.com/wheresryan22/anatomy",
+      "id": 1410124849,
+      "language": "JavaScript",
+      "page": "repos/wheresryan22--anatomy.md",
+      "stars_at_feature": 4847
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+      "full_name": "alchaincyf/huashu-art-motion",
+      "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+      "id": 1406706284,
+      "language": "JavaScript",
+      "page": "repos/alchaincyf--huashu-art-motion.md",
+      "stars_at_feature": 3544
+    },
+    {
+      "category": "Security",
+      "date_featured": "2026-10-12",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "full_name": "mhtsec/ARTEX",
+      "html_url": "https://github.com/mhtsec/ARTEX",
+      "id": 1409787646,
+      "language": "Go",
+      "page": "repos/mhtsec--artex.md",
+      "stars_at_feature": 3490
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "full_name": "storytold/gridcraft",
+      "html_url": "https://github.com/storytold/gridcraft",
+      "id": 1408285582,
+      "language": "Rust",
+      "page": "repos/storytold--gridcraft.md",
+      "stars_at_feature": 3391
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+      "full_name": "zhongerxin/iPhone-use",
+      "html_url": "https://github.com/zhongerxin/iPhone-use",
+      "id": 1407504032,
+      "language": "Python",
+      "page": "repos/zhongerxin--iphone-use.md",
+      "stars_at_feature": 3305
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure Rust",
+      "full_name": "storytold/cadcraft",
+      "html_url": "https://github.com/storytold/cadcraft",
+      "id": 1408289866,
+      "language": "Rust",
+      "page": "repos/storytold--cadcraft.md",
+      "stars_at_feature": 3077
     },
     {
       "category": "AI & Agents",
-      "date_featured": "2026-10-05",
-      "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-      "full_name": "QingYunA/answer-me-with-html",
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "id": 1401476500,
-      "language": "JavaScript",
-      "page": "repos/qingyuna--answer-me-with-html.md",
-      "stars_at_feature": 1314
+      "date_featured": "2026-10-12",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "full_name": "LosaLosSantos/aurelio-finance",
+      "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "id": 1407873347,
+      "language": "Python",
+      "page": "repos/losalossantos--aurelio-finance.md",
+      "stars_at_feature": 2690
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-12",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "full_name": "nullmoth/nvidia-macos-driver",
+      "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "id": 1408465463,
+      "language": "Rust",
+      "page": "repos/nullmoth--nvidia-macos-driver.md",
+      "stars_at_feature": 2673
     }
   ]
 }
