@@ -4,6 +4,10 @@ title: Other
 
 # Other
 
+- [`jhaizhou-ops/d2r-mobile`](../repos/jhaizhou-ops--d2r-mobile.md) — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 (⭐ 3991, week of 2026-10-19)
+- [`HeyPuter/everything`](../repos/heyputer--everything.md) — We're rebuilding and open-sourcing the world’s software from scratch. (⭐ 2269, week of 2026-10-19)
+- [`Supermedo/uncharted_pc`](../repos/supermedo--uncharted-pc.md) — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo (⭐ 1497, week of 2026-10-19)
+- [`ly05010419/MacNativeGames`](../repos/ly05010419--macnativegames.md) (⭐ 1281, week of 2026-10-19)
 - [`storytold/photocraft`](../repos/storytold--photocraft.md) — An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (⭐ 1439, week of 2026-10-05)
 - [`JohnHeibel/PDoomVideo`](../repos/johnheibel--pdoomvideo.md) — Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) (⭐ 1349, week of 2026-09-28)
 - [`sdli1995/dlssg_for_sm86`](../repos/sdli1995--dlssg-for-sm86.md) — Here is a dlssg for RTX30 Series GPU (⭐ 2570, week of 2026-09-14)

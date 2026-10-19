@@ -4,6 +4,9 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`Gathin23/cleanyourtv`](../repos/gathin23--cleanyourtv.md) — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv (⭐ 3264, week of 2026-10-19)
+- [`feder-cr/git-ai`](../repos/feder-cr--git-ai.md) — Git designed for AI agents. (⭐ 2367, week of 2026-10-19)
+- [`ahwootech/BRUTAL`](../repos/ahwootech--brutal.md) — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine. (⭐ 1941, week of 2026-10-19)
 - [`storytold/wordcraft`](../repos/storytold--wordcraft.md) — An open-source, clean-room reimplementation of Microsoft Word in pure Rust (⭐ 7771, week of 2026-10-12)
 - [`wheresryan22/anatomy`](../repos/wheresryan22--anatomy.md) — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. (⭐ 4847, week of 2026-10-12)
 - [`alchaincyf/huashu-art-motion`](../repos/alchaincyf--huashu-art-motion.md) — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 (⭐ 3544, week of 2026-10-12)

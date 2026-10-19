@@ -4,6 +4,8 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`Arekejoker/qwen21-nsfw-pose-skill`](../repos/arekejoker--qwen21-nsfw-pose-skill.md) — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw (⭐ 3264, week of 2026-10-19)
+- [`chenglou/handwired`](../repos/chenglou--handwired.md) — Turn your regular JavaScript code into a neural net. (⭐ 1770, week of 2026-10-19)
 - [`openai/math`](../repos/openai--math.md) (⭐ 14295, week of 2026-10-12)
 - [`LosaLosSantos/aurelio-finance`](../repos/losalossantos--aurelio-finance.md) — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. (⭐ 2690, week of 2026-10-12)
 - [`KKKKhazix/AIHOT`](../repos/kkkkhazix--aihot.md) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 (⭐ 5914, week of 2026-10-05)

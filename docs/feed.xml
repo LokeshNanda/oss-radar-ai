@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-10-19</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-19/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-19/</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;jhaizhou-ops/d2r-mobile — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层&lt;/li&gt;&lt;li&gt;Arekejoker/qwen21-nsfw-pose-skill — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw&lt;/li&gt;&lt;li&gt;Gathin23/cleanyourtv — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv&lt;/li&gt;&lt;li&gt;feder-cr/git-ai — Git designed for AI agents.&lt;/li&gt;&lt;li&gt;deeplethe/solid-glass — A design system for AI applications. Material, physical, tactile, technical.&lt;/li&gt;&lt;li&gt;HeyPuter/everything — We're rebuilding and open-sourcing the world’s software from scratch.&lt;/li&gt;&lt;li&gt;ahwootech/BRUTAL — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.&lt;/li&gt;&lt;li&gt;chenglou/handwired — Turn your regular JavaScript code into a neural net.&lt;/li&gt;&lt;li&gt;Supermedo/uncharted_pc — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo&lt;/li&gt;&lt;li&gt;ly05010419/MacNativeGames&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-10-12</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-12/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-12/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-27/</guid>
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;slvDev/esp32-ai&lt;/li&gt;&lt;li&gt;mikiarlo3/ai-copywriter — An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.&lt;/li&gt;&lt;li&gt;mshumer/Claude-of-Duty — A Call of Duty-quality FPS in Three.js, built from a single prompt.&lt;/li&gt;&lt;li&gt;gnipbao/story-to-handdrawn-video — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).&lt;/li&gt;&lt;li&gt;makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-07-24</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-24/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-24/</guid>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;andrewyng/openworker&lt;/li&gt;&lt;li&gt;lopopolo/harness-engineering — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering&lt;/li&gt;&lt;li&gt;MIgHTy-alIeN/MEV-Arbitrage-Bot — An arbitrage bot is a smart contract connected to an external automation script that controls its operation.&lt;/li&gt;&lt;li&gt;nyblnet/bento&lt;/li&gt;&lt;li&gt;Vincentwei1021/video-shotcraft — AI video skill for Claude Code &amp;amp; Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template&lt;/li&gt;&lt;li&gt;Jakubantalik/thinking-orbs — Dotted thought-orb loading indicators for AI &amp;amp; agent UIs — six tuned states, two sizes, auto dark/light&lt;/li&gt;&lt;li&gt;Blaizzy/nativ — Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.&lt;/li&gt;&lt;li&gt;powerycy/goutoujunshi — 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。&lt;/li&gt;&lt;li&gt;pireel/pireel — Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

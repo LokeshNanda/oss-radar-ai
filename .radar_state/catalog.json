@@ -1,6 +1,116 @@
 {
   "repos": [
     {
+      "category": "Other",
+      "date_featured": "2026-10-19",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
+      "full_name": "jhaizhou-ops/d2r-mobile",
+      "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "id": 1415313946,
+      "language": "C",
+      "page": "repos/jhaizhou-ops--d2r-mobile.md",
+      "stars_at_feature": 3991
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-19",
+      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cursor / OpenClaw",
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "id": 1416386910,
+      "language": "Python",
+      "page": "repos/arekejoker--qwen21-nsfw-pose-skill.md",
+      "stars_at_feature": 3264
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-19",
+      "description": "Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv",
+      "full_name": "Gathin23/cleanyourtv",
+      "html_url": "https://github.com/Gathin23/cleanyourtv",
+      "id": 1423101235,
+      "language": "Java",
+      "page": "repos/gathin23--cleanyourtv.md",
+      "stars_at_feature": 3264
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-19",
+      "description": "Git designed for AI agents.",
+      "full_name": "feder-cr/git-ai",
+      "html_url": "https://github.com/feder-cr/git-ai",
+      "id": 1420751050,
+      "language": "Go",
+      "page": "repos/feder-cr--git-ai.md",
+      "stars_at_feature": 2367
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-10-19",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "full_name": "deeplethe/solid-glass",
+      "html_url": "https://github.com/deeplethe/solid-glass",
+      "id": 1415358670,
+      "language": "TypeScript",
+      "page": "repos/deeplethe--solid-glass.md",
+      "stars_at_feature": 2269
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-19",
+      "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
+      "full_name": "HeyPuter/everything",
+      "html_url": "https://github.com/HeyPuter/everything",
+      "id": 1417456983,
+      "language": "JavaScript",
+      "page": "repos/heyputer--everything.md",
+      "stars_at_feature": 2269
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-19",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "full_name": "ahwootech/BRUTAL",
+      "html_url": "https://github.com/ahwootech/BRUTAL",
+      "id": 1419746236,
+      "language": "C#",
+      "page": "repos/ahwootech--brutal.md",
+      "stars_at_feature": 1941
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-10-19",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "full_name": "chenglou/handwired",
+      "html_url": "https://github.com/chenglou/handwired",
+      "id": 1420063501,
+      "language": "TypeScript",
+      "page": "repos/chenglou--handwired.md",
+      "stars_at_feature": 1770
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-19",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "full_name": "Supermedo/uncharted_pc",
+      "html_url": "https://github.com/Supermedo/uncharted_pc",
+      "id": 1419982962,
+      "language": "C++",
+      "page": "repos/supermedo--uncharted-pc.md",
+      "stars_at_feature": 1497
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-19",
+      "description": null,
+      "full_name": "ly05010419/MacNativeGames",
+      "html_url": "https://github.com/ly05010419/MacNativeGames",
+      "id": 1423689866,
+      "language": "C",
+      "page": "repos/ly05010419--macnativegames.md",
+      "stars_at_feature": 1281
+    },
+    {
       "category": "AI & Agents",
       "date_featured": "2026-10-12",
       "description": null,

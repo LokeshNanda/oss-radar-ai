@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-10-12_
+_Week of 2026-10-19_
 
-- [`openai/math`](https://github.com/openai/math) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/openai--math/))
-- [`storytold/wordcraft`](https://github.com/storytold/wordcraft) — An open-source, clean-room reimplementation of Microsoft Word in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--wordcraft/))
-- [`wheresryan22/anatomy`](https://github.com/wheresryan22/anatomy) — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wheresryan22--anatomy/))
-- [`alchaincyf/huashu-art-motion`](https://github.com/alchaincyf/huashu-art-motion) — 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/alchaincyf--huashu-art-motion/))
-- [`mhtsec/ARTEX`](https://github.com/mhtsec/ARTEX) — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/mhtsec--artex/))
-- [`storytold/gridcraft`](https://github.com/storytold/gridcraft) — GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--gridcraft/))
-- [`zhongerxin/iPhone-use`](https://github.com/zhongerxin/iPhone-use) — 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/zhongerxin--iphone-use/))
-- [`storytold/cadcraft`](https://github.com/storytold/cadcraft) — CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--cadcraft/))
-- [`LosaLosSantos/aurelio-finance`](https://github.com/LosaLosSantos/aurelio-finance) — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/losalossantos--aurelio-finance/))
-- [`nullmoth/nvidia-macos-driver`](https://github.com/nullmoth/nvidia-macos-driver) — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/nullmoth--nvidia-macos-driver/))
+- [`jhaizhou-ops/d2r-mobile`](https://github.com/jhaizhou-ops/d2r-mobile) — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jhaizhou-ops--d2r-mobile/))
+- [`Arekejoker/qwen21-nsfw-pose-skill`](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/arekejoker--qwen21-nsfw-pose-skill/))
+- [`Gathin23/cleanyourtv`](https://github.com/Gathin23/cleanyourtv) — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/gathin23--cleanyourtv/))
+- [`feder-cr/git-ai`](https://github.com/feder-cr/git-ai) — Git designed for AI agents. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/feder-cr--git-ai/))
+- [`deeplethe/solid-glass`](https://github.com/deeplethe/solid-glass) — A design system for AI applications. Material, physical, tactile, technical. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deeplethe--solid-glass/))
+- [`HeyPuter/everything`](https://github.com/HeyPuter/everything) — We're rebuilding and open-sourcing the world’s software from scratch. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/heyputer--everything/))
+- [`ahwootech/BRUTAL`](https://github.com/ahwootech/BRUTAL) — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ahwootech--brutal/))
+- [`chenglou/handwired`](https://github.com/chenglou/handwired) — Turn your regular JavaScript code into a neural net. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/chenglou--handwired/))
+- [`Supermedo/uncharted_pc`](https://github.com/Supermedo/uncharted_pc) — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/supermedo--uncharted-pc/))
+- [`ly05010419/MacNativeGames`](https://github.com/ly05010419/MacNativeGames) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ly05010419--macnativegames/))
 <!-- RADAR:END -->
 
 ---
