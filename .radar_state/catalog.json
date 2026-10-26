@@ -2,6 +2,116 @@
   "repos": [
     {
       "category": "Other",
+      "date_featured": "2026-10-26",
+      "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "full_name": "pengchujin/aerial-tv",
+      "html_url": "https://github.com/pengchujin/aerial-tv",
+      "id": 1426780056,
+      "language": "Kotlin",
+      "page": "repos/pengchujin--aerial-tv.md",
+      "stars_at_feature": 5757
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-26",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "full_name": "simbasjungles/free-my-tv",
+      "html_url": "https://github.com/simbasjungles/free-my-tv",
+      "id": 1426080579,
+      "language": "Java",
+      "page": "repos/simbasjungles--free-my-tv.md",
+      "stars_at_feature": 4713
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-26",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "full_name": "JustAResearcher/gpu-unlock-ada",
+      "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "id": 1431545439,
+      "language": "C",
+      "page": "repos/justaresearcher--gpu-unlock-ada.md",
+      "stars_at_feature": 3461
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-26",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "full_name": "JoasASantos/REA-Prompts",
+      "html_url": "https://github.com/JoasASantos/REA-Prompts",
+      "id": 1426240325,
+      "language": "Batchfile",
+      "page": "repos/joasasantos--rea-prompts.md",
+      "stars_at_feature": 2601
+    },
+    {
+      "category": "Security",
+      "date_featured": "2026-10-26",
+      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "full_name": "EthanArbuckle/fairplay-decrypt",
+      "html_url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "id": 1425429552,
+      "language": "C",
+      "page": "repos/ethanarbuckle--fairplay-decrypt.md",
+      "stars_at_feature": 2152
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-10-26",
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "full_name": "wesbos/3d-model-anything",
+      "html_url": "https://github.com/wesbos/3d-model-anything",
+      "id": 1428848843,
+      "language": "Swift",
+      "page": "repos/wesbos--3d-model-anything.md",
+      "stars_at_feature": 2012
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-26",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "full_name": "xevrion/hatchzip",
+      "html_url": "https://github.com/xevrion/hatchzip",
+      "id": 1428714039,
+      "language": "Rust",
+      "page": "repos/xevrion--hatchzip.md",
+      "stars_at_feature": 2001
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-10-26",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "full_name": "Jakeschincariol/day-trader-skill",
+      "html_url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "id": 1427126014,
+      "language": "Python",
+      "page": "repos/jakeschincariol--day-trader-skill.md",
+      "stars_at_feature": 1849
+    },
+    {
+      "category": "Security",
+      "date_featured": "2026-10-26",
+      "description": "CVE-2026-109618/109619 \u2014 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "full_name": "ikow/php2shell-poc",
+      "html_url": "https://github.com/ikow/php2shell-poc",
+      "id": 1428058681,
+      "language": "Python",
+      "page": "repos/ikow--php2shell-poc.md",
+      "stars_at_feature": 1818
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-10-26",
+      "description": null,
+      "full_name": "oosexgang/hackios-xnu-kernel",
+      "html_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "id": 1429328794,
+      "language": "C",
+      "page": "repos/oosexgang--hackios-xnu-kernel.md",
+      "stars_at_feature": 1551
+    },
+    {
+      "category": "Other",
       "date_featured": "2026-10-19",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac \u2014 full touch controls, 60 fps, new endgame modes. Bring your own game files. \u5f00\u6e90\u7684\u300a\u6697\u9ed1\u7834\u574f\u795e II\uff1a\u72f1\u706b\u91cd\u751f\u300b\u672f\u58eb\u541b\u4e34 iOS / macOS \u517c\u5bb9\u5c42",
       "full_name": "jhaizhou-ops/d2r-mobile",

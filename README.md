@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-10-19_
+_Week of 2026-10-26_
 
-- [`jhaizhou-ops/d2r-mobile`](https://github.com/jhaizhou-ops/d2r-mobile) — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jhaizhou-ops--d2r-mobile/))
-- [`Arekejoker/qwen21-nsfw-pose-skill`](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/arekejoker--qwen21-nsfw-pose-skill/))
-- [`Gathin23/cleanyourtv`](https://github.com/Gathin23/cleanyourtv) — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/gathin23--cleanyourtv/))
-- [`feder-cr/git-ai`](https://github.com/feder-cr/git-ai) — Git designed for AI agents. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/feder-cr--git-ai/))
-- [`deeplethe/solid-glass`](https://github.com/deeplethe/solid-glass) — A design system for AI applications. Material, physical, tactile, technical. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deeplethe--solid-glass/))
-- [`HeyPuter/everything`](https://github.com/HeyPuter/everything) — We're rebuilding and open-sourcing the world’s software from scratch. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/heyputer--everything/))
-- [`ahwootech/BRUTAL`](https://github.com/ahwootech/BRUTAL) — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ahwootech--brutal/))
-- [`chenglou/handwired`](https://github.com/chenglou/handwired) — Turn your regular JavaScript code into a neural net. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/chenglou--handwired/))
-- [`Supermedo/uncharted_pc`](https://github.com/Supermedo/uncharted_pc) — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/supermedo--uncharted-pc/))
-- [`ly05010419/MacNativeGames`](https://github.com/ly05010419/MacNativeGames) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ly05010419--macnativegames/))
+- [`pengchujin/aerial-tv`](https://github.com/pengchujin/aerial-tv) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pengchujin--aerial-tv/))
+- [`simbasjungles/free-my-tv`](https://github.com/simbasjungles/free-my-tv) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/simbasjungles--free-my-tv/))
+- [`JustAResearcher/gpu-unlock-ada`](https://github.com/JustAResearcher/gpu-unlock-ada) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/justaresearcher--gpu-unlock-ada/))
+- [`JoasASantos/REA-Prompts`](https://github.com/JoasASantos/REA-Prompts) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/joasasantos--rea-prompts/))
+- [`EthanArbuckle/fairplay-decrypt`](https://github.com/EthanArbuckle/fairplay-decrypt) — Offline FairPlay App Store IPA decryption with independent key derivation ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ethanarbuckle--fairplay-decrypt/))
+- [`wesbos/3d-model-anything`](https://github.com/wesbos/3d-model-anything) — Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wesbos--3d-model-anything/))
+- [`xevrion/hatchzip`](https://github.com/xevrion/hatchzip) — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xevrion--hatchzip/))
+- [`Jakeschincariol/day-trader-skill`](https://github.com/Jakeschincariol/day-trader-skill) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jakeschincariol--day-trader-skill/))
+- [`ikow/php2shell-poc`](https://github.com/ikow/php2shell-poc) — CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ikow--php2shell-poc/))
+- [`oosexgang/hackios-xnu-kernel`](https://github.com/oosexgang/hackios-xnu-kernel) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/oosexgang--hackios-xnu-kernel/))
 <!-- RADAR:END -->
 
 ---

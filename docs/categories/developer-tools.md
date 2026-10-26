@@ -4,6 +4,10 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`JustAResearcher/gpu-unlock-ada`](../repos/justaresearcher--gpu-unlock-ada.md) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally (⭐ 3461, week of 2026-10-26)
+- [`JoasASantos/REA-Prompts`](../repos/joasasantos--rea-prompts.md) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program (⭐ 2601, week of 2026-10-26)
+- [`xevrion/hatchzip`](../repos/xevrion--hatchzip.md) — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI. (⭐ 2001, week of 2026-10-26)
+- [`Jakeschincariol/day-trader-skill`](../repos/jakeschincariol--day-trader-skill.md) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (⭐ 1849, week of 2026-10-26)
 - [`Gathin23/cleanyourtv`](../repos/gathin23--cleanyourtv.md) — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv (⭐ 3264, week of 2026-10-19)
 - [`feder-cr/git-ai`](../repos/feder-cr--git-ai.md) — Git designed for AI agents. (⭐ 2367, week of 2026-10-19)
 - [`ahwootech/BRUTAL`](../repos/ahwootech--brutal.md) — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine. (⭐ 1941, week of 2026-10-19)

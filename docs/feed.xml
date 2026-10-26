@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-10-26</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-26/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-26/</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;pengchujin/aerial-tv — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.&lt;/li&gt;&lt;li&gt;simbasjungles/free-my-tv — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.&lt;/li&gt;&lt;li&gt;JustAResearcher/gpu-unlock-ada — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally&lt;/li&gt;&lt;li&gt;JoasASantos/REA-Prompts — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program&lt;/li&gt;&lt;li&gt;EthanArbuckle/fairplay-decrypt — Offline FairPlay App Store IPA decryption with independent key derivation&lt;/li&gt;&lt;li&gt;wesbos/3d-model-anything — Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.&lt;/li&gt;&lt;li&gt;xevrion/hatchzip — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.&lt;/li&gt;&lt;li&gt;Jakeschincariol/day-trader-skill — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.&lt;/li&gt;&lt;li&gt;ikow/php2shell-poc — CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.&lt;/li&gt;&lt;li&gt;oosexgang/hackios-xnu-kernel&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-10-19</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-19/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-19/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-03/</guid>
 <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;MoonshotAI/Kimi-K3 — Open Frontier Intelligence&lt;/li&gt;&lt;li&gt;yc-software/qm — Multiplayer agent harness for work&lt;/li&gt;&lt;li&gt;bashalarmistalt/decimen-optical-transfer&lt;/li&gt;&lt;li&gt;trycompai/crm — An open-source, agentic-first CRM.&lt;/li&gt;&lt;li&gt;QwenAudio/qwen-audio-agent — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents&lt;/li&gt;&lt;li&gt;xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）&lt;/li&gt;&lt;li&gt;sqliteai/waste — Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.&lt;/li&gt;&lt;li&gt;microsoft/skill-recorder — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.&lt;/li&gt;&lt;li&gt;xikhar/persona — Bringing real-time voice to life.&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-07-27</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-27/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-07-27/</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;slvDev/esp32-ai&lt;/li&gt;&lt;li&gt;mikiarlo3/ai-copywriter — An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.&lt;/li&gt;&lt;li&gt;mshumer/Claude-of-Duty — A Call of Duty-quality FPS in Three.js, built from a single prompt.&lt;/li&gt;&lt;li&gt;gnipbao/story-to-handdrawn-video — Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).&lt;/li&gt;&lt;li&gt;makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

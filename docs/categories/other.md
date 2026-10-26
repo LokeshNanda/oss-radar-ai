@@ -4,6 +4,9 @@ title: Other
 
 # Other
 
+- [`pengchujin/aerial-tv`](../repos/pengchujin--aerial-tv.md) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. (⭐ 5757, week of 2026-10-26)
+- [`simbasjungles/free-my-tv`](../repos/simbasjungles--free-my-tv.md) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. (⭐ 4713, week of 2026-10-26)
+- [`oosexgang/hackios-xnu-kernel`](../repos/oosexgang--hackios-xnu-kernel.md) (⭐ 1551, week of 2026-10-26)
 - [`jhaizhou-ops/d2r-mobile`](../repos/jhaizhou-ops--d2r-mobile.md) — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 (⭐ 3991, week of 2026-10-19)
 - [`HeyPuter/everything`](../repos/heyputer--everything.md) — We're rebuilding and open-sourcing the world’s software from scratch. (⭐ 2269, week of 2026-10-19)
 - [`Supermedo/uncharted_pc`](../repos/supermedo--uncharted-pc.md) — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo (⭐ 1497, week of 2026-10-19)

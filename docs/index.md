@@ -6,20 +6,20 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-10-19_
+_Generated on 2026-10-26_
 
 ## Latest repositories
 
-- [`jhaizhou-ops/d2r-mobile`](repos/jhaizhou-ops--d2r-mobile.md) — Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
-- [`Arekejoker/qwen21-nsfw-pose-skill`](repos/arekejoker--qwen21-nsfw-pose-skill.md) — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
-- [`Gathin23/cleanyourtv`](repos/gathin23--cleanyourtv.md) — Clean Your TV. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible. cleanyour.tv
-- [`feder-cr/git-ai`](repos/feder-cr--git-ai.md) — Git designed for AI agents.
-- [`HeyPuter/everything`](repos/heyputer--everything.md) — We're rebuilding and open-sourcing the world’s software from scratch.
-- [`deeplethe/solid-glass`](repos/deeplethe--solid-glass.md) — A design system for AI applications. Material, physical, tactile, technical.
-- [`ahwootech/BRUTAL`](repos/ahwootech--brutal.md) — A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
-- [`chenglou/handwired`](repos/chenglou--handwired.md) — Turn your regular JavaScript code into a neural net.
-- [`Supermedo/uncharted_pc`](repos/supermedo--uncharted-pc.md) — Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
-- [`ly05010419/MacNativeGames`](repos/ly05010419--macnativegames.md)
+- [`pengchujin/aerial-tv`](repos/pengchujin--aerial-tv.md) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+- [`simbasjungles/free-my-tv`](repos/simbasjungles--free-my-tv.md) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- [`JustAResearcher/gpu-unlock-ada`](repos/justaresearcher--gpu-unlock-ada.md) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+- [`JoasASantos/REA-Prompts`](repos/joasasantos--rea-prompts.md) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
+- [`EthanArbuckle/fairplay-decrypt`](repos/ethanarbuckle--fairplay-decrypt.md) — Offline FairPlay App Store IPA decryption with independent key derivation
+- [`wesbos/3d-model-anything`](repos/wesbos--3d-model-anything.md) — Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
+- [`xevrion/hatchzip`](repos/xevrion--hatchzip.md) — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
+- [`Jakeschincariol/day-trader-skill`](repos/jakeschincariol--day-trader-skill.md) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
+- [`ikow/php2shell-poc`](repos/ikow--php2shell-poc.md) — CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+- [`oosexgang/hackios-xnu-kernel`](repos/oosexgang--hackios-xnu-kernel.md)
 
 [Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
 
