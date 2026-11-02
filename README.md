@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-10-26_
+_Week of 2026-11-02_
 
-- [`pengchujin/aerial-tv`](https://github.com/pengchujin/aerial-tv) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/pengchujin--aerial-tv/))
-- [`simbasjungles/free-my-tv`](https://github.com/simbasjungles/free-my-tv) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/simbasjungles--free-my-tv/))
-- [`JustAResearcher/gpu-unlock-ada`](https://github.com/JustAResearcher/gpu-unlock-ada) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/justaresearcher--gpu-unlock-ada/))
-- [`JoasASantos/REA-Prompts`](https://github.com/JoasASantos/REA-Prompts) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/joasasantos--rea-prompts/))
-- [`EthanArbuckle/fairplay-decrypt`](https://github.com/EthanArbuckle/fairplay-decrypt) — Offline FairPlay App Store IPA decryption with independent key derivation ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ethanarbuckle--fairplay-decrypt/))
-- [`wesbos/3d-model-anything`](https://github.com/wesbos/3d-model-anything) — Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wesbos--3d-model-anything/))
-- [`xevrion/hatchzip`](https://github.com/xevrion/hatchzip) — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/xevrion--hatchzip/))
-- [`Jakeschincariol/day-trader-skill`](https://github.com/Jakeschincariol/day-trader-skill) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jakeschincariol--day-trader-skill/))
-- [`ikow/php2shell-poc`](https://github.com/ikow/php2shell-poc) — CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/ikow--php2shell-poc/))
-- [`oosexgang/hackios-xnu-kernel`](https://github.com/oosexgang/hackios-xnu-kernel) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/oosexgang--hackios-xnu-kernel/))
+- [`deepseek-ai/dsh-superagent-prototype`](https://github.com/deepseek-ai/dsh-superagent-prototype) — Towards a More Autonomous Agent System ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deepseek-ai--dsh-superagent-prototype/))
+- [`heydamir/unslop`](https://github.com/heydamir/unslop) — A Claude skill that turns vibecoded, AI-looking UI into a designed interface ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/heydamir--unslop/))
+- [`anhao/ai-pose-gallery-zh`](https://github.com/anhao/ai-pose-gallery-zh) — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/anhao--ai-pose-gallery-zh/))
+- [`wangzan101/Mika`](https://github.com/wangzan101/Mika) — An on-device AI agent for Android that operates apps and the web to get things done for you. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wangzan101--mika/))
+- [`valentderah/totk-pc-recomp`](https://github.com/valentderah/totk-pc-recomp) — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/valentderah--totk-pc-recomp/))
+- [`patch-gg/pixelfx`](https://github.com/patch-gg/pixelfx) — 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/patch-gg--pixelfx/))
+- [`storytold/craft-anything`](https://github.com/storytold/craft-anything) — Craft Anything: understand how any software works, and craft your own. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--craft-anything/))
+- [`Djihads80/Eglantine`](https://github.com/Djihads80/Eglantine) — VERY experimental Nintendo Switch 2 emulator ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/djihads80--eglantine/))
+- [`haydenschmitty/floorplan`](https://github.com/haydenschmitty/floorplan) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/haydenschmitty--floorplan/))
+- [`paipiange/nvzhuang`](https://github.com/paipiange/nvzhuang) — 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/paipiange--nvzhuang/))
 <!-- RADAR:END -->
 
 ---

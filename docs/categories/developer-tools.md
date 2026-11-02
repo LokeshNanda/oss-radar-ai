@@ -4,6 +4,7 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`haydenschmitty/floorplan`](../repos/haydenschmitty--floorplan.md) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (⭐ 2072, week of 2026-11-02)
 - [`JustAResearcher/gpu-unlock-ada`](../repos/justaresearcher--gpu-unlock-ada.md) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally (⭐ 3461, week of 2026-10-26)
 - [`JoasASantos/REA-Prompts`](../repos/joasasantos--rea-prompts.md) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program (⭐ 2601, week of 2026-10-26)
 - [`xevrion/hatchzip`](../repos/xevrion--hatchzip.md) — HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI. (⭐ 2001, week of 2026-10-26)

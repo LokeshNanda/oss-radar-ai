@@ -5,6 +5,13 @@
 <link>https://lokeshnanda.github.io/oss-radar-ai/</link>
 <description>AI-curated GitHub trending repositories, updated weekly.</description>
 <item>
+<title>Open Source Radar — Week of 2026-11-02</title>
+<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-11-02/</link>
+<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-11-02/</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;deepseek-ai/dsh-superagent-prototype — Towards a More Autonomous Agent System&lt;/li&gt;&lt;li&gt;heydamir/unslop — A Claude skill that turns vibecoded, AI-looking UI into a designed interface&lt;/li&gt;&lt;li&gt;anhao/ai-pose-gallery-zh — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊&lt;/li&gt;&lt;li&gt;wangzan101/Mika — An on-device AI agent for Android that operates apps and the web to get things done for you.&lt;/li&gt;&lt;li&gt;valentderah/totk-pc-recomp — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.&lt;/li&gt;&lt;li&gt;patch-gg/pixelfx — 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.&lt;/li&gt;&lt;li&gt;storytold/craft-anything — Craft Anything: understand how any software works, and craft your own.&lt;/li&gt;&lt;li&gt;Djihads80/Eglantine — VERY experimental Nintendo Switch 2 emulator&lt;/li&gt;&lt;li&gt;haydenschmitty/floorplan — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.&lt;/li&gt;&lt;li&gt;paipiange/nvzhuang — 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang&lt;/li&gt;&lt;/ul&gt;</description>
+</item>
+<item>
 <title>Open Source Radar — Week of 2026-10-26</title>
 <link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-26/</link>
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-10-26/</guid>
@@ -80,13 +87,6 @@
 <guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-18/</guid>
 <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 <description>&lt;ul&gt;&lt;li&gt;deepseek-ai/deepseek-harness — DeepSeek Harness: Everything is a Plugin.&lt;/li&gt;&lt;li&gt;guillaumemeyer/watermarks-remover — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD&lt;/li&gt;&lt;li&gt;anywhere-labs/deepseek-harness-desktop — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。&lt;/li&gt;&lt;li&gt;awesome-dsh-plugin/awesome-dsh-plugin — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表&lt;/li&gt;&lt;li&gt;yjh051108/dsh-routing-suite — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).&lt;/li&gt;&lt;li&gt;zhu1090093659/dsh-web-ui — Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.&lt;/li&gt;&lt;li&gt;xiaobright/dsh-anchored-standard — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)&lt;/li&gt;&lt;li&gt;dmmulroy/anti-slop — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns&lt;/li&gt;&lt;li&gt;cordiverse/paper — A Programming Paradigm for Spatiotemporal Composability&lt;/li&gt;&lt;li&gt;ccch1mneyyy/dsh-TUI — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.&lt;/li&gt;&lt;/ul&gt;</description>
-</item>
-<item>
-<title>Open Source Radar — Week of 2026-08-03</title>
-<link>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-03/</link>
-<guid>https://lokeshnanda.github.io/oss-radar-ai/reports/2026-08-03/</guid>
-<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-<description>&lt;ul&gt;&lt;li&gt;MoonshotAI/Kimi-K3 — Open Frontier Intelligence&lt;/li&gt;&lt;li&gt;yc-software/qm — Multiplayer agent harness for work&lt;/li&gt;&lt;li&gt;bashalarmistalt/decimen-optical-transfer&lt;/li&gt;&lt;li&gt;trycompai/crm — An open-source, agentic-first CRM.&lt;/li&gt;&lt;li&gt;QwenAudio/qwen-audio-agent — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents&lt;/li&gt;&lt;li&gt;xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）&lt;/li&gt;&lt;li&gt;sqliteai/waste — Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.&lt;/li&gt;&lt;li&gt;microsoft/skill-recorder — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.&lt;/li&gt;&lt;li&gt;xikhar/persona — Bringing real-time voice to life.&lt;/li&gt;&lt;/ul&gt;</description>
 </item>
 </channel>
 </rss>

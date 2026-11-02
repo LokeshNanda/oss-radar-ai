@@ -4,6 +4,7 @@ title: Web & Frontend
 
 # Web & Frontend
 
+- [`patch-gg/pixelfx`](../repos/patch-gg--pixelfx.md) — 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. (⭐ 3239, week of 2026-11-02)
 - [`wesbos/3d-model-anything`](../repos/wesbos--3d-model-anything.md) — Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. (⭐ 2012, week of 2026-10-26)
 - [`deeplethe/solid-glass`](../repos/deeplethe--solid-glass.md) — A design system for AI applications. Material, physical, tactile, technical. (⭐ 2269, week of 2026-10-19)
 - [`wy51ai/floorplan-3d`](../repos/wy51ai--floorplan-3d.md) (⭐ 1412, week of 2026-10-05)

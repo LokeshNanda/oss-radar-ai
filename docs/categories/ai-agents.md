@@ -4,6 +4,12 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`deepseek-ai/dsh-superagent-prototype`](../repos/deepseek-ai--dsh-superagent-prototype.md) — Towards a More Autonomous Agent System (⭐ 11592, week of 2026-11-02)
+- [`heydamir/unslop`](../repos/heydamir--unslop.md) — A Claude skill that turns vibecoded, AI-looking UI into a designed interface (⭐ 5564, week of 2026-11-02)
+- [`anhao/ai-pose-gallery-zh`](../repos/anhao--ai-pose-gallery-zh.md) — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 (⭐ 5424, week of 2026-11-02)
+- [`wangzan101/Mika`](../repos/wangzan101--mika.md) — An on-device AI agent for Android that operates apps and the web to get things done for you. (⭐ 4945, week of 2026-11-02)
+- [`storytold/craft-anything`](../repos/storytold--craft-anything.md) — Craft Anything: understand how any software works, and craft your own. (⭐ 2567, week of 2026-11-02)
+- [`paipiange/nvzhuang`](../repos/paipiange--nvzhuang.md) — 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang (⭐ 2028, week of 2026-11-02)
 - [`Arekejoker/qwen21-nsfw-pose-skill`](../repos/arekejoker--qwen21-nsfw-pose-skill.md) — Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw (⭐ 3264, week of 2026-10-19)
 - [`chenglou/handwired`](../repos/chenglou--handwired.md) — Turn your regular JavaScript code into a neural net. (⭐ 1770, week of 2026-10-19)
 - [`openai/math`](../repos/openai--math.md) (⭐ 14295, week of 2026-10-12)

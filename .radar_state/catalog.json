@@ -1,6 +1,116 @@
 {
   "repos": [
     {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "Towards a More Autonomous Agent System",
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "id": 1440705679,
+      "language": "TypeScript",
+      "page": "repos/deepseek-ai--dsh-superagent-prototype.md",
+      "stars_at_feature": 11592
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "full_name": "heydamir/unslop",
+      "html_url": "https://github.com/heydamir/unslop",
+      "id": 1438623288,
+      "language": "JavaScript",
+      "page": "repos/heydamir--unslop.md",
+      "stars_at_feature": 5564
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "id": 1435695423,
+      "language": "TypeScript",
+      "page": "repos/anhao--ai-pose-gallery-zh.md",
+      "stars_at_feature": 5424
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "full_name": "wangzan101/Mika",
+      "html_url": "https://github.com/wangzan101/Mika",
+      "id": 1438540053,
+      "language": "Kotlin",
+      "page": "repos/wangzan101--mika.md",
+      "stars_at_feature": 4945
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-11-02",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "full_name": "valentderah/totk-pc-recomp",
+      "html_url": "https://github.com/valentderah/totk-pc-recomp",
+      "id": 1438394948,
+      "language": "C",
+      "page": "repos/valentderah--totk-pc-recomp.md",
+      "stars_at_feature": 3644
+    },
+    {
+      "category": "Web & Frontend",
+      "date_featured": "2026-11-02",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "full_name": "patch-gg/pixelfx",
+      "html_url": "https://github.com/patch-gg/pixelfx",
+      "id": 1439372976,
+      "language": "JavaScript",
+      "page": "repos/patch-gg--pixelfx.md",
+      "stars_at_feature": 3239
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "full_name": "storytold/craft-anything",
+      "html_url": "https://github.com/storytold/craft-anything",
+      "id": 1440956372,
+      "language": "Rust",
+      "page": "repos/storytold--craft-anything.md",
+      "stars_at_feature": 2567
+    },
+    {
+      "category": "Other",
+      "date_featured": "2026-11-02",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "full_name": "Djihads80/Eglantine",
+      "html_url": "https://github.com/Djihads80/Eglantine",
+      "id": 1437774066,
+      "language": "C++",
+      "page": "repos/djihads80--eglantine.md",
+      "stars_at_feature": 2251
+    },
+    {
+      "category": "Developer Tools",
+      "date_featured": "2026-11-02",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "full_name": "haydenschmitty/floorplan",
+      "html_url": "https://github.com/haydenschmitty/floorplan",
+      "id": 1435672472,
+      "language": "JavaScript",
+      "page": "repos/haydenschmitty--floorplan.md",
+      "stars_at_feature": 2072
+    },
+    {
+      "category": "AI & Agents",
+      "date_featured": "2026-11-02",
+      "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
+      "full_name": "paipiange/nvzhuang",
+      "html_url": "https://github.com/paipiange/nvzhuang",
+      "id": 1438018242,
+      "language": "Go",
+      "page": "repos/paipiange--nvzhuang.md",
+      "stars_at_feature": 2028
+    },
+    {
       "category": "Other",
       "date_featured": "2026-10-26",
       "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",

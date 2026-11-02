@@ -4,6 +4,8 @@ title: Other
 
 # Other
 
+- [`valentderah/totk-pc-recomp`](../repos/valentderah--totk-pc-recomp.md) — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included. (⭐ 3644, week of 2026-11-02)
+- [`Djihads80/Eglantine`](../repos/djihads80--eglantine.md) — VERY experimental Nintendo Switch 2 emulator (⭐ 2251, week of 2026-11-02)
 - [`pengchujin/aerial-tv`](../repos/pengchujin--aerial-tv.md) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. (⭐ 5757, week of 2026-10-26)
 - [`simbasjungles/free-my-tv`](../repos/simbasjungles--free-my-tv.md) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. (⭐ 4713, week of 2026-10-26)
 - [`oosexgang/hackios-xnu-kernel`](../repos/oosexgang--hackios-xnu-kernel.md) (⭐ 1551, week of 2026-10-26)
