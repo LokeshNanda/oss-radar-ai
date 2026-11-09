@@ -4,6 +4,8 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`KKKKhazix/agent-autoloop`](../repos/kkkkhazix--agent-autoloop.md) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 (⭐ 4245, week of 2026-11-09)
+- [`sarpstar/cinecode`](../repos/sarpstar--cinecode.md) — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. (⭐ 1823, week of 2026-11-09)
 - [`deepseek-ai/dsh-superagent-prototype`](../repos/deepseek-ai--dsh-superagent-prototype.md) — Towards a More Autonomous Agent System (⭐ 11592, week of 2026-11-02)
 - [`heydamir/unslop`](../repos/heydamir--unslop.md) — A Claude skill that turns vibecoded, AI-looking UI into a designed interface (⭐ 5564, week of 2026-11-02)
 - [`anhao/ai-pose-gallery-zh`](../repos/anhao--ai-pose-gallery-zh.md) — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 (⭐ 5424, week of 2026-11-02)

@@ -4,6 +4,11 @@ title: Other
 
 # Other
 
+- [`Minireel/HGhub`](../repos/minireel--hghub.md) — YellowFruit third-party client (⭐ 5077, week of 2026-11-09)
+- [`NotRexed/Hookshot`](../repos/notrexed--hookshot.md) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake (⭐ 3984, week of 2026-11-09)
+- [`tangerineturtle1/NX2navi`](../repos/tangerineturtle1--nx2navi.md) (⭐ 1926, week of 2026-11-09)
+- [`Leviidev/Henge`](../repos/leviidev--henge.md) — Emulate macOS on iOS and iPadOS (⭐ 1442, week of 2026-11-09)
+- [`jhaizhou-ops/S2Arm`](../repos/jhaizhou-ops--s2arm.md) — Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。 (⭐ 1433, week of 2026-11-09)
 - [`valentderah/totk-pc-recomp`](../repos/valentderah--totk-pc-recomp.md) — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included. (⭐ 3644, week of 2026-11-02)
 - [`Djihads80/Eglantine`](../repos/djihads80--eglantine.md) — VERY experimental Nintendo Switch 2 emulator (⭐ 2251, week of 2026-11-02)
 - [`pengchujin/aerial-tv`](../repos/pengchujin--aerial-tv.md) — 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. (⭐ 5757, week of 2026-10-26)

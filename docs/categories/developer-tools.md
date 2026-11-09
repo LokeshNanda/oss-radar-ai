@@ -4,6 +4,9 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`govijr/terminal-mac`](../repos/govijr--terminal-mac.md) — Entire MacOS running in your terminal. (⭐ 2470, week of 2026-11-09)
+- [`JenkinWoo/sheeridVerify`](../repos/jenkinwoo--sheeridverify.md) (⭐ 1905, week of 2026-11-09)
+- [`Sandflow-ai/sand3d`](../repos/sandflow-ai--sand3d.md) — 3D modeling in Python, built for LLMs. (⭐ 1562, week of 2026-11-09)
 - [`haydenschmitty/floorplan`](../repos/haydenschmitty--floorplan.md) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. (⭐ 2072, week of 2026-11-02)
 - [`JustAResearcher/gpu-unlock-ada`](../repos/justaresearcher--gpu-unlock-ada.md) — GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally (⭐ 3461, week of 2026-10-26)
 - [`JoasASantos/REA-Prompts`](../repos/joasasantos--rea-prompts.md) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program (⭐ 2601, week of 2026-10-26)

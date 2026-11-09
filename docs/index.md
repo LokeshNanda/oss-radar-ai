@@ -6,20 +6,20 @@ title: Open Source Weekly Radar AI
 
 AI-curated GitHub repositories with high-level insights of the top 10 repositories of the week.
 
-_Generated on 2026-11-02_
+_Generated on 2026-11-09_
 
 ## Latest repositories
 
-- [`deepseek-ai/dsh-superagent-prototype`](repos/deepseek-ai--dsh-superagent-prototype.md) — Towards a More Autonomous Agent System
-- [`heydamir/unslop`](repos/heydamir--unslop.md) — A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-- [`anhao/ai-pose-gallery-zh`](repos/anhao--ai-pose-gallery-zh.md) — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-- [`wangzan101/Mika`](repos/wangzan101--mika.md) — An on-device AI agent for Android that operates apps and the web to get things done for you.
-- [`valentderah/totk-pc-recomp`](repos/valentderah--totk-pc-recomp.md) — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
-- [`patch-gg/pixelfx`](repos/patch-gg--pixelfx.md) — 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
-- [`storytold/craft-anything`](repos/storytold--craft-anything.md) — Craft Anything: understand how any software works, and craft your own.
-- [`Djihads80/Eglantine`](repos/djihads80--eglantine.md) — VERY experimental Nintendo Switch 2 emulator
-- [`haydenschmitty/floorplan`](repos/haydenschmitty--floorplan.md) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
-- [`paipiange/nvzhuang`](repos/paipiange--nvzhuang.md) — 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+- [`Minireel/HGhub`](repos/minireel--hghub.md) — YellowFruit third-party client
+- [`KKKKhazix/agent-autoloop`](repos/kkkkhazix--agent-autoloop.md) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+- [`NotRexed/Hookshot`](repos/notrexed--hookshot.md) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+- [`govijr/terminal-mac`](repos/govijr--terminal-mac.md) — Entire MacOS running in your terminal.
+- [`tangerineturtle1/NX2navi`](repos/tangerineturtle1--nx2navi.md)
+- [`JenkinWoo/sheeridVerify`](repos/jenkinwoo--sheeridverify.md)
+- [`sarpstar/cinecode`](repos/sarpstar--cinecode.md) — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
+- [`Sandflow-ai/sand3d`](repos/sandflow-ai--sand3d.md) — 3D modeling in Python, built for LLMs.
+- [`Leviidev/Henge`](repos/leviidev--henge.md) — Emulate macOS on iOS and iPadOS
+- [`jhaizhou-ops/S2Arm`](repos/jhaizhou-ops--s2arm.md) — Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
 
 [Subscribe via RSS](feed.xml) · [JSON API](api/latest.json)
 

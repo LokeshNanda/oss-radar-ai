@@ -16,18 +16,18 @@ Every Monday, this project finds the most-starred repositories created on GitHub
 ## 📡 This week's radar
 
 <!-- RADAR:START -->
-_Week of 2026-11-02_
+_Week of 2026-11-09_
 
-- [`deepseek-ai/dsh-superagent-prototype`](https://github.com/deepseek-ai/dsh-superagent-prototype) — Towards a More Autonomous Agent System ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/deepseek-ai--dsh-superagent-prototype/))
-- [`heydamir/unslop`](https://github.com/heydamir/unslop) — A Claude skill that turns vibecoded, AI-looking UI into a designed interface ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/heydamir--unslop/))
-- [`anhao/ai-pose-gallery-zh`](https://github.com/anhao/ai-pose-gallery-zh) — 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/anhao--ai-pose-gallery-zh/))
-- [`wangzan101/Mika`](https://github.com/wangzan101/Mika) — An on-device AI agent for Android that operates apps and the web to get things done for you. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/wangzan101--mika/))
-- [`valentderah/totk-pc-recomp`](https://github.com/valentderah/totk-pc-recomp) — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/valentderah--totk-pc-recomp/))
-- [`patch-gg/pixelfx`](https://github.com/patch-gg/pixelfx) — 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/patch-gg--pixelfx/))
-- [`storytold/craft-anything`](https://github.com/storytold/craft-anything) — Craft Anything: understand how any software works, and craft your own. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/storytold--craft-anything/))
-- [`Djihads80/Eglantine`](https://github.com/Djihads80/Eglantine) — VERY experimental Nintendo Switch 2 emulator ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/djihads80--eglantine/))
-- [`haydenschmitty/floorplan`](https://github.com/haydenschmitty/floorplan) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/haydenschmitty--floorplan/))
-- [`paipiange/nvzhuang`](https://github.com/paipiange/nvzhuang) — 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/paipiange--nvzhuang/))
+- [`Minireel/HGhub`](https://github.com/Minireel/HGhub) — YellowFruit third-party client ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/minireel--hghub/))
+- [`KKKKhazix/agent-autoloop`](https://github.com/KKKKhazix/agent-autoloop) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/kkkkhazix--agent-autoloop/))
+- [`NotRexed/Hookshot`](https://github.com/NotRexed/Hookshot) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/notrexed--hookshot/))
+- [`govijr/terminal-mac`](https://github.com/govijr/terminal-mac) — Entire MacOS running in your terminal. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/govijr--terminal-mac/))
+- [`tangerineturtle1/NX2navi`](https://github.com/tangerineturtle1/NX2navi) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/tangerineturtle1--nx2navi/))
+- [`JenkinWoo/sheeridVerify`](https://github.com/JenkinWoo/sheeridVerify) ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jenkinwoo--sheeridverify/))
+- [`sarpstar/cinecode`](https://github.com/sarpstar/cinecode) — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sarpstar--cinecode/))
+- [`Sandflow-ai/sand3d`](https://github.com/Sandflow-ai/sand3d) — 3D modeling in Python, built for LLMs. ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/sandflow-ai--sand3d/))
+- [`Leviidev/Henge`](https://github.com/Leviidev/Henge) — Emulate macOS on iOS and iPadOS ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/leviidev--henge/))
+- [`jhaizhou-ops/S2Arm`](https://github.com/jhaizhou-ops/S2Arm) — Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。 ([analysis](https://lokeshnanda.github.io/oss-radar-ai/repos/jhaizhou-ops--s2arm/))
 <!-- RADAR:END -->
 
 ---
