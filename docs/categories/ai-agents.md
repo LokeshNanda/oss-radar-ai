@@ -4,6 +4,11 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`apex-compute/ANR`](../repos/apex-compute--anr.md) — Apex Neural Rendering (ANR) by Apex Compute (⭐ 2383, week of 2026-11-16)
+- [`hitkeeen/blender-ai-mcp-addon`](../repos/hitkeeen--blender-ai-mcp-addon.md) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (⭐ 1929, week of 2026-11-16)
+- [`FrigadeHQ/yogurt`](../repos/frigadehq--yogurt.md) — Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. (⭐ 1777, week of 2026-11-16)
+- [`HybridRobotics/supermimic`](../repos/hybridrobotics--supermimic.md) — Humanoid whole-body motion tracking with one differentiable world model. (⭐ 1644, week of 2026-11-16)
+- [`agentes-chat/agentes-chat`](../repos/agentes-chat--agentes-chat.md) — Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0. (⭐ 1595, week of 2026-11-16)
 - [`KKKKhazix/agent-autoloop`](../repos/kkkkhazix--agent-autoloop.md) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 (⭐ 4245, week of 2026-11-09)
 - [`sarpstar/cinecode`](../repos/sarpstar--cinecode.md) — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. (⭐ 1823, week of 2026-11-09)
 - [`deepseek-ai/dsh-superagent-prototype`](../repos/deepseek-ai--dsh-superagent-prototype.md) — Towards a More Autonomous Agent System (⭐ 11592, week of 2026-11-02)

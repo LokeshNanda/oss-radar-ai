@@ -4,6 +4,9 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`huamidev/GestaltX`](../repos/huamidev--gestaltx.md) — An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. (⭐ 7827, week of 2026-11-16)
+- [`Kianuni/Erosion-CN`](../repos/kianuni--erosion-cn.md) — iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH) (⭐ 2177, week of 2026-11-16)
+- [`duwqijlk/muse-protocol`](../repos/duwqijlk--muse-protocol.md) — muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） (⭐ 1347, week of 2026-11-16)
 - [`govijr/terminal-mac`](../repos/govijr--terminal-mac.md) — Entire MacOS running in your terminal. (⭐ 2470, week of 2026-11-09)
 - [`JenkinWoo/sheeridVerify`](../repos/jenkinwoo--sheeridverify.md) (⭐ 1905, week of 2026-11-09)
 - [`Sandflow-ai/sand3d`](../repos/sandflow-ai--sand3d.md) — 3D modeling in Python, built for LLMs. (⭐ 1562, week of 2026-11-09)
