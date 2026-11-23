@@ -4,6 +4,9 @@ title: AI & Agents
 
 # AI & Agents
 
+- [`bookwjitchieni1986/blender-ai-mcp-addon`](../repos/bookwjitchieni1986--blender-ai-mcp-addon.md) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (⭐ 2763, week of 2026-11-23)
+- [`iamajmeena/neonclipping`](../repos/iamajmeena--neonclipping.md) — Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM). (⭐ 2265, week of 2026-11-23)
+- [`sybil-solutions/inference-optimisation-skill`](../repos/sybil-solutions--inference-optimisation-skill.md) — Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization (⭐ 2080, week of 2026-11-23)
 - [`apex-compute/ANR`](../repos/apex-compute--anr.md) — Apex Neural Rendering (ANR) by Apex Compute (⭐ 2383, week of 2026-11-16)
 - [`hitkeeen/blender-ai-mcp-addon`](../repos/hitkeeen--blender-ai-mcp-addon.md) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration. (⭐ 1929, week of 2026-11-16)
 - [`FrigadeHQ/yogurt`](../repos/frigadehq--yogurt.md) — Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux. (⭐ 1777, week of 2026-11-16)

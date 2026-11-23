@@ -4,6 +4,9 @@ title: Other
 
 # Other
 
+- [`ItsNotRexed/Leonida`](../repos/itsnotrexed--leonida.md) — Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 (⭐ 22827, week of 2026-11-23)
+- [`omonkeyz/xbox-emulator`](../repos/omonkeyz--xbox-emulator.md) — Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9) (⭐ 1535, week of 2026-11-23)
+- [`Lemxy/WinRust`](../repos/lemxy--winrust.md) — Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe. (⭐ 1336, week of 2026-11-23)
 - [`Minireel/HGhub`](../repos/minireel--hghub.md) — YellowFruit third-party client (⭐ 5077, week of 2026-11-09)
 - [`NotRexed/Hookshot`](../repos/notrexed--hookshot.md) — A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake (⭐ 3984, week of 2026-11-09)
 - [`tangerineturtle1/NX2navi`](../repos/tangerineturtle1--nx2navi.md) (⭐ 1926, week of 2026-11-09)

@@ -4,6 +4,10 @@ title: Developer Tools
 
 # Developer Tools
 
+- [`erkamyaman/rust-anything`](../repos/erkamyaman--rust-anything.md) — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (⭐ 8568, week of 2026-11-23)
+- [`EL4CTEO/fast-anything`](../repos/el4cteo--fast-anything.md) — Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same. (⭐ 2902, week of 2026-11-23)
+- [`R0Y00/Xbox2Windows`](../repos/r0y00--xbox2windows.md) — Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified. (⭐ 1417, week of 2026-11-23)
+- [`AFK-surf/xnulinux`](../repos/afk-surf--xnulinux.md) — XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) (⭐ 1326, week of 2026-11-23)
 - [`huamidev/GestaltX`](../repos/huamidev--gestaltx.md) — An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups. (⭐ 7827, week of 2026-11-16)
 - [`Kianuni/Erosion-CN`](../repos/kianuni--erosion-cn.md) — iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH) (⭐ 2177, week of 2026-11-16)
 - [`duwqijlk/muse-protocol`](../repos/duwqijlk--muse-protocol.md) — muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） (⭐ 1347, week of 2026-11-16)
